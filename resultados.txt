@@ -1,0 +1,2029 @@
+Concepto: Gelatina
+Definción: Postre elaborado con agua, puede ser de diversos sabores. Este postre es recomendado para que los enfermos lo consuman.
+-- FRECUENCIA -- 
+[('gelatina', 8.322112351845594e-07), ('tienda', 6.102882391353436e-07), ('mano', 4.993267411107356e-07), ('dulce', 3.883652430861277e-07), ('galleta', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('policía', 4.993267411107356e-07), ('tienda', 4.3267278570012044e-07), ('gelatina', 4.161056175922797e-07), ('mamá', 3.606248685799758e-07), ('fresa', 2.342520513852834e-07)]
+-- ASOCIACIÓN -- 
+[('gelatina', 7.212497371599516e-07), ('tienda', 6.102882391353436e-07), ('mano', 3.883652430861277e-07), ('dulce', 3.883652430861277e-07), ('galleta', 1.664422470369119e-07)]
+Definción: La que se hace con agua y cuaja
+-- FRECUENCIA -- 
+[('gelatina', 1.3315379762952952e-06), ('tienda', 7.767304861722554e-07), ('mano', 6.657689881476476e-07), ('plastilina', 6.102882391353436e-07), ('dulce', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('policía', 6.102882391353436e-07), ('tienda', 5.713746582308803e-07), ('burbuja', 4.5771617935150767e-07), ('fresa', 4.561750474344992e-07), ('mamá', 4.438459920984317e-07)]
+-- ASOCIACIÓN -- 
+[('gelatina', 1.0541342312337753e-06), ('tienda', 7.767304861722554e-07), ('mano', 5.548074901230396e-07), ('dulce', 4.438459920984317e-07), ('plastilina', 3.883652430861277e-07)]
+Definción: Sus sabores son de frutas y nunca faltan en los cumpleaños
+-- FRECUENCIA -- 
+[('gelatina', 2.3301914585167666e-06), ('tienda', 1.0541342312337753e-06), ('plastilina', 7.767304861722554e-07), ('mano', 7.212497371599516e-07), ('dulce', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('gelatina', 1.0818746057399272e-06), ('tienda', 8.210380287862482e-07), ('policía', 7.767304861722554e-07), ('fresa', 6.226172944714111e-07), ('mamá', 5.548074901230396e-07)]
+-- ASOCIACIÓN -- 
+[('gelatina', 1.8308647174060307e-06), ('tienda', 1.0541342312337753e-06), ('dulce', 6.102882391353436e-07), ('mano', 5.548074901230396e-07), ('plastilina', 4.993267411107356e-07)]
+Definción: Postre de sabores a base de agua que se deja cuajar
+-- FRECUENCIA -- 
+[('gelatina', 2.995960446664414e-06), ('tienda', 1.2205764782706872e-06), ('plastilina', 8.876919841968634e-07), ('mano', 8.876919841968634e-07), ('dulce', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('gelatina', 1.3176677890422191e-06), ('tienda', 9.874802758231602e-07), ('policía', 8.876919841968634e-07), ('fresa', 8.507048181886607e-07), ('manzana', 6.657689881476477e-07)]
+-- ASOCIACIÓN -- 
+[('gelatina', 2.3301914585167666e-06), ('tienda', 1.2205764782706872e-06), ('dulce', 7.767304861722554e-07), ('mano', 6.657689881476476e-07), ('plastilina', 5.548074901230396e-07)]
+Definción: el postre viscoso que dan en las fiestas
+-- FRECUENCIA -- 
+[('gelatina', 5.381632654193485e-06), ('tienda', 1.608941721356815e-06), ('dulce', 1.3315379762952952e-06), ('plastilina', 1.276057227282991e-06), ('juguete', 1.1096149802460792e-06)]
+-- TIEMPO -- 
+[('gelatina', 2.2747107095044625e-06), ('tienda', 1.320750052876236e-06), ('policía', 1.1956101412151505e-06), ('fresa', 1.0233115928936063e-06), ('pastel', 8.876919841968634e-07)]
+-- ASOCIACIÓN -- 
+[('gelatina', 4.327498422959709e-06), ('tienda', 1.608941721356815e-06), ('dulce', 1.4424994743199031e-06), ('plastilina', 8.322112351845594e-07), ('pastel', 8.322112351845594e-07)]
+Concepto: Ejote
+Definción: verdura verde larga parecida a los chícharos
+-- FRECUENCIA -- 
+[('ejote', 3.328844940738238e-07), ('planta', 1.664422470369119e-07), ('calabaza', 1.1096149802460793e-07), ('pelo', 1.1096149802460793e-07), ('pie', 5.548074901230396e-08)]
+-- TIEMPO -- 
+[('ejote', 2.9127393231459583e-07), ('planta', 1.9418262154306386e-07), ('hipopótamo', 8.322112351845595e-08), ('mercado', 7.397433201640528e-08), ('pie', 6.935093626537995e-08)]
+-- ASOCIACIÓN -- 
+[('ejote', 4.438459920984317e-07), ('planta', 2.774037450615198e-07), ('pie', 5.548074901230396e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Unas verduras de la cual se prepara con huevo, es larga y verde.
+-- FRECUENCIA -- 
+[('ejote', 7.212497371599516e-07), ('mantequilla', 7.212497371599516e-07), ('calabaza', 3.883652430861277e-07), ('planta', 3.051441195676718e-07), ('comida', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('mantequilla', 6.847762817907517e-07), ('ejote', 6.25314275326176e-07), ('planta', 5.917946561312423e-07), ('pantalón', 3.051441195676718e-07), ('muñeco de nieve', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('ejote', 1.4424994743199031e-06), ('mantequilla', 7.212497371599516e-07), ('planta', 5.270671156168877e-07), ('comida', 2.774037450615198e-07), ('espagueti', 2.496633705553678e-07)]
+Definción: verdura de color verde que se compone de una vaina
+-- FRECUENCIA -- 
+[('ejote', 9.431727332091674e-07), ('mantequilla', 9.431727332091674e-07), ('calabaza', 5.548074901230396e-07), ('planta', 3.606248685799758e-07), ('comida', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.7661371768916761e-06), ('mantequilla', 9.251928608440687e-07), ('ejote', 8.194968968692398e-07), ('planta', 7.767304861722555e-07), ('muñeco de nieve', 7.489901116661035e-07)]
+-- ASOCIACIÓN -- 
+[('ejote', 1.941826215430639e-06), ('mantequilla', 9.431727332091674e-07), ('planta', 6.380286136414955e-07), ('comida', 3.328844940738238e-07), ('zanahoria', 3.328844940738238e-07)]
+Definción: verdura larga pequeña verde
+-- FRECUENCIA -- 
+[('ejote', 1.2205764782706872e-06), ('mantequilla', 1.2205764782706872e-06), ('calabaza', 7.212497371599516e-07), ('planta', 4.993267411107356e-07), ('comida', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('cubeta', 2.3486850415208676e-06), ('mantequilla', 1.2025966059055885e-06), ('muñeco de nieve', 1.1835893122624845e-06), ('ejote', 1.0425757418562118e-06), ('planta', 1.0171470652255728e-06)]
+-- ASOCIACIÓN -- 
+[('ejote', 2.4966337055536785e-06), ('mantequilla', 1.2205764782706872e-06), ('planta', 8.876919841968634e-07), ('comida', 3.883652430861277e-07), ('zanahoria', 3.883652430861277e-07)]
+Definción: es una vaina verde
+-- FRECUENCIA -- 
+[('ejote', 1.276057227282991e-06), ('mantequilla', 1.276057227282991e-06), ('calabaza', 7.767304861722554e-07), ('planta', 4.993267411107356e-07), ('pelo', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('cubeta', 2.5706080375700835e-06), ('muñeco de nieve', 1.3407847677973456e-06), ('mantequilla', 1.2580773549178924e-06), ('ejote', 1.0980564908685159e-06), ('planta', 1.0726278142378767e-06)]
+-- ASOCIACIÓN -- 
+[('ejote', 2.6630759525905903e-06), ('mantequilla', 1.276057227282991e-06), ('planta', 9.431727332091674e-07), ('comida', 3.883652430861277e-07), ('zanahoria', 3.883652430861277e-07)]
+Concepto: Lavadora
+Definción: El aparato doméstico para lavar ropa
+-- FRECUENCIA -- 
+[('mano', 2.2192299604921585e-07), ('lavadora', 1.1096149802460793e-07), ('lavabo', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('bat', 1.803124342899879e-07), ('lavadora', 1.1096149802460793e-07), ('fuego', 1.1096149802460793e-07), ('guante', 1.1096149802460793e-07), ('palo', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('mano', 2.2192299604921585e-07), ('lavadora', 1.1096149802460793e-07), ('lavabo', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Artefacto donde metes a lavar/ limpiar tu ropa
+-- FRECUENCIA -- 
+[('mano', 4.438459920984317e-07), ('silla', 3.883652430861277e-07), ('lavadora', 3.883652430861277e-07), ('gato', 3.051441195676718e-07), ('piedra', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('bat', 5.686776773761156e-07), ('silla', 5.623205082184559e-07), ('caja', 5.340022092434257e-07), ('comida', 5.131969283638117e-07), ('cocina', 2.9589732806562106e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 4.438459920984317e-07), ('silla', 3.883652430861277e-07), ('lavadora', 3.883652430861277e-07), ('cajón', 3.328844940738238e-07), ('piedra', 2.774037450615198e-07)]
+Definción: lavar
+-- FRECUENCIA -- 
+[('mano', 4.993267411107356e-07), ('lavadora', 4.438459920984317e-07), ('silla', 3.883652430861277e-07), ('piedra', 3.328844940738238e-07), ('gato', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('bat', 6.241584263884196e-07), ('silla', 6.178012572307598e-07), ('caja', 5.894829582557296e-07), ('comida', 5.686776773761156e-07), ('guante', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 4.993267411107356e-07), ('lavadora', 4.438459920984317e-07), ('silla', 3.883652430861277e-07), ('cajón', 3.883652430861277e-07), ('piedra', 3.328844940738238e-07)]
+Definción: donde se lava la ropa
+-- FRECUENCIA -- 
+[('lavadora', 6.102882391353436e-07), ('mano', 6.102882391353436e-07), ('silla', 4.438459920984317e-07), ('piedra', 3.883652430861277e-07), ('guante', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('bat', 7.351199244130275e-07), ('silla', 7.287627552553677e-07), ('caja', 7.004444562803375e-07), ('comida', 6.796391754007235e-07), ('dientes', 4.06858826090229e-07)]
+-- ASOCIACIÓN -- 
+[('lavadora', 6.102882391353436e-07), ('mano', 6.102882391353436e-07), ('cajón', 4.993267411107356e-07), ('silla', 4.438459920984317e-07), ('piedra', 3.883652430861277e-07)]
+Definción: Ropa
+-- FRECUENCIA -- 
+[('lavadora', 7.212497371599516e-07), ('mano', 6.657689881476476e-07), ('silla', 4.993267411107356e-07), ('cajón', 4.161056175922797e-07), ('piedra', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('bat', 7.906006734253315e-07), ('silla', 7.842435042676717e-07), ('caja', 7.559252052926415e-07), ('comida', 7.351199244130275e-07), ('lavadora', 4.438459920984317e-07)]
+-- ASOCIACIÓN -- 
+[('lavadora', 7.212497371599516e-07), ('mano', 6.657689881476476e-07), ('cajón', 5.548074901230396e-07), ('silla', 4.993267411107356e-07), ('piedra', 3.883652430861277e-07)]
+Concepto: Hamburguesa
+Definción: comida rica que lleva carne entre dos panes, lechuga, jitomate, queso y catsup
+-- FRECUENCIA -- 
+[('canasta', 7.767304861722554e-07), ('hamburguesa', 5.548074901230396e-07), ('comida', 4.438459920984317e-07), ('torta', 4.438459920984317e-07), ('papa', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('hamburguesa', 7.073795499068755e-07), ('autobús', 6.657689881476476e-07), ('torta', 5.964180518822676e-07), ('elote', 4.0223543033920374e-07), ('pan', 3.883652430861277e-07)]
+-- ASOCIACIÓN -- 
+[('hamburguesa', 1.6644224703691188e-06), ('canasta', 6.657689881476476e-07), ('comida', 5.548074901230396e-07), ('salchicha', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07)]
+Definción: Tiene carne, lechuga, tomate con tapa y base de pan.
+-- FRECUENCIA -- 
+[('botas', 1.387018725307599e-06), ('canasta', 1.1096149802460792e-06), ('comida', 9.986534822214713e-07), ('papa', 8.876919841968634e-07), ('espagueti', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('botas', 1.1113487536527138e-06), ('torta', 1.1100002632253313e-06), ('dinero', 1.0680044184868514e-06), ('hamburguesa', 1.0589502684744267e-06), ('autobús', 1.0541342312337753e-06)]
+-- ASOCIACIÓN -- 
+[('hamburguesa', 2.3856722075290703e-06), ('botas', 1.387018725307599e-06), ('comida', 1.2205764782706872e-06), ('canasta', 9.986534822214713e-07), ('mesa', 6.657689881476476e-07)]
+Definción: alimento compuesto de dos panes y carne en la parte central, lleva lechuga, jitomate, pepinillos y cebolla.
+-- FRECUENCIA -- 
+[('hamburguesa', 2.3856722075290703e-06), ('canasta', 2.1082684624675507e-06), ('botas', 1.9973069644429425e-06), ('comida', 1.4424994743199031e-06), ('papa', 1.1650957292583833e-06)]
+-- TIEMPO -- 
+[('hamburguesa', 2.0637682783639315e-06), ('torta', 1.8314426418749087e-06), ('autobús', 1.719903219381423e-06), ('botas', 1.6938966182819053e-06), ('jabón', 1.6064373819916763e-06)]
+-- ASOCIACIÓN -- 
+[('hamburguesa', 4.660382917033533e-06), ('botas', 1.9973069644429425e-06), ('canasta', 1.941826215430639e-06), ('comida', 1.719903219381423e-06), ('mesa', 8.876919841968634e-07)]
+Definción: comida estadounidense que tiene pan y carne
+-- FRECUENCIA -- 
+[('hamburguesa', 2.6630759525905903e-06), ('canasta', 2.2747107095044625e-06), ('botas', 2.1637492114798544e-06), ('comida', 1.7753839683937268e-06), ('espagueti', 1.3315379762952952e-06)]
+-- TIEMPO -- 
+[('hamburguesa', 2.2302105254008437e-06), ('torta', 1.9978848889118206e-06), ('autobús', 1.8863454664183348e-06), ('botas', 1.8603388653188173e-06), ('dinero', 1.7753839683937268e-06)]
+-- ASOCIACIÓN -- 
+[('hamburguesa', 5.2151904071565724e-06), ('botas', 2.1637492114798544e-06), ('canasta', 2.1082684624675507e-06), ('comida', 2.0527877134552466e-06), ('mesa', 1.0541342312337753e-06)]
+Definción: comida chatarra que se sirve con pan
+-- FRECUENCIA -- 
+[('hamburguesa', 3.1069219446890217e-06), ('canasta', 2.718556701602894e-06), ('botas', 2.4966337055536785e-06), ('comida', 2.4411529565413744e-06), ('papa', 2.1637492114798544e-06)]
+-- TIEMPO -- 
+[('hamburguesa', 4.047205055553799e-06), ('torta', 2.6638465185490944e-06), ('autobús', 2.2747107095044625e-06), ('botas', 2.137742610380337e-06), ('dinero', 2.1360088369737027e-06)]
+-- ASOCIACIÓN -- 
+[('hamburguesa', 6.657689881476475e-06), ('comida', 2.718556701602894e-06), ('canasta', 2.552114454565982e-06), ('botas', 2.4966337055536785e-06), ('mesa', 1.276057227282991e-06)]
+Concepto: Cebra
+Definción: El animal que parece caballo y tiene rayas blancas y negras
+-- FRECUENCIA -- 
+[('cebra', 4.438459920984317e-07), ('camisa', 1.1096149802460793e-07), ('ganso', 1.1096149802460793e-07), ('mono', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('carne', 2.4735167267985514e-07), ('cocodrilo', 2.2192299604921585e-07), ('elefante', 1.1096149802460793e-07), ('playera', 1.1096149802460793e-07), ('guajolote', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('cebra', 4.438459920984317e-07), ('oso', 1.1096149802460793e-07), ('camisa', 1.1096149802460793e-07), ('ganso', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Un animal que parece caballo pero con rayas
+-- FRECUENCIA -- 
+[('cebra', 7.767304861722554e-07), ('ganso', 1.664422470369119e-07), ('mono', 1.664422470369119e-07), ('camisa', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('cocodrilo', 4.438459920984317e-07), ('carne', 4.3922259634740636e-07), ('elefante', 1.664422470369119e-07), ('playera', 1.664422470369119e-07), ('guajolote', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('cebra', 7.767304861722554e-07), ('oso', 1.664422470369119e-07), ('ganso', 1.664422470369119e-07), ('camisa', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: equino
+-- FRECUENCIA -- 
+[('cebra', 9.431727332091674e-07), ('caballo', 5.548074901230396e-07), ('ganso', 1.664422470369119e-07), ('mono', 1.664422470369119e-07), ('camisa', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cocodrilo', 7.767304861722554e-07), ('carne', 5.316905113679129e-07), ('caballo', 4.461576899739443e-07), ('elefante', 1.664422470369119e-07), ('playera', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('cebra', 9.431727332091674e-07), ('caballo', 5.548074901230396e-07), ('oso', 1.664422470369119e-07), ('ganso', 1.664422470369119e-07), ('camisa', 1.1096149802460793e-07)]
+Definción: el animal con rayas blancas y negras
+-- FRECUENCIA -- 
+[('cebra', 1.387018725307599e-06), ('caballo', 7.767304861722554e-07), ('ganso', 2.774037450615198e-07), ('mono', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('cocodrilo', 9.986534822214713e-07), ('carne', 7.420550180395654e-07), ('caballo', 6.680806860231601e-07), ('elefante', 2.774037450615198e-07), ('playera', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('cebra', 1.387018725307599e-06), ('caballo', 7.767304861722554e-07), ('oso', 2.774037450615198e-07), ('ganso', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07)]
+Definción: Burro
+-- FRECUENCIA -- 
+[('cebra', 1.608941721356815e-06), ('caballo', 1.0541342312337753e-06), ('ganso', 2.774037450615198e-07), ('mono', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('cocodrilo', 9.986534822214713e-07), ('carne', 8.391463288110973e-07), ('caballo', 7.304965286620021e-07), ('elefante', 2.774037450615198e-07), ('playera', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('cebra', 1.608941721356815e-06), ('caballo', 1.0541342312337753e-06), ('oso', 2.774037450615198e-07), ('ganso', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07)]
+Concepto: Falda
+Definción: La prenda de ropa que usan, a veces, las mujeres en vez del pantalón
+-- FRECUENCIA -- 
+[('camisa', 2.2192299604921585e-07), ('pantalón', 2.2192299604921585e-07), ('vestido', 2.2192299604921585e-07), ('calzón', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('zapato', 2.6353355780844384e-07), ('bufanda', 1.9418262154306386e-07), ('arete', 1.248316852776839e-07), ('suéter', 1.1096149802460793e-07), ('cocina', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('camisa', 2.2192299604921585e-07), ('falda', 2.2192299604921585e-07), ('calzón', 1.1096149802460793e-07), ('pantalón', 1.1096149802460793e-07), ('vestido', 1.1096149802460793e-07)]
+Definción: Es como un short pero sin lo de enmedio de las piernas
+-- FRECUENCIA -- 
+[('pantalón', 4.438459920984317e-07), ('vestido', 3.328844940738238e-07), ('camisa', 2.2192299604921585e-07), ('calzón', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('falda', 3.606248685799758e-07), ('zapato', 3.328844940738238e-07), ('bufanda', 1.9418262154306386e-07), ('nalga', 1.664422470369119e-07), ('arete', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('falda', 5.548074901230396e-07), ('camisa', 2.2192299604921585e-07), ('calzón', 2.2192299604921585e-07), ('pantalón', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07)]
+Definción: ropa
+-- FRECUENCIA -- 
+[('pantalón', 5.548074901230396e-07), ('vestido', 3.883652430861277e-07), ('calzón', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('falda', 3.606248685799758e-07), ('zapato', 3.328844940738238e-07), ('bufanda', 1.9418262154306386e-07), ('nalga', 1.664422470369119e-07), ('short', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('falda', 6.102882391353436e-07), ('pantalón', 3.328844940738238e-07), ('calzón', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07)]
+Definción: tela en forma circular para mujeres
+-- FRECUENCIA -- 
+[('galleta', 1.1096149802460792e-06), ('vestido', 8.69198401192762e-07), ('plastilina', 7.212497371599516e-07), ('pantalón', 6.102882391353436e-07), ('camisa', 4.808331581066343e-07)]
+-- TIEMPO -- 
+[('galleta', 7.697953925457175e-07), ('lámpara', 7.651719967946921e-07), ('falda', 7.212497371599516e-07), ('electrodoméstico', 6.149116348863688e-07), ('zapato', 4.5771617935150767e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 1.1096149802460792e-06), ('falda', 1.1096149802460792e-06), ('plastilina', 7.212497371599516e-07), ('niño', 4.438459920984317e-07), ('plancha', 4.438459920984317e-07)]
+Definción: Ropa mujer
+-- FRECUENCIA -- 
+[('galleta', 1.2205764782706872e-06), ('vestido', 1.1466021462542817e-06), ('pantalón', 7.767304861722554e-07), ('plastilina', 7.767304861722554e-07), ('plancha', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('galleta', 8.807568905703254e-07), ('lámpara', 8.761334948193e-07), ('falda', 7.767304861722554e-07), ('electrodoméstico', 7.258731329109768e-07), ('abrigo', 5.131969283638117e-07)]
+-- ASOCIACIÓN -- 
+[('falda', 1.4424994743199031e-06), ('galleta', 1.2205764782706872e-06), ('plastilina', 7.767304861722554e-07), ('plancha', 5.548074901230396e-07), ('niño', 4.438459920984317e-07)]
+Concepto: Pantalón
+Definción: Ropa de vestir que generalmente está elaborado con mezclilla aunque puede ser hecho con otros materiales y es utilizado en su mayoría por hombres
+-- FRECUENCIA -- 
+[('pantalón', 7.767304861722554e-07), ('camión', 6.657689881476476e-07), ('niño', 5.548074901230396e-07), ('plastilina', 4.438459920984317e-07), ('mano', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('policía', 6.241584263884196e-07), ('falda', 5.964180518822676e-07), ('camión', 5.594308858740648e-07), ('gorra', 4.068588260902291e-07), ('plastilina', 3.7449505583305175e-07)]
+-- ASOCIACIÓN -- 
+[('pantalón', 7.767304861722554e-07), ('niño', 5.548074901230396e-07), ('camión', 5.548074901230396e-07), ('plastilina', 4.438459920984317e-07), ('dinero', 3.328844940738238e-07)]
+Definción: la prenda de ropa que es de mezclilla
+-- FRECUENCIA -- 
+[('pantalón', 1.6644224703691188e-06), ('camión', 8.876919841968634e-07), ('niño', 6.102882391353436e-07), ('plastilina', 6.102882391353436e-07), ('camisa', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('falda', 1.0818746057399272e-06), ('policía', 8.460814224376354e-07), ('gorra', 8.137176521804582e-07), ('camión', 7.813538819232808e-07), ('plastilina', 5.131969283638117e-07)]
+-- ASOCIACIÓN -- 
+[('pantalón', 1.6644224703691188e-06), ('camión', 7.212497371599516e-07), ('niño', 6.102882391353436e-07), ('plastilina', 6.102882391353436e-07), ('dinero', 5.548074901230396e-07)]
+Definción: prenda de vestir que se ajusta en la cintura y en las piernas
+-- FRECUENCIA -- 
+[('pantalón', 4.133315801416645e-06), ('camión', 1.387018725307599e-06), ('falda', 1.387018725307599e-06), ('niño', 9.986534822214713e-07), ('botón', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('falda', 5.2706711561688765e-06), ('pantalón', 2.2885808967575386e-06), ('policía', 1.2806806230340164e-06), ('camión', 1.071240795512569e-06), ('gorra', 9.431727332091674e-07)]
+-- ASOCIACIÓN -- 
+[('pantalón', 3.828171681848974e-06), ('falda', 1.6644224703691188e-06), ('botón', 1.1650957292583833e-06), ('niño', 1.1096149802460792e-06), ('camión', 1.1096149802460792e-06)]
+Definción: Ropa que cubre de manera independiente las dos piernas y llega a los tobillos.
+-- FRECUENCIA -- 
+[('pantalón', 5.437113403205788e-06), ('calzón', 2.2192299604921584e-06), ('camión', 1.719903219381423e-06), ('falda', 1.719903219381423e-06), ('niño', 1.1096149802460792e-06)]
+-- TIEMPO -- 
+[('falda', 6.935093626537995e-06), ('pantalón', 2.94047969765211e-06), ('calzón', 2.1914895859860064e-06), ('policía', 1.5858247426016883e-06), ('camión', 1.3578913320761396e-06)]
+-- ASOCIACIÓN -- 
+[('pantalón', 5.04874816011966e-06), ('calzón', 2.1082684624675507e-06), ('falda', 2.1082684624675507e-06), ('botón', 1.497980223332207e-06), ('camión', 1.276057227282991e-06)]
+Definción: prende de vestir para cubrir las piernas.
+-- FRECUENCIA -- 
+[('pantalón', 6.2138438893780435e-06), ('calzón', 2.6630759525905903e-06), ('camión', 1.941826215430639e-06), ('falda', 1.941826215430639e-06), ('botón', 1.5534609723445109e-06)]
+-- TIEMPO -- 
+[('falda', 8.211150853820986e-06), ('pantalón', 3.5368977495343776e-06), ('calzón', 2.4688933310475264e-06), ('policía', 1.8077477386509038e-06), ('camión', 1.5798143281253554e-06)]
+-- ASOCIACIÓN -- 
+[('pantalón', 5.714517148267308e-06), ('calzón', 2.4966337055536785e-06), ('falda', 2.4966337055536785e-06), ('botón', 2.2747107095044625e-06), ('camión', 1.4424994743199031e-06)]
+Concepto: Barco
+Definción: Un medio de transporte que navega por el mar
+-- FRECUENCIA -- 
+[('barco', 3.328844940738238e-07), ('autobús', 1.1096149802460793e-07), ('naranja', 1.1096149802460793e-07), ('computadora', 1.1096149802460793e-07), ('agua', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('barco', 4.808331581066344e-07), ('cubeta', 2.2192299604921585e-07), ('televisión', 2.2192299604921585e-07), ('color', 1.664422470369119e-07), ('ruta', 1.4794866403281058e-07)]
+-- ASOCIACIÓN -- 
+[('barco', 3.328844940738238e-07), ('autobús', 1.1096149802460793e-07), ('naranja', 1.1096149802460793e-07), ('computadora', 1.1096149802460793e-07), ('agua', 1.1096149802460793e-07)]
+Definción: Donde van las personas en el mar
+-- FRECUENCIA -- 
+[('barco', 6.657689881476476e-07), ('agua', 4.438459920984317e-07), ('globo', 3.883652430861277e-07), ('naranja', 2.774037450615198e-07), ('playera', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('barco', 7.859772776743062e-07), ('globo', 5.825478646291917e-07), ('televisión', 4.2997580484535573e-07), ('estrella', 2.774037450615198e-07), ('ojo', 2.496633705553678e-07)]
+-- ASOCIACIÓN -- 
+[('barco', 6.657689881476476e-07), ('agua', 5.548074901230396e-07), ('globo', 3.883652430861277e-07), ('naranja', 2.774037450615198e-07), ('patín', 2.2192299604921585e-07)]
+Definción: zarpar
+-- FRECUENCIA -- 
+[('barco', 1.387018725307599e-06), ('agua', 6.657689881476476e-07), ('globo', 4.993267411107356e-07), ('naranja', 3.883652430861277e-07), ('playera', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('barco', 1.4424994743199031e-06), ('globo', 6.935093626537995e-07), ('televisión', 4.993267411107356e-07), ('cubeta', 3.328844940738238e-07), ('color', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('barco', 1.387018725307599e-06), ('agua', 8.876919841968634e-07), ('globo', 4.993267411107356e-07), ('naranja', 3.883652430861277e-07), ('patín', 2.2192299604921585e-07)]
+Definción: balsa grande que flota en el mar
+-- FRECUENCIA -- 
+[('barco', 3.1069219446890217e-06), ('agua', 1.2205764782706872e-06), ('río', 1.1096149802460792e-06), ('globo', 1.1096149802460792e-06), ('naranja', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('barco', 3.0144540296685154e-06), ('globo', 1.1928361037645351e-06), ('río', 1.0402640439806993e-06), ('televisión', 8.460814224376354e-07), ('estrella', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('barco', 2.995960446664414e-06), ('agua', 1.3315379762952952e-06), ('río', 1.1096149802460792e-06), ('globo', 1.1096149802460792e-06), ('naranja', 5.548074901230396e-07)]
+Definción: Titanic
+-- FRECUENCIA -- 
+[('barco', 4.105575426910493e-06), ('agua', 1.3315379762952952e-06), ('río', 1.2205764782706872e-06), ('globo', 1.1096149802460792e-06), ('naranja', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('barco', 3.9761203458817845e-06), ('globo', 1.276057227282991e-06), ('río', 1.1512255420053073e-06), ('televisión', 9.154323587030153e-07), ('estrella', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('barco', 3.883652430861278e-06), ('agua', 1.3315379762952952e-06), ('río', 1.2205764782706872e-06), ('globo', 1.1096149802460792e-06), ('naranja', 5.548074901230396e-07)]
+Concepto: Queso
+Definción: Alimento elaborado con leche. Existen diferentes tipos: manchego, cotija. panela entre otros.
+-- FRECUENCIA -- 
+[('queso', 5.548074901230396e-07), ('pelo', 4.438459920984317e-07), ('torta', 2.2192299604921585e-07), ('caliente', 1.664422470369119e-07), ('ratón', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('queso', 7.212497371599516e-07), ('colores', 3.606248685799758e-07), ('vaca', 3.051441195676718e-07), ('blanco', 1.664422470369119e-07), ('comer', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('queso', 6.657689881476476e-07), ('pelo', 3.328844940738238e-07), ('ratón', 2.2192299604921585e-07), ('torta', 1.1096149802460793e-07), ('pastel', 1.1096149802460793e-07)]
+Definción: El producto que se saca de la leche de la vaca
+-- FRECUENCIA -- 
+[('queso', 1.2205764782706872e-06), ('calabaza', 8.322112351845594e-07), ('pelo', 8.322112351845594e-07), ('tienda', 7.212497371599516e-07), ('leche', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('queso', 1.4240058913158015e-06), ('calabaza', 6.940230732928023e-07), ('colores', 6.588338945211096e-07), ('alimento', 5.825478646291917e-07), ('comida', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('queso', 1.3315379762952952e-06), ('calabaza', 8.322112351845594e-07), ('mercado', 4.438459920984317e-07), ('leche', 4.438459920984317e-07), ('pelo', 4.438459920984317e-07)]
+Definción: Amarillo y con agujeros
+-- FRECUENCIA -- 
+[('queso', 1.4424994743199031e-06), ('calabaza', 9.431727332091674e-07), ('pelo', 9.431727332091674e-07), ('tienda', 8.322112351845594e-07), ('leche', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('queso', 1.6459288873650175e-06), ('calabaza', 8.049845713174103e-07), ('alimento', 7.489901116661035e-07), ('colores', 7.420550180395655e-07), ('comida', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('queso', 1.5534609723445109e-06), ('calabaza', 9.431727332091674e-07), ('leche', 5.548074901230396e-07), ('pelo', 5.548074901230396e-07), ('tienda', 4.993267411107356e-07)]
+Definción: Derivado lacteo que ponen en trampas para ratones
+-- FRECUENCIA -- 
+[('queso', 2.995960446664414e-06), ('ratón', 1.276057227282991e-06), ('calabaza', 1.276057227282991e-06), ('pelo', 1.276057227282991e-06), ('tienda', 1.0541342312337753e-06)]
+-- TIEMPO -- 
+[('queso', 2.126762045471652e-06), ('bueno', 1.1835893122624847e-06), ('calabaza', 1.0454011503707274e-06), ('comida', 9.709131077153194e-07), ('ratón', 8.69712111831765e-07)]
+-- ASOCIACIÓN -- 
+[('queso', 3.1069219446890217e-06), ('ratón', 1.497980223332207e-06), ('calabaza', 1.276057227282991e-06), ('pelo', 8.876919841968634e-07), ('comida', 6.657689881476476e-07)]
+Definción: como la crema pero sólido
+-- FRECUENCIA -- 
+[('queso', 3.5507679367874536e-06), ('ratón', 1.497980223332207e-06), ('pelo', 1.497980223332207e-06), ('calabaza', 1.387018725307599e-06), ('tienda', 1.276057227282991e-06)]
+-- TIEMPO -- 
+[('queso', 2.848011782631603e-06), ('hielo', 1.9772722495218326e-06), ('bueno', 1.1835893122624847e-06), ('calabaza', 1.0454011503707274e-06), ('ratón', 1.0099551162795333e-06)]
+-- ASOCIACIÓN -- 
+[('queso', 3.883652430861278e-06), ('ratón', 1.719903219381423e-06), ('calabaza', 1.387018725307599e-06), ('pelo', 1.1096149802460792e-06), ('hielo', 1.0541342312337753e-06)]
+Concepto: Mariposa
+Definción: Un insecto de colores vivos que vuela
+-- FRECUENCIA -- 
+[('muñeca', 3.328844940738238e-07), ('mariposa', 2.2192299604921585e-07), ('niño', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('globo', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cubeta', 6.518988008945716e-07), ('mariposa', 1.803124342899879e-07), ('planta', 1.6952451087092875e-07), ('fresa', 1.2945508102870922e-07), ('escoba', 1.2945508102870922e-07)]
+-- ASOCIACIÓN -- 
+[('mariposa', 2.2192299604921585e-07), ('crayola', 1.1096149802460793e-07), ('cama', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('bebé', 1.1096149802460793e-07)]
+Definción: Esto en lo que se convierten las orugas cuado les salen alas
+-- FRECUENCIA -- 
+[('mariposa', 1.2205764782706872e-06), ('muñeca', 4.438459920984317e-07), ('pájaro', 3.328844940738238e-07), ('playera', 3.328844940738238e-07), ('huevo', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('mariposa', 1.0402640439806993e-06), ('cubeta', 9.293025459560914e-07), ('puerta', 4.0685882609022903e-07), ('planta', 2.866505365635705e-07), ('comida', 1.9418262154306386e-07)]
+-- ASOCIACIÓN -- 
+[('mariposa', 1.1096149802460792e-06), ('pájaro', 3.328844940738238e-07), ('huevo', 2.2192299604921585e-07), ('colores', 2.2192299604921585e-07), ('muñeca', 2.2192299604921585e-07)]
+Definción: alas
+-- FRECUENCIA -- 
+[('mariposa', 1.387018725307599e-06), ('muñeca', 4.438459920984317e-07), ('pájaro', 3.883652430861277e-07), ('playera', 3.328844940738238e-07), ('huevo', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('mariposa', 1.1928361037645351e-06), ('cubeta', 9.293025459560914e-07), ('puerta', 4.6233957510253296e-07), ('planta', 3.4213128557587447e-07), ('comida', 2.496633705553678e-07)]
+-- ASOCIACIÓN -- 
+[('mariposa', 1.276057227282991e-06), ('pájaro', 3.883652430861277e-07), ('huevo', 2.774037450615198e-07), ('colores', 2.774037450615198e-07), ('muñeca', 2.2192299604921585e-07)]
+Definción: en lo que se convierten las orugas
+-- FRECUENCIA -- 
+[('mariposa', 1.719903219381423e-06), ('muñeca', 4.438459920984317e-07), ('pájaro', 3.883652430861277e-07), ('playera', 3.883652430861277e-07), ('huevo', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('mariposa', 1.456369661572979e-06), ('cubeta', 9.293025459560914e-07), ('puerta', 4.6233957510253296e-07), ('planta', 3.976120345881784e-07), ('comida', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('mariposa', 1.608941721356815e-06), ('pájaro', 3.883652430861277e-07), ('huevo', 2.774037450615198e-07), ('colores', 2.774037450615198e-07), ('muñeca', 2.2192299604921585e-07)]
+Definción: Monarca
+-- FRECUENCIA -- 
+[('mariposa', 2.4966337055536785e-06), ('muñeca', 4.438459920984317e-07), ('huevo', 3.883652430861277e-07), ('pájaro', 3.883652430861277e-07), ('playera', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('mariposa', 2.1637492114798544e-06), ('cubeta', 9.293025459560914e-07), ('puerta', 4.6233957510253296e-07), ('planta', 4.561750474344992e-07), ('comida', 3.698716600820264e-07)]
+-- ASOCIACIÓN -- 
+[('mariposa', 2.4966337055536785e-06), ('pájaro', 3.883652430861277e-07), ('huevo', 2.774037450615198e-07), ('ventana', 2.774037450615198e-07), ('verde', 2.774037450615198e-07)]
+Concepto: Ganso
+Definción: Es un ave muy parecida al pato pero más grande y, además, agresivo
+-- FRECUENCIA -- 
+[('ganso', 3.328844940738238e-07), ('pájaro', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- TIEMPO -- 
+[('hipopótamo', 7.582369031681541e-07), ('mariposa', 2.4041657905331713e-07), ('pájaro', 1.664422470369119e-07), ('papá', 1.0171470652255726e-07), ('dañar', 0.0)]
+-- ASOCIACIÓN -- 
+[('ganso', 2.2192299604921585e-07), ('pájaro', 1.1096149802460793e-07), ('hipopótamo', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Un animal que parece pato pero no es un pato
+-- FRECUENCIA -- 
+[('ganso', 6.657689881476476e-07), ('elefante', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('hipopótamo', 1.4794866403281056e-06), ('papá', 2.496633705553678e-07), ('mariposa', 2.4041657905331713e-07), ('pájaro', 1.664422470369119e-07), ('pato', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('ganso', 4.438459920984317e-07), ('hipopótamo', 2.2192299604921585e-07), ('elefante', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: cisne
+-- FRECUENCIA -- 
+[('ganso', 1.1096149802460792e-06), ('elefante', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('hipopótamo', 1.7291500108834736e-06), ('pato', 5.733010731271409e-07), ('papá', 3.5137807707792505e-07), ('mariposa', 2.4041657905331713e-07), ('pájaro', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('ganso', 8.876919841968634e-07), ('hipopótamo', 2.2192299604921585e-07), ('elefante', 1.1096149802460793e-07), ('pájaro', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: esos que parecen patos pero más grandes
+-- FRECUENCIA -- 
+[('ganso', 1.276057227282991e-06), ('elefante', 1.664422470369119e-07), ('pájaro', 1.664422470369119e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('hipopótamo', 2.1729960029819055e-06), ('pato', 6.287818221394449e-07), ('papá', 4.253524090943303e-07), ('mariposa', 2.958973280656211e-07), ('pájaro', 1.849358300410132e-07)]
+-- ASOCIACIÓN -- 
+[('ganso', 9.986534822214713e-07), ('hipopótamo', 2.774037450615198e-07), ('elefante', 1.664422470369119e-07), ('pájaro', 1.664422470369119e-07), ('dañar', 0.0)]
+Definción: Pato pato
+-- FRECUENCIA -- 
+[('ganso', 1.387018725307599e-06), ('elefante', 1.664422470369119e-07), ('pájaro', 1.664422470369119e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('hipopótamo', 2.6168419950803373e-06), ('pato', 6.287818221394449e-07), ('papá', 5.733010731271409e-07), ('mariposa', 2.958973280656211e-07), ('pájaro', 1.849358300410132e-07)]
+-- ASOCIACIÓN -- 
+[('ganso', 1.1096149802460792e-06), ('hipopótamo', 2.774037450615198e-07), ('elefante', 1.664422470369119e-07), ('pájaro', 1.664422470369119e-07), ('dañar', 0.0)]
+Concepto: Plancha
+Definción: Instrumento doméstico que se utiliza para quitar las arrugar a la ropa. Generalmente se vale del vapor, por lo tanto necesita agua para que funcione.
+-- FRECUENCIA -- 
+[('plancha', 9.986534822214713e-07), ('computadora', 7.767304861722554e-07), ('lente', 7.767304861722554e-07), ('mueble', 3.328844940738238e-07), ('niño', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('bolsa', 9.061855672009647e-07), ('lente', 6.657689881476476e-07), ('computadora', 6.149116348863689e-07), ('calzón', 4.877682517331724e-07), ('plancha', 4.438459920984317e-07)]
+-- ASOCIACIÓN -- 
+[('computadora', 7.767304861722554e-07), ('lente', 7.767304861722554e-07), ('lavadora', 6.657689881476476e-07), ('plancha', 6.657689881476476e-07), ('tambor', 2.2192299604921585e-07)]
+Definción: la herramienta que ocupas para desarrugar la ropa
+-- FRECUENCIA -- 
+[('plancha', 1.941826215430639e-06), ('mueble', 1.4424994743199031e-06), ('computadora', 1.0541342312337753e-06), ('lente', 1.0541342312337753e-06), ('lavadora', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('bolsa', 1.1315761100634496e-06), ('computadora', 9.385493374581419e-07), ('lente', 8.599516096907115e-07), ('mueble', 8.322112351845594e-07), ('plancha', 7.767304861722554e-07)]
+-- ASOCIACIÓN -- 
+[('plancha', 1.497980223332207e-06), ('mueble', 1.1650957292583833e-06), ('lavadora', 1.0541342312337753e-06), ('computadora', 1.0541342312337753e-06), ('lente', 1.0541342312337753e-06)]
+Definción: Se usa para las arrugas
+-- FRECUENCIA -- 
+[('plancha', 3.439806438762846e-06), ('mueble', 1.7753839683937268e-06), ('computadora', 1.276057227282991e-06), ('lente', 1.276057227282991e-06), ('ropa', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('plancha', 1.7779268360567907e-06), ('bolsa', 1.3766160848677922e-06), ('computadora', 1.1327319590012057e-06), ('lente', 1.0541342312337753e-06), ('mueble', 9.801598992173701e-07)]
+-- ASOCIACIÓN -- 
+[('plancha', 2.995960446664414e-06), ('mueble', 1.387018725307599e-06), ('computadora', 1.276057227282991e-06), ('lente', 1.276057227282991e-06), ('lavadora', 1.1650957292583833e-06)]
+Definción: Electrodoméstico para quitar arrugas de la ropa a base de calor
+-- FRECUENCIA -- 
+[('plancha', 6.324805387402652e-06), ('mueble', 2.4411529565413744e-06), ('computadora', 1.6644224703691188e-06), ('lente', 1.6644224703691188e-06), ('lavadora', 1.1650957292583833e-06)]
+-- TIEMPO -- 
+[('plancha', 2.723642436929022e-06), ('bolsa', 1.9476054601194207e-06), ('computadora', 1.4656164530750296e-06), ('lente', 1.414759099813751e-06), ('mueble', 1.3037976017891431e-06)]
+-- ASOCIACIÓN -- 
+[('plancha', 5.326151905181181e-06), ('lavadora', 2.4966337055536785e-06), ('mueble', 1.941826215430639e-06), ('computadora', 1.6644224703691188e-06), ('lente', 1.6644224703691188e-06)]
+Definción: el aparato con el que la ropa queda lisa
+-- FRECUENCIA -- 
+[('plancha', 7.212497371599515e-06), ('mueble', 2.8849989486398062e-06), ('computadora', 1.941826215430639e-06), ('lente', 1.941826215430639e-06), ('lavadora', 1.2205764782706872e-06)]
+-- TIEMPO -- 
+[('plancha', 3.158241637525403e-06), ('bolsa', 2.3452174947075988e-06), ('computadora', 1.706033032128347e-06), ('lente', 1.6921628448752709e-06), ('mueble', 1.5442141808424602e-06)]
+-- ASOCIACIÓN -- 
+[('plancha', 6.047401642341132e-06), ('lavadora', 2.8849989486398062e-06), ('mueble', 2.2192299604921584e-06), ('computadora', 1.941826215430639e-06), ('lente', 1.941826215430639e-06)]
+Concepto: Pájaro
+Definción: Vuela en el cielo y no es avión
+-- FRECUENCIA -- 
+[('pájaro', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('mariposa', 1.1096149802460793e-07), ('pájaro', 7.397433201640528e-08), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- ASOCIACIÓN -- 
+[('pájaro', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Ave
+-- FRECUENCIA -- 
+[('pájaro', 4.438459920984317e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('mariposa', 3.328844940738238e-07), ('pájaro', 1.4794866403281056e-07), ('pato', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('pájaro', 4.438459920984317e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Ave de tamaño pequeño de diversos tipos y colores
+-- FRECUENCIA -- 
+[('pájaro', 1.387018725307599e-06), ('tienda', 7.212497371599516e-07), ('juguete', 4.438459920984317e-07), ('ganso', 1.664422470369119e-07), ('comida', 1.664422470369119e-07)]
+-- TIEMPO -- 
+[('cubeta', 9.431727332091674e-07), ('tienda', 6.380286136414955e-07), ('mariposa', 5.548074901230396e-07), ('grande', 3.236377025717731e-07), ('pájaro', 3.143909110697224e-07)]
+-- ASOCIACIÓN -- 
+[('pájaro', 1.387018725307599e-06), ('tienda', 7.212497371599516e-07), ('juguete', 4.438459920984317e-07), ('ganso', 1.664422470369119e-07), ('comida', 1.664422470369119e-07)]
+Definción: El animalito que vuela. Del tipo que son las palomas y las urracas.
+-- FRECUENCIA -- 
+[('pájaro', 4.050094677898189e-06), ('tienda', 1.1096149802460792e-06), ('juguete', 4.438459920984317e-07), ('campo', 3.883652430861277e-07), ('mariposa', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('pájaro', 2.1760782668159222e-06), ('mariposa', 1.6644224703691188e-06), ('cubeta', 1.1650957292583833e-06), ('tienda', 8.64960288420989e-07), ('pato', 4.993267411107356e-07)]
+-- ASOCIACIÓN -- 
+[('pájaro', 4.050094677898189e-06), ('tienda', 1.1096149802460792e-06), ('juguete', 4.438459920984317e-07), ('campo', 3.883652430861277e-07), ('ganso', 3.328844940738238e-07)]
+Definción: Animal que vuela
+-- FRECUENCIA -- 
+[('pájaro', 4.7158636660458365e-06), ('tienda', 1.2205764782706872e-06), ('mariposa', 4.438459920984317e-07), ('campo', 4.438459920984317e-07), ('juguete', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('pájaro', 2.508962760889746e-06), ('mariposa', 1.8308647174060307e-06), ('cubeta', 1.387018725307599e-06), ('tienda', 9.759217864455968e-07), ('abeja', 6.657689881476476e-07)]
+-- ASOCIACIÓN -- 
+[('pájaro', 4.7158636660458365e-06), ('tienda', 1.2205764782706872e-06), ('campo', 4.438459920984317e-07), ('juguete', 4.438459920984317e-07), ('ganso', 3.883652430861277e-07)]
+Concepto: Papa
+Definción: Es un tubérculo que puede ser comida chatarra, como las Sabritas
+-- FRECUENCIA -- 
+[('papa', 7.767304861722554e-07), ('dinero', 4.438459920984317e-07), ('tienda', 2.2192299604921585e-07), ('comida', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('papa', 4.0223543033920374e-07), ('policía', 2.5428676630639316e-07), ('zanahoria', 1.387018725307599e-07), ('hamburguesa', 1.309962129457177e-07), ('mamá', 1.2945508102870922e-07)]
+-- ASOCIACIÓN -- 
+[('papa', 6.657689881476476e-07), ('dinero', 4.438459920984317e-07), ('tienda', 2.2192299604921585e-07), ('comida', 1.1096149802460793e-07), ('hamburguesa', 1.1096149802460793e-07)]
+Definción: Verdura blanquita que crece abajo de la tierra
+-- FRECUENCIA -- 
+[('papa', 1.6644224703691188e-06), ('hot_cakes', 8.876919841968634e-07), ('dinero', 8.876919841968634e-07), ('comida', 5.548074901230396e-07), ('leche', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('papa', 7.998474649273822e-07), ('hot_cakes', 6.010414476332929e-07), ('planta', 5.686776773761156e-07), ('zanahoria', 5.282229645546439e-07), ('burro', 5.178203241148369e-07)]
+-- ASOCIACIÓN -- 
+[('papa', 1.4424994743199031e-06), ('hot_cakes', 8.876919841968634e-07), ('dinero', 8.876919841968634e-07), ('comida', 5.548074901230396e-07), ('leche', 4.438459920984317e-07)]
+Definción: Tubérculo
+-- FRECUENCIA -- 
+[('papa', 1.9973069644429425e-06), ('hot_cakes', 9.431727332091674e-07), ('dinero', 9.431727332091674e-07), ('comida', 6.657689881476476e-07), ('calabaza', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('papa', 9.108089629519901e-07), ('zanahoria', 7.23561435035464e-07), ('hot_cakes', 6.565221966455969e-07), ('planta', 5.686776773761156e-07), ('burro', 5.178203241148369e-07)]
+-- ASOCIACIÓN -- 
+[('papa', 1.7753839683937268e-06), ('hot_cakes', 9.431727332091674e-07), ('dinero', 9.431727332091674e-07), ('comida', 6.657689881476476e-07), ('leche', 4.993267411107356e-07)]
+Definción: frituras
+-- FRECUENCIA -- 
+[('papa', 2.829518199627502e-06), ('hot_cakes', 1.0541342312337753e-06), ('dinero', 1.0541342312337753e-06), ('comida', 7.767304861722554e-07), ('leche', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('papa', 1.2991742060381178e-06), ('hot_cakes', 7.674836946702049e-07), ('zanahoria', 7.23561435035464e-07), ('policía', 6.010414476332929e-07), ('palomita', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('papa', 2.6075952035782862e-06), ('hot_cakes', 1.0541342312337753e-06), ('dinero', 1.0541342312337753e-06), ('comida', 7.767304861722554e-07), ('tienda', 6.657689881476476e-07)]
+Definción: A la francesa
+-- FRECUENCIA -- 
+[('papa', 2.829518199627502e-06), ('hot_cakes', 1.0541342312337753e-06), ('dinero', 1.0541342312337753e-06), ('comida', 7.767304861722554e-07), ('leche', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('papa', 1.2991742060381178e-06), ('hot_cakes', 7.674836946702049e-07), ('zanahoria', 7.23561435035464e-07), ('policía', 6.010414476332929e-07), ('palomita', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('papa', 2.6075952035782862e-06), ('hot_cakes', 1.0541342312337753e-06), ('dinero', 1.0541342312337753e-06), ('comida', 7.767304861722554e-07), ('tienda', 6.657689881476476e-07)]
+Concepto: Dulce
+Definción: alimento con mucha azúcar que es rico
+-- FRECUENCIA -- 
+[('pan', 1.1096149802460793e-07), ('gelatina', 1.1096149802460793e-07), ('cereal', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('vaca', 1.248316852776839e-07), ('burro', 1.1096149802460793e-07), ('cereal', 1.1096149802460793e-07), ('plátano', 8.322112351845595e-08), ('hamburguesa', 7.397433201640528e-08)]
+-- ASOCIACIÓN -- 
+[('galleta', 2.2192299604921585e-07), ('chocolate', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+Definción: Esa sensacion que produce comer azucar.
+-- FRECUENCIA -- 
+[('gelatina', 3.328844940738238e-07), ('pan', 1.1096149802460793e-07), ('tenedor', 1.1096149802460793e-07), ('cereal', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('vaca', 2.9127393231459583e-07), ('cereal', 2.2192299604921585e-07), ('leche', 1.1096149802460793e-07), ('burro', 1.1096149802460793e-07), ('plátano', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('chocolate', 2.2192299604921585e-07), ('galleta', 2.2192299604921585e-07), ('cuchara', 1.1096149802460793e-07), ('tenedor', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: sabor característico de los alimentos con azúcar
+-- FRECUENCIA -- 
+[('gelatina', 7.212497371599516e-07), ('pan', 3.328844940738238e-07), ('cereal', 2.2192299604921585e-07), ('tenedor', 1.664422470369119e-07), ('helado', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cereal', 4.993267411107356e-07), ('vaca', 3.606248685799758e-07), ('plátano', 3.051441195676718e-07), ('burro', 1.664422470369119e-07), ('hamburguesa', 1.2945508102870922e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 3.883652430861277e-07), ('chocolate', 2.774037450615198e-07), ('dulce', 2.774037450615198e-07), ('cuchara', 1.664422470369119e-07), ('pan', 1.664422470369119e-07)]
+Definción: caramelo que se le da a los niños
+-- FRECUENCIA -- 
+[('dulce', 1.2205764782706872e-06), ('gelatina', 7.212497371599516e-07), ('dedo', 4.993267411107356e-07), ('juguete', 3.883652430861277e-07), ('mantequilla', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('vaca', 8.044708606784075e-07), ('paleta', 4.993267411107356e-07), ('cereal', 4.993267411107356e-07), ('dedo', 4.493940669996621e-07), ('dulce', 3.5137807707792515e-07)]
+-- ASOCIACIÓN -- 
+[('dulce', 1.941826215430639e-06), ('dedo', 6.102882391353436e-07), ('galleta', 4.993267411107356e-07), ('tienda', 3.328844940738238e-07), ('chocolate', 2.774037450615198e-07)]
+Definción: golosinas le gusta mucho a los niños
+-- FRECUENCIA -- 
+[('dulce', 1.7753839683937268e-06), ('gelatina', 1.497980223332207e-06), ('juguete', 6.657689881476476e-07), ('tienda', 6.102882391353436e-07), ('mantequilla', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('vaca', 1.276057227282991e-06), ('melón', 1.0680044184868514e-06), ('dulce', 8.507048181886608e-07), ('cereal', 6.657689881476476e-07), ('dedo', 5.6035556502427e-07)]
+-- ASOCIACIÓN -- 
+[('dulce', 3.21788344271363e-06), ('galleta', 8.322112351845594e-07), ('dedo', 8.322112351845594e-07), ('gelatina', 7.767304861722554e-07), ('chocolate', 3.883652430861277e-07)]
+Concepto: Camión
+Definción: Transporte público
+-- FRECUENCIA -- 
+[('camión', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('autobús', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('camión', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Bus
+-- FRECUENCIA -- 
+[('camión', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('camión', 2.2192299604921585e-07), ('autobús', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- ASOCIACIÓN -- 
+[('camión', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Medio de transporte grande con cuatro ruedas, que se utiliza para carga pesada
+-- FRECUENCIA -- 
+[('camión', 1.7753839683937268e-06), ('autobús', 4.993267411107356e-07), ('dinero', 3.883652430861277e-07), ('televisión', 2.2192299604921585e-07), ('bicicleta', 1.664422470369119e-07)]
+-- TIEMPO -- 
+[('camión', 8.322112351845594e-07), ('televisión', 6.102882391353436e-07), ('autobús', 3.883652430861277e-07), ('piedra', 3.328844940738238e-07), ('tren', 2.496633705553678e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 1.7753839683937268e-06), ('autobús', 4.993267411107356e-07), ('dinero', 3.883652430861277e-07), ('televisión', 2.2192299604921585e-07), ('bicicleta', 1.664422470369119e-07)]
+Definción: El transporte público.
+-- FRECUENCIA -- 
+[('camión', 2.2192299604921584e-06), ('autobús', 6.657689881476476e-07), ('dinero', 4.993267411107356e-07), ('bicicleta', 2.2192299604921585e-07), ('televisión', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('camión', 9.986534822214713e-07), ('televisión', 7.212497371599516e-07), ('autobús', 6.102882391353436e-07), ('piedra', 3.328844940738238e-07), ('tren', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 2.2192299604921584e-06), ('autobús', 6.657689881476476e-07), ('dinero', 4.993267411107356e-07), ('bicicleta', 2.2192299604921585e-07), ('televisión', 2.2192299604921585e-07)]
+Definción: Medio de transporte público
+-- FRECUENCIA -- 
+[('camión', 2.718556701602894e-06), ('autobús', 9.986534822214713e-07), ('dinero', 7.767304861722554e-07), ('televisión', 3.328844940738238e-07), ('bicicleta', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('camión', 1.2205764782706872e-06), ('televisión', 1.0541342312337753e-06), ('autobús', 8.322112351845594e-07), ('piedra', 3.883652430861277e-07), ('tren', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 2.718556701602894e-06), ('autobús', 9.986534822214713e-07), ('dinero', 7.767304861722554e-07), ('televisión', 3.328844940738238e-07), ('bicicleta', 2.774037450615198e-07)]
+Concepto: Ardilla
+Definción: Roedor comedor de nueces
+-- FRECUENCIA -- 
+[('burbuja', 1.1096149802460793e-07), ('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('tina', 1.1096149802460793e-07), ('helado', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('helado', 8.322112351845595e-08), ('tina', 6.472754051435462e-08), ('silla', 6.241584263884195e-08)]
+-- ASOCIACIÓN -- 
+[('burbuja', 1.1096149802460793e-07), ('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('tina', 1.1096149802460793e-07), ('helado', 1.1096149802460793e-07)]
+Definción: Nueces
+-- FRECUENCIA -- 
+[('burbuja', 1.1096149802460793e-07), ('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('tina', 1.1096149802460793e-07), ('helado', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('helado', 8.322112351845595e-08), ('tina', 6.472754051435462e-08), ('silla', 6.241584263884195e-08)]
+-- ASOCIACIÓN -- 
+[('burbuja', 1.1096149802460793e-07), ('cuchara', 1.1096149802460793e-07), ('ardilla', 1.1096149802460793e-07), ('tina', 1.1096149802460793e-07), ('helado', 1.1096149802460793e-07)]
+Definción: Anímal que come nueces, vive y trepa en los árboles. Cuatro patas, con pelaje café o grisaseo
+-- FRECUENCIA -- 
+[('ardilla', 1.6644224703691188e-06), ('casa', 1.0541342312337753e-06), ('caballo', 9.986534822214713e-07), ('silla', 5.548074901230396e-07), ('helado', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('ardilla', 1.6413054916139921e-06), ('caballo', 9.477961289601926e-07), ('casa', 8.761334948193002e-07), ('conejo', 5.709893752516282e-07), ('corral', 5.594308858740648e-07)]
+-- ASOCIACIÓN -- 
+[('ardilla', 2.1082684624675507e-06), ('casa', 1.0541342312337753e-06), ('caballo', 7.212497371599516e-07), ('mesa', 5.548074901230396e-07), ('silla', 5.548074901230396e-07)]
+Definción: El animalito que come nueces. El que sale en la Era de Hielo.
+-- FRECUENCIA -- 
+[('ardilla', 2.774037450615198e-06), ('casa', 1.387018725307599e-06), ('caballo', 1.3315379762952952e-06), ('mono', 7.767304861722554e-07), ('helado', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('ardilla', 2.683881233470204e-06), ('caballo', 1.3176677890422191e-06), ('casa', 1.1546930888185763e-06), ('corral', 7.628602989191796e-07), ('conejo', 6.819508732762362e-07)]
+-- ASOCIACIÓN -- 
+[('ardilla', 3.6617294348120614e-06), ('casa', 1.387018725307599e-06), ('caballo', 1.0541342312337753e-06), ('mesa', 6.657689881476476e-07), ('silla', 6.102882391353436e-07)]
+Definción: Animal roedor que come bellotas
+-- FRECUENCIA -- 
+[('ardilla', 4.438459920984317e-06), ('casa', 1.6644224703691188e-06), ('caballo', 1.5534609723445109e-06), ('mono', 8.876919841968634e-07), ('calle', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('ardilla', 3.6825347156916754e-06), ('caballo', 1.8724752791652587e-06), ('casa', 1.390486272120868e-06), ('corral', 1.2806806230340162e-06), ('árbol', 1.262187040029915e-06)]
+-- ASOCIACIÓN -- 
+[('ardilla', 5.6035556502427e-06), ('casa', 1.6644224703691188e-06), ('caballo', 1.1650957292583833e-06), ('árbol', 8.876919841968634e-07), ('mesa', 7.767304861722554e-07)]
+Concepto: Cochino
+Definción: Animal consumido en México en carnitas, chicharrón y de él proviene la manteca.
+-- FRECUENCIA -- 
+[('taco', 3.328844940738238e-07), ('cochino', 2.2192299604921585e-07), ('guajolote', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('cochino', 4.2535240909433034e-07), ('cocodrilo', 3.328844940738238e-07), ('taco', 8.322112351845595e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('taco', 3.328844940738238e-07), ('cochino', 2.2192299604921585e-07), ('guajolote', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: con el que se hacen las carnitas
+-- FRECUENCIA -- 
+[('taco', 7.212497371599516e-07), ('palo', 4.993267411107356e-07), ('cochino', 2.774037450615198e-07), ('guajolote', 1.1096149802460793e-07), ('bandera', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cochino', 5.363139071189382e-07), ('cocodrilo', 4.450018410361881e-07), ('taco', 3.051441195676718e-07), ('plastilina', 2.774037450615198e-07), ('grasa', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('taco', 7.212497371599516e-07), ('palo', 4.993267411107356e-07), ('cochino', 2.774037450615198e-07), ('guajolote', 1.1096149802460793e-07), ('bandera', 1.1096149802460793e-07)]
+Definción: Que esta sucio
+-- FRECUENCIA -- 
+[('taco', 7.212497371599516e-07), ('cochino', 6.657689881476476e-07), ('palo', 4.993267411107356e-07), ('plastilina', 1.1096149802460793e-07), ('guajolote', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('cochino', 7.304965286620021e-07), ('cocodrilo', 5.562201943802973e-07), ('plastilina', 3.606248685799758e-07), ('taco', 3.051441195676718e-07), ('grasa', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('taco', 7.212497371599516e-07), ('cochino', 6.657689881476476e-07), ('palo', 4.993267411107356e-07), ('plastilina', 1.1096149802460793e-07), ('guajolote', 1.1096149802460793e-07)]
+Definción: Parecido al cerdo o puerco
+-- FRECUENCIA -- 
+[('cochino', 1.8863454664183348e-06), ('taco', 7.212497371599516e-07), ('palo', 4.993267411107356e-07), ('plastilina', 2.2192299604921585e-07), ('torta', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('cochino', 1.68291605337322e-06), ('cocodrilo', 8.61364313947969e-07), ('pato', 4.1148222184125437e-07), ('plastilina', 3.606248685799758e-07), ('taco', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('cochino', 1.7753839683937268e-06), ('taco', 9.431727332091674e-07), ('palo', 6.102882391353436e-07), ('carne', 3.328844940738238e-07), ('burbuja', 1.1096149802460793e-07)]
+Definción: el animal de la alcancía
+-- FRECUENCIA -- 
+[('cochino', 2.829518199627502e-06), ('taco', 7.212497371599516e-07), ('palo', 5.548074901230396e-07), ('plastilina', 3.328844940738238e-07), ('dinero', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('cochino', 2.80177782512135e-06), ('cocodrilo', 1.138768059009489e-06), ('pato', 4.808331581066343e-07), ('plastilina', 3.606248685799758e-07), ('palo', 3.344256259908322e-07)]
+-- ASOCIACIÓN -- 
+[('cochino', 3.051441195676718e-06), ('taco', 1.0541342312337753e-06), ('palo', 6.657689881476476e-07), ('carne', 3.328844940738238e-07), ('plastilina', 2.2192299604921585e-07)]
+Concepto: Autobús
+Definción: transporte terrestre público de pasajeros muy grande
+-- FRECUENCIA -- 
+[('camión', 5.548074901230396e-07), ('autobús', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- TIEMPO -- 
+[('autobús', 3.328844940738238e-07), ('barco', 2.2192299604921585e-07), ('boca', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('camión', 5.548074901230396e-07), ('autobús', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+Definción: Transporte público grande
+-- FRECUENCIA -- 
+[('camión', 9.431727332091674e-07), ('autobús', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- TIEMPO -- 
+[('autobús', 6.102882391353436e-07), ('barco', 3.328844940738238e-07), ('boca', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('camión', 9.431727332091674e-07), ('autobús', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+Definción: Carro grande para llevar pasajeros que no es una combi o un metro
+-- FRECUENCIA -- 
+[('camión', 3.21788344271363e-06), ('autobús', 1.497980223332207e-06), ('sombrero', 2.2192299604921585e-07), ('calle', 2.2192299604921585e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('autobús', 1.7753839683937268e-06), ('camión', 1.719903219381423e-06), ('avión', 5.548074901230396e-07), ('barco', 4.993267411107356e-07), ('sombrero', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 3.21788344271363e-06), ('autobús', 1.497980223332207e-06), ('sombrero', 2.2192299604921585e-07), ('calle', 2.2192299604921585e-07), ('dañar', 0.0)]
+Definción: transporte para muchas personas
+-- FRECUENCIA -- 
+[('camión', 4.050094677898189e-06), ('autobús', 1.941826215430639e-06), ('calle', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('autobús', 2.1637492114798544e-06), ('camión', 2.0527877134552466e-06), ('avión', 8.876919841968634e-07), ('boca', 7.767304861722554e-07), ('barco', 5.548074901230396e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 4.050094677898189e-06), ('autobús', 1.941826215430639e-06), ('calle', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07)]
+Definción: transporte público de pasajeros
+-- FRECUENCIA -- 
+[('camión', 5.04874816011966e-06), ('autobús', 2.2747107095044625e-06), ('calle', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('autobús', 2.774037450615198e-06), ('camión', 2.3301914585167666e-06), ('avión', 1.0541342312337753e-06), ('boca', 8.876919841968634e-07), ('barco', 7.212497371599516e-07)]
+-- ASOCIACIÓN -- 
+[('camión', 5.04874816011966e-06), ('autobús', 2.2747107095044625e-06), ('calle', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07)]
+Concepto: Guajolote
+Definción: Animal mexicano que es similar al pavo y se cocina también con mole
+-- FRECUENCIA -- 
+[('guajolote', 3.328844940738238e-07), ('huevo', 2.2192299604921585e-07), ('cocina', 1.1096149802460793e-07), ('lobo', 1.1096149802460793e-07), ('horno', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('ejote', 6.865742690272616e-07), ('huevo', 2.2192299604921585e-07), ('cocodrilo', 1.741479066219541e-07), ('guajolote', 1.7260677470494566e-07), ('árbol', 1.710656427879372e-07)]
+-- ASOCIACIÓN -- 
+[('guajolote', 3.328844940738238e-07), ('carne', 2.2192299604921585e-07), ('huevo', 1.1096149802460793e-07), ('lobo', 1.1096149802460793e-07), ('horno', 1.1096149802460793e-07)]
+Definción: el ave que es el pavo en estados unidos
+-- FRECUENCIA -- 
+[('guajolote', 7.212497371599516e-07), ('familia', 7.212497371599516e-07), ('cocina', 4.993267411107356e-07), ('huevo', 4.438459920984317e-07), ('horno', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('ejote', 1.1385112036899876e-06), ('familia', 6.380286136414955e-07), ('guajolote', 4.0069429842219526e-07), ('huevo', 3.883652430861277e-07), ('horno', 2.496633705553678e-07)]
+-- ASOCIACIÓN -- 
+[('guajolote', 8.876919841968634e-07), ('familia', 7.212497371599516e-07), ('huevo', 3.328844940738238e-07), ('torta', 2.774037450615198e-07), ('cocina', 2.2192299604921585e-07)]
+Definción: Se acompaña con mole
+-- FRECUENCIA -- 
+[('guajolote', 8.876919841968634e-07), ('familia', 7.767304861722554e-07), ('huevo', 4.993267411107356e-07), ('cocina', 4.993267411107356e-07), ('horno', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('ejote', 1.2205764782706874e-06), ('familia', 6.935093626537995e-07), ('guajolote', 4.561750474344992e-07), ('huevo', 3.883652430861277e-07), ('cocodrilo', 3.436724174928829e-07)]
+-- ASOCIACIÓN -- 
+[('guajolote', 1.0541342312337753e-06), ('familia', 7.767304861722554e-07), ('huevo', 3.883652430861277e-07), ('olla', 3.328844940738238e-07), ('cocina', 2.774037450615198e-07)]
+Definción: Ave similar a una gallina grande
+-- FRECUENCIA -- 
+[('guajolote', 1.3315379762952952e-06), ('familia', 1.0541342312337753e-06), ('cocina', 7.767304861722554e-07), ('huevo', 7.212497371599516e-07), ('horno', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('ejote', 1.9718782878123036e-06), ('familia', 9.293025459560914e-07), ('horno', 6.796391754007235e-07), ('electrodoméstico', 6.241584263884196e-07), ('huevo', 5.270671156168877e-07)]
+-- ASOCIACIÓN -- 
+[('guajolote', 1.497980223332207e-06), ('familia', 1.0541342312337753e-06), ('huevo', 6.102882391353436e-07), ('cocina', 4.993267411107356e-07), ('horno', 3.328844940738238e-07)]
+Definción: el animal que dice "gordogordogordo"
+-- FRECUENCIA -- 
+[('guajolote', 1.4424994743199031e-06), ('familia', 1.1096149802460792e-06), ('cocina', 7.767304861722554e-07), ('huevo', 7.212497371599516e-07), ('horno', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('ejote', 2.1938012838615195e-06), ('familia', 9.847832949683952e-07), ('horno', 6.796391754007235e-07), ('electrodoméstico', 6.241584263884196e-07), ('guajolote', 5.671365454591072e-07)]
+-- ASOCIACIÓN -- 
+[('guajolote', 1.608941721356815e-06), ('familia', 1.1096149802460792e-06), ('huevo', 6.102882391353436e-07), ('cocina', 4.993267411107356e-07), ('horno', 3.328844940738238e-07)]
+Concepto: Elote
+Definción: Base para los esquites
+-- FRECUENCIA -- 
+[('ejote', 1.1096149802460793e-07), ('tierra', 5.548074901230396e-08), ('pie', 5.548074901230396e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('ejote', 8.322112351845595e-08), ('jabón', 6.472754051435462e-08), ('elote', 6.241584263884195e-08), ('mercado', 4.62339575102533e-08), ('dañar', 0.0)]
+-- ASOCIACIÓN -- 
+[('ejote', 1.1096149802460793e-07), ('tierra', 5.548074901230396e-08), ('pie', 5.548074901230396e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Tortilla
+-- FRECUENCIA -- 
+[('mesa', 1.1096149802460793e-07), ('elote', 1.1096149802460793e-07), ('ejote', 1.1096149802460793e-07), ('taco', 1.1096149802460793e-07), ('tierra', 5.548074901230396e-08)]
+-- TIEMPO -- 
+[('elote', 1.7337734066344988e-07), ('jabón', 1.205935725059107e-07), ('ejote', 1.1327319590012061e-07), ('mercado', 7.474489797490951e-08), ('cocodrilo', 5.6251314970808184e-08)]
+-- ASOCIACIÓN -- 
+[('mesa', 1.1096149802460793e-07), ('elote', 1.1096149802460793e-07), ('ejote', 1.1096149802460793e-07), ('taco', 1.1096149802460793e-07), ('tierra', 5.548074901230396e-08)]
+Definción: Fruto que crece de una milpa, con granos, color como amarillo y blanco
+-- FRECUENCIA -- 
+[('elote', 2.3301914585167666e-06), ('tierra', 7.212497371599516e-07), ('planta', 5.548074901230396e-07), ('leche', 4.438459920984317e-07), ('flor', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('elote', 1.8031243428998788e-06), ('ejote', 6.195350306373942e-07), ('tierra', 6.189571061685161e-07), ('jabón', 5.921799391104944e-07), ('mercado', 5.185908900733412e-07)]
+-- ASOCIACIÓN -- 
+[('elote', 2.4411529565413744e-06), ('tierra', 6.102882391353436e-07), ('planta', 5.548074901230396e-07), ('leche', 4.438459920984317e-07), ('durazno', 3.328844940738238e-07)]
+Definción: De donde vienen los esquites. Que le echan mayonesa o lo asan.
+-- FRECUENCIA -- 
+[('elote', 6.047401642341132e-06), ('canasta', 1.608941721356815e-06), ('carriola', 1.497980223332207e-06), ('tierra', 9.709131077153194e-07), ('planta', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('elote', 4.7436040405519885e-06), ('canasta', 1.3546549550504216e-06), ('carriola', 1.2067062910176112e-06), ('ejote', 9.847832949683952e-07), ('jabón', 9.485666949186969e-07)]
+-- ASOCIACIÓN -- 
+[('elote', 6.047401642341132e-06), ('canasta', 1.497980223332207e-06), ('carriola', 1.497980223332207e-06), ('planta', 9.431727332091674e-07), ('tierra', 7.489901116661035e-07)]
+Definción: Alimento típico para la elaboración de comida mexicana.
+-- FRECUENCIA -- 
+[('elote', 7.85052598524101e-06), ('canasta', 2.1637492114798544e-06), ('carriola', 1.941826215430639e-06), ('muñeco de nieve', 1.941826215430639e-06), ('tierra', 1.1928361037645351e-06)]
+-- TIEMPO -- 
+[('elote', 6.1999737021249675e-06), ('muñeco de nieve', 1.7014096363773216e-06), ('canasta', 1.6829160533732204e-06), ('carriola', 1.5580843680955362e-06), ('ejote', 1.3407847677973458e-06)]
+-- ASOCIACIÓN -- 
+[('elote', 7.767304861722555e-06), ('canasta', 2.0527877134552466e-06), ('carriola', 1.941826215430639e-06), ('muñeco de nieve', 1.941826215430639e-06), ('planta', 1.1650957292583833e-06)]
+Concepto: Ratón
+Definción: Animal de color gris que puede transmitir la rabia. En conjunto es considerado como plaga. Se reproducen de manera abismal.
+-- FRECUENCIA -- 
+[('crayola', 5.548074901230396e-07), ('flor', 3.328844940738238e-07), ('ardilla', 3.328844940738238e-07), ('uva', 2.2192299604921585e-07), ('león', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('cubeta', 9.154323587030153e-07), ('ardilla', 4.715863666045837e-07), ('crayola', 3.8143014945958976e-07), ('policía', 2.8202714081254515e-07), ('comida', 1.9418262154306386e-07)]
+-- ASOCIACIÓN -- 
+[('crayola', 5.548074901230396e-07), ('ardilla', 4.438459920984317e-07), ('flor', 3.328844940738238e-07), ('león', 2.2192299604921585e-07), ('mano', 2.2192299604921585e-07)]
+Definción: el animal con cola que anda en coladeras
+-- FRECUENCIA -- 
+[('crayola', 8.322112351845594e-07), ('bicicleta', 6.102882391353436e-07), ('ardilla', 6.102882391353436e-07), ('mono', 5.548074901230396e-07), ('flor', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.4424994743199031e-06), ('ardilla', 7.489901116661035e-07), ('crayola', 6.310935200149575e-07), ('camión', 5.548074901230396e-07), ('policía', 4.669629708535583e-07)]
+-- ASOCIACIÓN -- 
+[('crayola', 8.322112351845594e-07), ('ardilla', 7.212497371599516e-07), ('flor', 3.883652430861277e-07), ('mano', 3.328844940738238e-07), ('bicicleta', 2.774037450615198e-07)]
+Definción: Pequeño y le gusta el queso
+-- FRECUENCIA -- 
+[('crayola', 1.1650957292583833e-06), ('ratón', 8.322112351845594e-07), ('bicicleta', 7.212497371599516e-07), ('ardilla', 7.212497371599516e-07), ('mono', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.706033032128347e-06), ('ardilla', 9.431727332091674e-07), ('crayola', 9.362376395826294e-07), ('comer', 8.876919841968634e-07), ('ratón', 8.322112351845594e-07)]
+-- ASOCIACIÓN -- 
+[('crayola', 1.1650957292583833e-06), ('ardilla', 1.1096149802460792e-06), ('ratón', 9.431727332091674e-07), ('gelatina', 6.102882391353436e-07), ('triciclo', 4.438459920984317e-07)]
+Definción: Roedor perseguido por gatos
+-- FRECUENCIA -- 
+[('ratón', 1.719903219381423e-06), ('crayola', 1.387018725307599e-06), ('ardilla', 1.1096149802460792e-06), ('bicicleta', 7.212497371599516e-07), ('gelatina', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.955696402683715e-06), ('ardilla', 1.456369661572979e-06), ('ratón', 1.2483168527768392e-06), ('comer', 1.1650957292583833e-06), ('crayola', 1.1026798866195412e-06)]
+-- ASOCIACIÓN -- 
+[('ratón', 1.8308647174060307e-06), ('ardilla', 1.497980223332207e-06), ('crayola', 1.387018725307599e-06), ('gelatina', 7.212497371599516e-07), ('león', 6.102882391353436e-07)]
+Definción: el animal como mickey mouse
+-- FRECUENCIA -- 
+[('ratón', 4.882305913082749e-06), ('crayola', 1.6644224703691188e-06), ('ardilla', 1.4424994743199031e-06), ('bicicleta', 7.767304861722554e-07), ('león', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('ratón', 3.7732046434756727e-06), ('cubeta', 1.955696402683715e-06), ('ardilla', 1.706033032128347e-06), ('crayola', 1.3107326954156811e-06), ('comer', 1.2205764782706872e-06)]
+-- ASOCIACIÓN -- 
+[('ratón', 4.993267411107357e-06), ('ardilla', 1.8863454664183348e-06), ('crayola', 1.6644224703691188e-06), ('león', 8.876919841968634e-07), ('gelatina', 7.767304861722554e-07)]
+Concepto: Lámpara
+Definción: sirve para iluminar un espacio, lleva un foco
+-- FRECUENCIA -- 
+[('sol', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('leche', 2.2192299604921585e-07), ('calle', 2.2192299604921585e-07), ('autobús', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('sol', 4.438459920984317e-07), ('leche', 2.9127393231459583e-07), ('sombrero', 2.2192299604921585e-07), ('autobús', 1.9418262154306386e-07), ('timbre', 1.9418262154306386e-07)]
+-- ASOCIACIÓN -- 
+[('sol', 3.328844940738238e-07), ('sombrero', 2.2192299604921585e-07), ('vaso', 2.2192299604921585e-07), ('agua', 2.2192299604921585e-07), ('calle', 2.2192299604921585e-07)]
+Definción: Objeto que se necesita para que haya luz de noche.
+-- FRECUENCIA -- 
+[('lámpara', 1.1096149802460792e-06), ('lente', 8.876919841968634e-07), ('sol', 7.767304861722554e-07), ('leche', 5.548074901230396e-07), ('mueble', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('sol', 8.322112351845594e-07), ('lente', 8.183410479314834e-07), ('cubeta', 6.472754051435463e-07), ('leche', 5.964180518822676e-07), ('lámpara', 5.548074901230396e-07)]
+-- ASOCIACIÓN -- 
+[('lámpara', 9.986534822214713e-07), ('sol', 8.876919841968634e-07), ('lente', 8.876919841968634e-07), ('mueble', 4.438459920984317e-07), ('sombrero', 4.438459920984317e-07)]
+Definción: aparato eléctrico usado para alumbrar lugares
+-- FRECUENCIA -- 
+[('lámpara', 2.3301914585167666e-06), ('sol', 1.7753839683937268e-06), ('lente', 1.4424994743199031e-06), ('gorra', 1.1096149802460792e-06), ('calle', 9.986534822214713e-07)]
+-- TIEMPO -- 
+[('sol', 1.6921628448752709e-06), ('lente', 1.484110036079131e-06), ('lámpara', 1.4725515467015678e-06), ('cubeta', 1.1604723335073578e-06), ('tren', 9.847832949683952e-07)]
+-- ASOCIACIÓN -- 
+[('lámpara', 2.3301914585167666e-06), ('sol', 1.7753839683937268e-06), ('lente', 1.4424994743199031e-06), ('gorra', 9.986534822214713e-07), ('calle', 9.986534822214713e-07)]
+Definción: objeto que da luz por la noche
+-- FRECUENCIA -- 
+[('lámpara', 3.162402693701326e-06), ('sol', 1.8863454664183348e-06), ('lente', 1.719903219381423e-06), ('juguete', 1.387018725307599e-06), ('mueble', 1.276057227282991e-06)]
+-- TIEMPO -- 
+[('sol', 1.9778887022886367e-06), ('lámpara', 1.9510730069326895e-06), ('cubeta', 1.8770986749162839e-06), ('lente', 1.7615137811406508e-06), ('tren', 1.567331159597587e-06)]
+-- ASOCIACIÓN -- 
+[('lámpara', 3.051441195676718e-06), ('sol', 1.941826215430639e-06), ('lente', 1.719903219381423e-06), ('mueble', 1.276057227282991e-06), ('juguete', 1.1650957292583833e-06)]
+Definción: objeto que ilumina algún cuarto
+-- FRECUENCIA -- 
+[('lámpara', 4.549421419008925e-06), ('sol', 2.1082684624675507e-06), ('mueble', 2.0527877134552466e-06), ('lente', 1.941826215430639e-06), ('juguete', 1.5534609723445109e-06)]
+-- TIEMPO -- 
+[('cubeta', 2.649205765337514e-06), ('sol', 2.4522491063438353e-06), ('lámpara', 2.2354118456207476e-06), ('lente', 1.941826215430639e-06), ('tren', 1.7615137811406508e-06)]
+-- ASOCIACIÓN -- 
+[('lámpara', 4.438459920984317e-06), ('sol', 2.1637492114798544e-06), ('mueble', 1.941826215430639e-06), ('lente', 1.941826215430639e-06), ('juguete', 1.3315379762952952e-06)]
+Concepto: Aspiradora
+Definción: electrodoméstico que sirve para juntar polvo
+-- FRECUENCIA -- 
+[('familia', 3.328844940738238e-07), ('leche', 2.2192299604921585e-07), ('tierra', 1.1096149802460793e-07), ('cocina', 1.1096149802460793e-07), ('plato', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('familia', 3.051441195676718e-07), ('refrigerador', 2.9127393231459583e-07), ('leche', 1.9418262154306386e-07), ('escoba', 8.322112351845595e-08), ('mesa', 6.935093626537995e-08)]
+-- ASOCIACIÓN -- 
+[('leche', 3.328844940738238e-07), ('familia', 3.328844940738238e-07), ('mamá', 1.1096149802460793e-07), ('tierra', 1.1096149802460793e-07), ('plancha', 1.1096149802460793e-07)]
+Definción: Escoba eléctrica
+-- FRECUENCIA -- 
+[('familia', 5.548074901230396e-07), ('tren', 3.328844940738238e-07), ('tierra', 2.2192299604921585e-07), ('leche', 2.2192299604921585e-07), ('refrigerador', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('familia', 4.715863666045837e-07), ('refrigerador', 4.0223543033920374e-07), ('timbre', 3.051441195676718e-07), ('leche', 3.051441195676718e-07), ('botón', 1.9418262154306386e-07)]
+-- ASOCIACIÓN -- 
+[('familia', 5.548074901230396e-07), ('leche', 3.328844940738238e-07), ('tierra', 2.2192299604921585e-07), ('timbre', 2.2192299604921585e-07), ('refrigerador', 2.2192299604921585e-07)]
+Definción: Aparato para sacar el polvo
+-- FRECUENCIA -- 
+[('familia', 8.322112351845594e-07), ('tierra', 7.212497371599516e-07), ('pala', 6.102882391353436e-07), ('leche', 4.993267411107356e-07), ('televisión', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('familia', 7.489901116661035e-07), ('refrigerador', 5.686776773761156e-07), ('leche', 5.409373028699636e-07), ('pala', 4.2997580484535573e-07), ('timbre', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('familia', 8.322112351845594e-07), ('tierra', 7.212497371599516e-07), ('pala', 6.102882391353436e-07), ('leche', 4.993267411107356e-07), ('televisión', 4.993267411107356e-07)]
+Definción: aparato electrónico para quitar el polvo
+-- FRECUENCIA -- 
+[('familia', 1.1650957292583833e-06), ('pala', 9.431727332091674e-07), ('tierra', 8.876919841968634e-07), ('plancha', 8.876919841968634e-07), ('televisión', 8.876919841968634e-07)]
+-- TIEMPO -- 
+[('familia', 1.0402640439806993e-06), ('leche', 9.477961289601926e-07), ('comida', 8.368346309355847e-07), ('dinero', 8.0678255855392e-07), ('calzón', 7.906006734253315e-07)]
+-- ASOCIACIÓN -- 
+[('familia', 1.1650957292583833e-06), ('plancha', 9.986534822214713e-07), ('pala', 9.431727332091674e-07), ('tierra', 8.876919841968634e-07), ('televisión', 8.876919841968634e-07)]
+Definción: es un aparato para limpiar y succionar el polvo
+-- FRECUENCIA -- 
+[('aspiradora', 2.2192299604921584e-06), ('mano', 1.5534609723445109e-06), ('familia', 1.497980223332207e-06), ('pala', 1.387018725307599e-06), ('plancha', 1.3315379762952952e-06)]
+-- TIEMPO -- 
+[('familia', 1.3454081635483712e-06), ('aspiradora', 1.289927414536067e-06), ('leche', 1.2714338315319657e-06), ('escoba', 1.1928361037645351e-06), ('bat', 1.109614980246079e-06)]
+-- ASOCIACIÓN -- 
+[('aspiradora', 2.2192299604921584e-06), ('mano', 1.5534609723445109e-06), ('familia', 1.497980223332207e-06), ('plancha', 1.4424994743199031e-06), ('pala', 1.276057227282991e-06)]
+Concepto: Ojo
+Definción: Parte del cuerpo que se utiliza para ver
+-- FRECUENCIA -- 
+[('mano', 2.2192299604921585e-07), ('ojo', 1.1096149802460793e-07), ('reloj', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('mano', 2.2192299604921585e-07), ('ojo', 1.1096149802460793e-07), ('reloj', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('mano', 2.2192299604921585e-07), ('ojo', 1.1096149802460793e-07), ('reloj', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: *señalo la parte del cuerpo y pregunto, ¿cómo se llama?
+-- FRECUENCIA -- 
+[('mano', 6.657689881476476e-07), ('teléfono', 5.548074901230396e-07), ('dedo', 5.548074901230396e-07), ('botón', 3.328844940738238e-07), ('reloj', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('botón', 5.039501368617611e-07), ('mano', 4.808331581066344e-07), ('timbre', 4.184173154677924e-07), ('dedo', 4.1703029674248477e-07), ('reloj', 2.4041657905331713e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 8.322112351845594e-07), ('dedo', 5.548074901230396e-07), ('teléfono', 2.774037450615198e-07), ('timbre', 2.774037450615198e-07), ('reloj', 2.774037450615198e-07)]
+Definción: Tenemos dos y pueden ser de diferentes colores
+-- FRECUENCIA -- 
+[('mano', 1.3315379762952952e-06), ('dedo', 1.1650957292583833e-06), ('pelo', 1.0541342312337753e-06), ('teléfono', 8.876919841968634e-07), ('reloj', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.708807069578962e-06), ('mano', 9.616663162132687e-07), ('botón', 7.397433201640528e-07), ('dedo', 6.565221966455968e-07), ('timbre', 6.195350306373943e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 1.608941721356815e-06), ('dedo', 1.1650957292583833e-06), ('pelo', 8.322112351845594e-07), ('teléfono', 4.993267411107356e-07), ('timbre', 3.883652430861277e-07)]
+Definción: Órgano que usamos para ver
+-- FRECUENCIA -- 
+[('mano', 1.497980223332207e-06), ('dedo', 1.4424994743199031e-06), ('pelo', 1.3315379762952952e-06), ('teléfono', 1.1650957292583833e-06), ('doctor', 1.1650957292583833e-06)]
+-- TIEMPO -- 
+[('cubeta', 1.9335041030787926e-06), ('botón', 1.1835893122624845e-06), ('mano', 1.1003681887440288e-06), ('doctor', 9.577364298248973e-07), ('dedo', 8.488554598882507e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 1.7753839683937268e-06), ('dedo', 1.4424994743199031e-06), ('doctor', 1.1650957292583833e-06), ('pelo', 9.431727332091674e-07), ('teléfono', 7.767304861722554e-07)]
+Definción: con lo que vemos
+-- FRECUENCIA -- 
+[('mano', 1.6644224703691188e-06), ('dedo', 1.497980223332207e-06), ('pelo', 1.387018725307599e-06), ('teléfono', 1.2205764782706872e-06), ('doctor', 1.2205764782706872e-06)]
+-- TIEMPO -- 
+[('cubeta', 1.9335041030787926e-06), ('botón', 1.2390700612747883e-06), ('mano', 1.1558489377563326e-06), ('doctor', 1.0132171788372014e-06), ('dedo', 9.043362089005546e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 1.941826215430639e-06), ('dedo', 1.497980223332207e-06), ('doctor', 1.2205764782706872e-06), ('pelo', 9.431727332091674e-07), ('teléfono', 8.322112351845594e-07)]
+Concepto: Zanahoria
+Definción: Vegetal de color naranja, crece bajo la tierra y es el alimento preferido por los conejos, caballos, al menos en el imaginario colectivo.
+-- FRECUENCIA -- 
+[('planta', 1.5534609723445109e-06), ('zanahoria', 1.4424994743199031e-06), ('mono', 1.1096149802460792e-06), ('autobús', 9.431727332091674e-07), ('verde', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('planta', 1.790795287563811e-06), ('vaca', 1.0841863036154399e-06), ('cubeta', 9.339259417071166e-07), ('mono', 9.200557544540407e-07), ('ejote', 9.015621714499394e-07)]
+-- ASOCIACIÓN -- 
+[('planta', 1.8863454664183348e-06), ('mono', 1.1096149802460792e-06), ('zanahoria', 1.1096149802460792e-06), ('autobús', 8.322112351845594e-07), ('animal', 6.657689881476476e-07)]
+Definción: "la verdura que comen los conejos, ¿cómo se dice?
+-- FRECUENCIA -- 
+[('zanahoria', 2.4411529565413744e-06), ('planta', 1.8863454664183348e-06), ('mono', 1.387018725307599e-06), ('autobús', 1.0818746057399272e-06), ('calabaza', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('planta', 2.47505785871556e-06), ('vaca', 1.5280322957138715e-06), ('ejote', 1.449434567946441e-06), ('mono', 1.1697191250094084e-06), ('cubeta', 1.0726278142378765e-06)]
+-- ASOCIACIÓN -- 
+[('planta', 2.2192299604921584e-06), ('zanahoria', 1.7753839683937268e-06), ('mono', 1.387018725307599e-06), ('autobús', 1.0818746057399272e-06), ('ejote', 8.876919841968634e-07)]
+Definción: Comerla es buena para la vista
+-- FRECUENCIA -- 
+[('zanahoria', 3.7726909328366695e-06), ('planta', 2.0527877134552466e-06), ('mono', 1.6644224703691188e-06), ('autobús', 1.359278350801447e-06), ('calabaza', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('planta', 2.6415001057524718e-06), ('vaca', 1.8863454664183348e-06), ('ejote', 1.7580462343273818e-06), ('zanahoria', 1.497980223332207e-06), ('ratón', 1.4648458871165255e-06)]
+-- ASOCIACIÓN -- 
+[('zanahoria', 2.6630759525905903e-06), ('planta', 2.3856722075290703e-06), ('mono', 1.6644224703691188e-06), ('autobús', 1.359278350801447e-06), ('ejote', 1.1096149802460792e-06)]
+Definción: Raíz naranja que comen los conejos de las caricaturas
+-- FRECUENCIA -- 
+[('zanahoria', 5.991920893328828e-06), ('planta', 2.4411529565413744e-06), ('mono', 2.0527877134552466e-06), ('autobús', 1.608941721356815e-06), ('ganso', 9.986534822214713e-07)]
+-- TIEMPO -- 
+[('planta', 3.5846728389616396e-06), ('zanahoria', 2.6075952035782862e-06), ('vaca', 2.3440616457698422e-06), ('ejote', 2.2504378818115793e-06), ('ratón', 1.9133152749659827e-06)]
+-- ASOCIACIÓN -- 
+[('zanahoria', 4.327498422959709e-06), ('planta', 3.1069219446890217e-06), ('mono', 2.0527877134552466e-06), ('autobús', 1.608941721356815e-06), ('ejote', 1.5534609723445109e-06)]
+Definción: lo que comen los conejos
+-- FRECUENCIA -- 
+[('zanahoria', 6.546728383451867e-06), ('planta', 2.4966337055536785e-06), ('mono', 2.1637492114798544e-06), ('autobús', 1.6921628448752709e-06), ('calabaza', 1.1096149802460792e-06)]
+-- TIEMPO -- 
+[('planta', 3.6956343369862473e-06), ('zanahoria', 2.94047969765211e-06), ('vaca', 2.565984641819058e-06), ('ejote', 2.430750316101567e-06), ('ratón', 2.1352382710151987e-06)]
+-- ASOCIACIÓN -- 
+[('zanahoria', 4.7158636660458365e-06), ('planta', 3.162402693701326e-06), ('mono', 2.1637492114798544e-06), ('ejote', 1.7753839683937268e-06), ('autobús', 1.6921628448752709e-06)]
+Concepto: Mano
+Definción: La parte del cuerpo con la que agarras los objetos y que tiene 5 dedos
+-- FRECUENCIA -- 
+[('mano', 8.876919841968634e-07), ('martillo', 3.328844940738238e-07), ('mueble', 1.1096149802460793e-07), ('cajón', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('brazo', 1.3500315592993963e-06), ('cubeta', 4.1055754269104936e-07), ('mano', 3.652482643310011e-07), ('vaso', 1.1466021462542818e-07), ('color', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('mano', 7.767304861722554e-07), ('palo', 3.328844940738238e-07), ('mueble', 1.1096149802460793e-07), ('brazo', 1.1096149802460793e-07), ('cajón', 1.1096149802460793e-07)]
+Definción: La parte del cuerpo conde terminan los brazos
+-- FRECUENCIA -- 
+[('mano', 1.497980223332207e-06), ('martillo', 4.993267411107356e-07), ('mueble', 1.664422470369119e-07), ('cajón', 1.664422470369119e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('brazo', 1.8493583004101318e-06), ('mano', 6.264701242639323e-07), ('cubeta', 5.721452241893846e-07), ('vaso', 1.4679281509505425e-07), ('martillo', 9.24679150205066e-08)]
+-- ASOCIACIÓN -- 
+[('mano', 1.2205764782706872e-06), ('palo', 3.883652430861277e-07), ('mueble', 1.664422470369119e-07), ('brazo', 1.664422470369119e-07), ('cajón', 1.664422470369119e-07)]
+Definción: extremidad
+-- FRECUENCIA -- 
+[('mano', 2.0527877134552466e-06), ('martillo', 6.102882391353436e-07), ('mueble', 1.664422470369119e-07), ('cajón', 1.664422470369119e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('brazo', 2.5336208715618808e-06), ('mano', 7.929123713008442e-07), ('cubeta', 6.310935200149575e-07), ('vaso', 1.6875394491242456e-07), ('pie', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 1.497980223332207e-06), ('palo', 4.993267411107356e-07), ('brazo', 4.438459920984317e-07), ('mueble', 1.664422470369119e-07), ('cajón', 1.664422470369119e-07)]
+Definción: con lo que agarran las cosas los humanos
+-- FRECUENCIA -- 
+[('mano', 3.6062486857997577e-06), ('bolsa', 6.657689881476476e-07), ('martillo', 6.657689881476476e-07), ('cajón', 3.328844940738238e-07), ('mueble', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('brazo', 4.031601094894088e-06), ('mano', 1.01483536735006e-06), ('cubeta', 8.807568905703254e-07), ('escoba', 3.271052493850421e-07), ('pie', 2.3579318330229185e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 2.6630759525905903e-06), ('brazo', 8.322112351845594e-07), ('bolsa', 6.657689881476476e-07), ('palo', 5.548074901230396e-07), ('cajón', 3.328844940738238e-07)]
+Definción: Pie
+-- FRECUENCIA -- 
+[('mano', 4.050094677898189e-06), ('bolsa', 7.767304861722554e-07), ('martillo', 6.657689881476476e-07), ('cajón', 3.328844940738238e-07), ('mueble', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('brazo', 4.808331581066343e-06), ('mano', 1.1812776143869718e-06), ('cubeta', 8.807568905703254e-07), ('mueble', 4.0223543033920374e-07), ('escoba', 3.271052493850421e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 2.995960446664414e-06), ('brazo', 8.322112351845594e-07), ('bolsa', 6.657689881476476e-07), ('palo', 5.548074901230396e-07), ('cajón', 3.328844940738238e-07)]
+Concepto: Brazo
+Definción:  parte del cuerpo en donde están las manos
+-- FRECUENCIA -- 
+[('mano', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('mano', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('mano', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Una parte del cuerpo, que sostiene cosas y aplica fuerza.
+-- FRECUENCIA -- 
+[('mano', 1.276057227282991e-06), ('bolsa', 3.883652430861277e-07), ('cajón', 1.664422470369119e-07), ('mueble', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('mano', 8.322112351845594e-07), ('mueble', 2.2192299604921585e-07), ('suéter', 1.664422470369119e-07), ('brazo', 1.664422470369119e-07), ('playera', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 1.1096149802460792e-06), ('bolsa', 3.883652430861277e-07), ('brazo', 1.664422470369119e-07), ('cajón', 1.664422470369119e-07), ('mesa', 1.1096149802460793e-07)]
+Definción: extremidad superior del cuerpo humano
+-- FRECUENCIA -- 
+[('mano', 3.051441195676718e-06), ('bolsa', 6.657689881476476e-07), ('cajón', 1.664422470369119e-07), ('mueble', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('mano', 1.497980223332207e-06), ('brazo', 7.767304861722554e-07), ('mueble', 4.438459920984317e-07), ('pie', 2.9127393231459583e-07), ('suéter', 2.2192299604921585e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 2.0527877134552466e-06), ('brazo', 9.986534822214713e-07), ('bolsa', 6.657689881476476e-07), ('cajón', 1.664422470369119e-07), ('mesa', 1.1096149802460793e-07)]
+Definción: parte del cuerpo que te permite agarrar cosas
+-- FRECUENCIA -- 
+[('mano', 4.993267411107357e-06), ('bolsa', 1.1650957292583833e-06), ('cajón', 2.774037450615198e-07), ('mueble', 1.664422470369119e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('mano', 2.2192299604921584e-06), ('brazo', 1.387018725307599e-06), ('mueble', 6.657689881476476e-07), ('pie', 4.0223543033920374e-07), ('suéter', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 3.3288449407382377e-06), ('brazo', 1.6644224703691188e-06), ('bolsa', 1.1650957292583833e-06), ('cajón', 2.774037450615198e-07), ('mesa', 1.664422470369119e-07)]
+Definción: es una parte del cuerpo pegada a la mano
+-- FRECUENCIA -- 
+[('mano', 6.657689881476475e-06), ('bolsa', 1.276057227282991e-06), ('martillo', 1.2205764782706872e-06), ('cajón', 3.328844940738238e-07), ('palo', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('mano', 3.051441195676718e-06), ('brazo', 1.5534609723445109e-06), ('mueble', 9.986534822214713e-07), ('martillo', 6.657689881476476e-07), ('suéter', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 4.771344415058141e-06), ('brazo', 1.8863454664183348e-06), ('palo', 1.387018725307599e-06), ('bolsa', 1.276057227282991e-06), ('cajón', 3.328844940738238e-07)]
+Concepto: Caballo
+Definción: animal que se puede montar
+-- FRECUENCIA -- 
+[('caballo', 1.1096149802460793e-07), ('león', 1.1096149802460793e-07), ('botas', 1.1096149802460793e-07), ('dinero', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('comida', 1.1096149802460793e-07), ('caballo', 8.322112351845595e-08), ('dinero', 8.322112351845595e-08), ('cocodrilo', 7.397433201640528e-08), ('burro', 7.397433201640528e-08)]
+-- ASOCIACIÓN -- 
+[('caballo', 1.1096149802460793e-07), ('león', 1.1096149802460793e-07), ('botas', 1.1096149802460793e-07), ('dinero', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Un animal de cuatro patas que corre mucho y se usa para carreras.
+-- FRECUENCIA -- 
+[('caballo', 9.986534822214713e-07), ('pie', 3.328844940738238e-07), ('zapato', 3.328844940738238e-07), ('silla', 2.2192299604921585e-07), ('policía', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('caballo', 4.4846938784945704e-07), ('policía', 4.0223543033920374e-07), ('zapato', 2.8202714081254515e-07), ('vestido', 2.5736903014041007e-07), ('moto', 2.531309173686368e-07)]
+-- ASOCIACIÓN -- 
+[('caballo', 9.986534822214713e-07), ('zapato', 6.102882391353436e-07), ('pie', 3.328844940738238e-07), ('botas', 3.328844940738238e-07), ('león', 2.774037450615198e-07)]
+Definción: animal equino usado para cabalgar, se usa en los juegos de polo
+-- FRECUENCIA -- 
+[('caballo', 3.6617294348120614e-06), ('gorra', 7.767304861722554e-07), ('zapato', 6.657689881476476e-07), ('vestido', 6.657689881476476e-07), ('silla', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('caballo', 3.213260046962604e-06), ('zapato', 9.570429204622434e-07), ('policía', 8.58410477773703e-07), ('gato', 7.767304861722554e-07), ('cocodrilo', 6.28781822139445e-07)]
+-- ASOCIACIÓN -- 
+[('caballo', 3.6617294348120614e-06), ('zapato', 1.4424994743199031e-06), ('gorra', 8.876919841968634e-07), ('botas', 7.767304861722554e-07), ('pato', 5.548074901230396e-07)]
+Definción: animal que galopa y relincha
+-- FRECUENCIA -- 
+[('caballo', 6.990574375550299e-06), ('vestido', 9.431727332091674e-07), ('gorra', 7.767304861722554e-07), ('silla', 6.657689881476476e-07), ('camisa', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('caballo', 6.162986536116765e-06), ('cocodrilo', 1.0541342312337753e-06), ('policía', 9.817010311343783e-07), ('zapato', 9.570429204622434e-07), ('gato', 8.876919841968634e-07)]
+-- ASOCIACIÓN -- 
+[('caballo', 6.990574375550299e-06), ('zapato', 1.941826215430639e-06), ('botas', 1.2205764782706872e-06), ('gorra', 8.876919841968634e-07), ('pato', 7.767304861722554e-07)]
+Definción: animal que relincha
+-- FRECUENCIA -- 
+[('caballo', 7.98922785777177e-06), ('vestido', 1.0263938567276233e-06), ('gorra', 7.767304861722554e-07), ('silla', 7.212497371599516e-07), ('camisa', 6.935093626537995e-07)]
+-- TIEMPO -- 
+[('caballo', 6.99982116705235e-06), ('cocodrilo', 1.2575636442788897e-06), ('policía', 1.0371817801466824e-06), ('gato', 9.986534822214713e-07), ('zapato', 9.570429204622434e-07)]
+-- ASOCIACIÓN -- 
+[('caballo', 7.98922785777177e-06), ('zapato', 2.0527877134552466e-06), ('botas', 1.276057227282991e-06), ('gorra', 8.876919841968634e-07), ('león', 8.322112351845594e-07)]
+Concepto: Calabaza
+Definción: verdura amarilla o naranja muy grande y redonda que usan para hacer lámparas
+-- FRECUENCIA -- 
+[('pollito', 4.438459920984317e-07), ('vestido', 3.883652430861277e-07), ('palo', 3.328844940738238e-07), ('globo', 3.328844940738238e-07), ('camisa', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('electrodoméstico', 1.0818746057399272e-06), ('refrigerador', 8.044708606784075e-07), ('vestido', 5.964180518822676e-07), ('palo', 5.409373028699636e-07), ('fuego', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('burbuja', 3.328844940738238e-07), ('palo', 3.328844940738238e-07), ('camisa', 2.2192299604921585e-07), ('globo', 2.2192299604921585e-07), ('zanahoria', 2.2192299604921585e-07)]
+Definción: Adornos de Halloween
+-- FRECUENCIA -- 
+[('pollito', 4.438459920984317e-07), ('vestido', 3.883652430861277e-07), ('palo', 3.328844940738238e-07), ('globo', 3.328844940738238e-07), ('camisa', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('electrodoméstico', 1.0818746057399272e-06), ('refrigerador', 8.044708606784075e-07), ('vestido', 5.964180518822676e-07), ('palo', 5.409373028699636e-07), ('fuego', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('burbuja', 3.328844940738238e-07), ('palo', 3.328844940738238e-07), ('camisa', 2.2192299604921585e-07), ('globo', 2.2192299604921585e-07), ('zanahoria', 2.2192299604921585e-07)]
+Definción: La cosa naranja a la que le ponen cara en Halloween
+-- FRECUENCIA -- 
+[('burbuja', 9.986534822214713e-07), ('calabaza', 9.986534822214713e-07), ('vestido', 9.8015989921737e-07), ('camisa', 4.808331581066343e-07), ('palo', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('electrodoméstico', 1.8216179259039802e-06), ('refrigerador', 1.2668104357809406e-06), ('calabaza', 9.108089629519901e-07), ('vestido', 8.460814224376354e-07), ('burbuja', 7.212497371599516e-07)]
+-- ASOCIACIÓN -- 
+[('burbuja', 1.276057227282991e-06), ('calabaza', 8.876919841968634e-07), ('vestido', 7.027561541558502e-07), ('zapato', 6.102882391353436e-07), ('palo', 5.548074901230396e-07)]
+Definción: verdura de color verde y amarilla por dentro, de sabor dulzón
+-- FRECUENCIA -- 
+[('calabaza', 1.608941721356815e-06), ('burbuja', 1.2205764782706872e-06), ('vestido', 1.220576478270687e-06), ('zanahoria', 9.986534822214713e-07), ('globo', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('electrodoméstico', 2.552114454565982e-06), ('refrigerador', 1.8308647174060307e-06), ('cubeta', 1.6551756788670682e-06), ('vestido', 1.262187040029915e-06), ('calabaza', 1.18821270801351e-06)]
+-- ASOCIACIÓN -- 
+[('burbuja', 1.608941721356815e-06), ('calabaza', 1.276057227282991e-06), ('zanahoria', 1.0541342312337753e-06), ('zapato', 8.876919841968634e-07), ('vestido', 8.044708606784075e-07)]
+Definción: verdura verde con pepita para hacer consomé
+-- FRECUENCIA -- 
+[('calabaza', 3.6062486857997577e-06), ('burbuja', 1.497980223332207e-06), ('vestido', 1.359278350801447e-06), ('zanahoria', 1.3315379762952952e-06), ('plastilina', 1.1096149802460792e-06)]
+-- TIEMPO -- 
+[('electrodoméstico', 3.051441195676718e-06), ('calabaza', 3.028324216921592e-06), ('refrigerador', 2.1637492114798544e-06), ('cubeta', 1.8770986749162839e-06), ('vestido', 1.428629287066827e-06)]
+-- ASOCIACIÓN -- 
+[('calabaza', 2.718556701602894e-06), ('burbuja', 2.0527877134552466e-06), ('zanahoria', 1.3315379762952952e-06), ('palo', 1.1096149802460792e-06), ('vestido', 1.0263938567276233e-06)]
+Concepto: Manzana
+Definción: La fruta que es redonda y puede ser de color rojo, verde y amarillo
+-- FRECUENCIA -- 
+[('globo', 6.657689881476476e-07), ('sandía', 3.328844940738238e-07), ('dinero', 3.328844940738238e-07), ('plátano', 2.2192299604921585e-07), ('león', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.0864980014909525e-06), ('muñeco de nieve', 5.733010731271409e-07), ('policía', 3.9298863883715306e-07), ('mamá', 2.4041657905331713e-07), ('león', 2.2192299604921585e-07)]
+-- ASOCIACIÓN -- 
+[('globo', 3.328844940738238e-07), ('dinero', 3.328844940738238e-07), ('plátano', 2.2192299604921585e-07), ('león', 2.2192299604921585e-07), ('manzana', 2.2192299604921585e-07)]
+Definción: Una fruta roja que le das a tu maestra
+-- FRECUENCIA -- 
+[('globo', 8.322112351845594e-07), ('juguete', 8.322112351845594e-07), ('manzana', 5.548074901230396e-07), ('sandía', 5.548074901230396e-07), ('dinero', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.5858247426016883e-06), ('muñeco de nieve', 9.089596046515799e-07), ('policía', 5.622049233246802e-07), ('manzana', 5.548074901230396e-07), ('dedo', 4.4107195464781653e-07)]
+-- ASOCIACIÓN -- 
+[('manzana', 9.986534822214713e-07), ('juguete', 8.876919841968634e-07), ('globo', 3.883652430861277e-07), ('león', 3.883652430861277e-07), ('plumón', 3.883652430861277e-07)]
+Definción: fruta
+-- FRECUENCIA -- 
+[('juguete', 8.876919841968634e-07), ('globo', 8.322112351845594e-07), ('sandía', 6.657689881476476e-07), ('manzana', 6.102882391353436e-07), ('dinero', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.5858247426016883e-06), ('muñeco de nieve', 9.089596046515799e-07), ('manzana', 6.380286136414955e-07), ('policía', 5.622049233246802e-07), ('dedo', 4.965527036601204e-07)]
+-- ASOCIACIÓN -- 
+[('manzana', 1.0541342312337753e-06), ('juguete', 9.431727332091674e-07), ('sandía', 4.993267411107356e-07), ('dinero', 4.438459920984317e-07), ('globo', 3.883652430861277e-07)]
+Definción: la fruta a la que le ponen chamoy y miguelito
+-- FRECUENCIA -- 
+[('chile', 1.4424994743199031e-06), ('pollito', 1.4424994743199031e-06), ('juguete', 1.276057227282991e-06), ('dinero', 9.431727332091674e-07), ('globo', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.9395145175551258e-06), ('pollito', 1.193349814403538e-06), ('chile', 1.1532290134974181e-06), ('muñeco de nieve', 9.089596046515799e-07), ('manzana', 8.738217969437874e-07)]
+-- ASOCIACIÓN -- 
+[('manzana', 1.4424994743199031e-06), ('chile', 1.4424994743199031e-06), ('pollito', 1.4424994743199031e-06), ('juguete', 1.2205764782706872e-06), ('dinero', 7.212497371599516e-07)]
+Definción: Blanca nieves
+-- FRECUENCIA -- 
+[('chile', 1.6644224703691188e-06), ('pollito', 1.6644224703691188e-06), ('juguete', 1.387018725307599e-06), ('dinero', 1.0541342312337753e-06), ('manzana', 8.876919841968634e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.9395145175551258e-06), ('muñeco de nieve', 1.5932221758033287e-06), ('pollito', 1.387532435946602e-06), ('chile', 1.3058010732812541e-06), ('manzana', 9.431727332091674e-07)]
+-- ASOCIACIÓN -- 
+[('chile', 1.6644224703691188e-06), ('pollito', 1.6644224703691188e-06), ('manzana', 1.5534609723445109e-06), ('juguete', 1.3315379762952952e-06), ('dinero', 8.322112351845594e-07)]
+Concepto: Avión
+Definción: medio de transporte con el que puedes volar
+-- FRECUENCIA -- 
+[('dinero', 4.438459920984317e-07), ('autobús', 2.2192299604921585e-07), ('pájaro', 1.1096149802460793e-07), ('avión', 1.1096149802460793e-07), ('mano', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('policía', 3.328844940738238e-07), ('televisión', 2.5428676630639316e-07), ('feo', 1.1096149802460793e-07), ('autobús', 1.1096149802460793e-07), ('sombrero', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('dinero', 4.438459920984317e-07), ('autobús', 2.2192299604921585e-07), ('helicóptero', 2.2192299604921585e-07), ('pájaro', 1.1096149802460793e-07), ('mano', 1.1096149802460793e-07)]
+Definción: Un sistema de transporte que se va volando por el cielo.
+-- FRECUENCIA -- 
+[('familia', 7.767304861722554e-07), ('dinero', 7.212497371599516e-07), ('globo', 4.993267411107356e-07), ('pájaro', 4.438459920984317e-07), ('avión', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('globo', 6.703923838986728e-07), ('policía', 6.657689881476476e-07), ('televisión', 5.779244688781662e-07), ('familia', 5.501840943720143e-07), ('autobús', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('dinero', 8.322112351845594e-07), ('familia', 7.767304861722554e-07), ('helicóptero', 7.767304861722554e-07), ('globo', 6.102882391353436e-07), ('autobús', 3.328844940738238e-07)]
+Definción: medio de transporte que vuela
+-- FRECUENCIA -- 
+[('dinero', 1.1096149802460792e-06), ('familia', 9.431727332091674e-07), ('globo', 6.102882391353436e-07), ('pájaro', 5.548074901230396e-07), ('avión', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('globo', 8.368346309355847e-07), ('policía', 8.322112351845594e-07), ('televisión', 8.229644436825087e-07), ('familia', 7.166263414089261e-07), ('autobús', 4.715863666045837e-07)]
+-- ASOCIACIÓN -- 
+[('dinero', 1.2205764782706872e-06), ('helicóptero', 1.1096149802460792e-06), ('familia', 9.431727332091674e-07), ('globo', 7.212497371599516e-07), ('autobús', 4.993267411107356e-07)]
+Definción: transporte aéreo
+-- FRECUENCIA -- 
+[('dinero', 1.497980223332207e-06), ('avión', 1.276057227282991e-06), ('familia', 1.1096149802460792e-06), ('globo', 8.322112351845594e-07), ('helicóptero', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('helicóptero', 1.1466021462542817e-06), ('televisión', 1.0448874397317247e-06), ('globo', 1.0032768779724966e-06), ('policía', 9.986534822214713e-07), ('familia', 8.830685884458381e-07)]
+-- ASOCIACIÓN -- 
+[('helicóptero', 1.7753839683937268e-06), ('dinero', 1.608941721356815e-06), ('familia', 1.1096149802460792e-06), ('globo', 9.431727332091674e-07), ('autobús', 6.102882391353436e-07)]
+Definción: medio de transporte en el aire
+-- FRECUENCIA -- 
+[('avión', 1.8863454664183348e-06), ('dinero', 1.8863454664183348e-06), ('familia', 1.3315379762952952e-06), ('globo', 1.1096149802460792e-06), ('pájaro', 8.876919841968634e-07)]
+-- TIEMPO -- 
+[('televisión', 1.5118504105852832e-06), ('helicóptero', 1.3870187253075988e-06), ('globo', 1.2251998740217125e-06), ('policía', 1.1096149802460792e-06), ('familia', 9.94030086470446e-07)]
+-- ASOCIACIÓN -- 
+[('helicóptero', 2.4411529565413744e-06), ('dinero', 2.3301914585167666e-06), ('familia', 1.3315379762952952e-06), ('globo', 1.2205764782706872e-06), ('autobús', 7.767304861722554e-07)]
+Concepto: Melón
+Definción: Fruta color naranja pastel usualmente se encuentra en los cócteles de fruta. Tiene cáscara dura, es necesario utilizar un cuchillo para poder consumirla.
+-- FRECUENCIA -- 
+[('iglesia', 9.986534822214713e-07), ('naranja', 8.876919841968634e-07), ('dinero', 7.767304861722554e-07), ('tenedor', 3.328844940738238e-07), ('grande', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('mueble', 1.271433831531966e-06), ('cubeta', 1.018688197142581e-06), ('olla', 9.547312225867305e-07), ('iglesia', 8.322112351845594e-07), ('policía', 6.750157796496982e-07)]
+-- ASOCIACIÓN -- 
+[('iglesia', 9.986534822214713e-07), ('naranja', 6.657689881476476e-07), ('dinero', 5.548074901230396e-07), ('grande', 4.438459920984317e-07), ('tenedor', 4.438459920984317e-07)]
+Definción: la fruta que es rosa por dentro, que también es un color.
+-- FRECUENCIA -- 
+[('naranja', 1.276057227282991e-06), ('iglesia', 1.2205764782706872e-06), ('dinero', 8.876919841968634e-07), ('mano', 5.548074901230396e-07), ('tenedor', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('mueble', 1.6690458661201442e-06), ('cubeta', 1.390100989141616e-06), ('olla', 1.3153560911667065e-06), ('iglesia', 1.0263938567276233e-06), ('policía', 7.304965286620021e-07)]
+-- ASOCIACIÓN -- 
+[('iglesia', 1.2205764782706872e-06), ('naranja', 9.431727332091674e-07), ('mano', 6.657689881476476e-07), ('dinero', 6.657689881476476e-07), ('grande', 5.548074901230396e-07)]
+Definción: Fruta anaranjada que es china
+-- FRECUENCIA -- 
+[('naranja', 2.0527877134552466e-06), ('iglesia', 1.497980223332207e-06), ('dinero', 1.0541342312337753e-06), ('melón', 9.986534822214713e-07), ('mano', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('mueble', 2.0759046922103737e-06), ('cubeta', 1.796959815231845e-06), ('olla', 1.731461708758986e-06), ('naranja', 1.6782926576221949e-06), ('iglesia', 1.276057227282991e-06)]
+-- ASOCIACIÓN -- 
+[('iglesia', 1.497980223332207e-06), ('naranja', 1.4424994743199031e-06), ('durazno', 9.431727332091674e-07), ('melón', 7.767304861722554e-07), ('mano', 7.767304861722554e-07)]
+Definción: Fruta redonda de cáscara clara, rugosa e interior naranja
+-- FRECUENCIA -- 
+[('naranja', 3.6617294348120614e-06), ('agua', 2.4411529565413744e-06), ('iglesia', 2.1082684624675507e-06), ('trapo', 2.1082684624675507e-06), ('melón', 1.7753839683937268e-06)]
+-- TIEMPO -- 
+[('mueble', 3.277987587476959e-06), ('cubeta', 2.647664633420506e-06), ('naranja', 2.570608037570084e-06), ('olla', 2.5498027566904695e-06), ('iglesia', 1.8077477386509038e-06)]
+-- ASOCIACIÓN -- 
+[('naranja', 2.6630759525905903e-06), ('agua', 2.4411529565413744e-06), ('iglesia', 2.1082684624675507e-06), ('trapo', 2.1082684624675507e-06), ('melón', 1.497980223332207e-06)]
+Definción: la fruta redonda y grande... con semillitas
+-- FRECUENCIA -- 
+[('naranja', 4.604902168021229e-06), ('agua', 2.774037450615198e-06), ('melón', 2.718556701602894e-06), ('iglesia', 2.4411529565413744e-06), ('trapo', 2.4411529565413744e-06)]
+-- TIEMPO -- 
+[('manzana', 6.680806860231602e-06), ('mueble', 3.8512886606040995e-06), ('cubeta', 3.5723437836255717e-06), ('naranja', 3.291857774730035e-06), ('olla', 2.8919340422663442e-06)]
+-- ASOCIACIÓN -- 
+[('naranja', 3.1069219446890217e-06), ('agua', 2.774037450615198e-06), ('iglesia', 2.4411529565413744e-06), ('trapo', 2.4411529565413744e-06), ('melón', 2.2192299604921584e-06)]
+Concepto: Bicicleta
+Definción: Transporte que no necesita de gasolina o derivados, se mueve gracias a la fuerza que realiza el humano. Existen algunas estacionarias que son usadas para hacer ejercicio.
+-- FRECUENCIA -- 
+[('brazo', 9.986534822214713e-07), ('lente', 8.876919841968634e-07), ('niño', 7.767304861722554e-07), ('plastilina', 7.767304861722554e-07), ('camisa', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('brazo', 9.570429204622434e-07), ('lente', 9.431727332091674e-07), ('niño', 4.715863666045837e-07), ('autobús', 4.2997580484535573e-07), ('vestido', 4.2997580484535573e-07)]
+-- ASOCIACIÓN -- 
+[('brazo', 1.1096149802460792e-06), ('lente', 8.876919841968634e-07), ('niño', 7.767304861722554e-07), ('plastilina', 6.657689881476476e-07), ('moto', 6.657689881476476e-07)]
+Definción: la que pedaleas
+-- FRECUENCIA -- 
+[('bicicleta', 1.2205764782706872e-06), ('niño', 9.986534822214713e-07), ('brazo', 9.986534822214713e-07), ('lente', 9.986534822214713e-07), ('plastilina', 8.876919841968634e-07)]
+-- TIEMPO -- 
+[('lente', 1.0541342312337753e-06), ('brazo', 9.570429204622434e-07), ('bicicleta', 8.322112351845594e-07), ('niño', 5.548074901230396e-07), ('vestido', 5.409373028699636e-07)]
+-- ASOCIACIÓN -- 
+[('bicicleta', 1.2205764782706872e-06), ('brazo', 1.1096149802460792e-06), ('lente', 9.986534822214713e-07), ('niño', 8.876919841968634e-07), ('moto', 7.767304861722554e-07)]
+Definción: Es un transporte que se promueve los fines de semana en la ciudad
+-- FRECUENCIA -- 
+[('bicicleta', 1.5534609723445109e-06), ('lente', 1.1650957292583833e-06), ('niño', 1.0541342312337753e-06), ('plastilina', 1.0541342312337753e-06), ('brazo', 1.0541342312337753e-06)]
+-- TIEMPO -- 
+[('lente', 1.2205764782706872e-06), ('moto', 1.0818746057399272e-06), ('brazo', 1.0125236694745473e-06), ('bicicleta', 9.709131077153194e-07), ('vestido', 6.565221966455969e-07)]
+-- ASOCIACIÓN -- 
+[('bicicleta', 1.5534609723445109e-06), ('brazo', 1.1650957292583833e-06), ('lente', 1.1650957292583833e-06), ('niño', 9.986534822214713e-07), ('moto', 9.986534822214713e-07)]
+Definción: Vehículo sin motor y con dos ruedas
+-- FRECUENCIA -- 
+[('bicicleta', 2.8849989486398062e-06), ('moto', 2.1082684624675507e-06), ('lente', 1.497980223332207e-06), ('niño', 1.276057227282991e-06), ('plastilina', 1.276057227282991e-06)]
+-- TIEMPO -- 
+[('moto', 1.6921628448752709e-06), ('lente', 1.497980223332207e-06), ('brazo', 1.456369661572979e-06), ('bicicleta', 1.262187040029915e-06), ('tractor', 1.2483168527768392e-06)]
+-- ASOCIACIÓN -- 
+[('bicicleta', 2.6075952035782862e-06), ('moto', 2.2192299604921584e-06), ('niño', 1.6644224703691188e-06), ('lente', 1.497980223332207e-06), ('brazo', 1.1650957292583833e-06)]
+Definción: la moto sin motor
+-- FRECUENCIA -- 
+[('bicicleta', 3.21788344271363e-06), ('moto', 2.4966337055536785e-06), ('lente', 1.6644224703691188e-06), ('niño', 1.387018725307599e-06), ('plastilina', 1.387018725307599e-06)]
+-- TIEMPO -- 
+[('moto', 1.8586050919121827e-06), ('lente', 1.6644224703691188e-06), ('brazo', 1.595071534103739e-06), ('bicicleta', 1.497980223332207e-06), ('tractor', 1.497980223332207e-06)]
+-- ASOCIACIÓN -- 
+[('bicicleta', 2.94047969765211e-06), ('moto', 2.6075952035782862e-06), ('niño', 1.6644224703691188e-06), ('lente', 1.6644224703691188e-06), ('brazo', 1.1650957292583833e-06)]
+Concepto: León
+Definción: Ruge y vive en la selva
+-- FRECUENCIA -- 
+[('grande', 2.2192299604921585e-07), ('león', 2.2192299604921585e-07), ('casa', 2.2192299604921585e-07), ('elefante', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('león', 2.2192299604921585e-07), ('casa', 1.7337734066344988e-07), ('morder', 1.1096149802460793e-07), ('hot_cakes', 1.1096149802460793e-07), ('luna', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('grande', 2.2192299604921585e-07), ('león', 2.2192299604921585e-07), ('casa', 2.2192299604921585e-07), ('elefante', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Rey
+-- FRECUENCIA -- 
+[('león', 5.548074901230396e-07), ('grande', 3.328844940738238e-07), ('casa', 3.328844940738238e-07), ('elefante', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('león', 5.548074901230396e-07), ('casa', 2.843388386880578e-07), ('morder', 2.2192299604921585e-07), ('hot_cakes', 2.2192299604921585e-07), ('luna', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('león', 5.548074901230396e-07), ('grande', 3.328844940738238e-07), ('casa', 3.328844940738238e-07), ('elefante', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Animal carnívoro, de cuatro patas, grande melena, pelaje amarillo. Es el rey de la selva
+-- FRECUENCIA -- 
+[('león', 3.3843256897505418e-06), ('casa', 1.2205764782706872e-06), ('caballo', 1.1096149802460792e-06), ('elefante', 8.599516096907115e-07), ('grande', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('león', 3.5168630346132676e-06), ('cocodrilo', 1.1951478016400478e-06), ('casa', 1.0656927206113385e-06), ('caballo', 1.0633810227358258e-06), ('morder', 3.883652430861277e-07)]
+-- ASOCIACIÓN -- 
+[('león', 3.5507679367874536e-06), ('casa', 1.2205764782706872e-06), ('caballo', 1.1096149802460792e-06), ('elefante', 7.212497371599516e-07), ('grande', 6.657689881476476e-07)]
+Definción: El animal del escudo de Gryffindor.
+-- FRECUENCIA -- 
+[('león', 3.4952871877751495e-06), ('casa', 1.276057227282991e-06), ('caballo', 1.1650957292583833e-06), ('elefante', 9.154323587030153e-07), ('grande', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('león', 3.7387860306624836e-06), ('cocodrilo', 1.2198059123121827e-06), ('caballo', 1.137355354752231e-06), ('casa', 1.1211734696236426e-06), ('árbol', 4.0685882609022903e-07)]
+-- ASOCIACIÓN -- 
+[('león', 3.6617294348120614e-06), ('casa', 1.276057227282991e-06), ('caballo', 1.1650957292583833e-06), ('elefante', 7.767304861722554e-07), ('grande', 6.657689881476476e-07)]
+Definción: Animal conocido como el rey de la selva
+-- FRECUENCIA -- 
+[('león', 4.327498422959709e-06), ('casa', 1.4424994743199031e-06), ('caballo', 1.3315379762952952e-06), ('elefante', 1.1650957292583833e-06), ('grande', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('león', 4.62339575102533e-06), ('cocodrilo', 1.3739191040130269e-06), ('caballo', 1.350031559299396e-06), ('casa', 1.2876157166605544e-06), ('árbol', 4.947033453597103e-07)]
+-- ASOCIACIÓN -- 
+[('león', 4.549421419008925e-06), ('casa', 1.4424994743199031e-06), ('caballo', 1.3315379762952952e-06), ('elefante', 9.986534822214713e-07), ('grande', 7.767304861722554e-07)]
+Concepto: Boca
+Definción: agujero con dientes y lengua que usamos para hablar y para comer
+-- FRECUENCIA -- 
+[('boca', 4.438459920984317e-07), ('vestido', 3.328844940738238e-07), ('niño', 2.2192299604921585e-07), ('pasta_de_dientes', 2.2192299604921585e-07), ('niña', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('labio', 6.935093626537995e-07), ('zapato', 2.2192299604921585e-07), ('arete', 1.664422470369119e-07), ('vestido', 1.664422470369119e-07), ('amor', 1.387018725307599e-07)]
+-- ASOCIACIÓN -- 
+[('boca', 6.657689881476476e-07), ('pasta_de_dientes', 2.2192299604921585e-07), ('zapato', 2.2192299604921585e-07), ('vestido', 2.2192299604921585e-07), ('niña', 1.1096149802460793e-07)]
+Definción: Con lo que besas
+-- FRECUENCIA -- 
+[('labio', 5.548074901230396e-07), ('boca', 4.438459920984317e-07), ('vestido', 4.438459920984317e-07), ('niño', 2.2192299604921585e-07), ('pasta_de_dientes', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('labio', 1.2067062910176112e-06), ('zapato', 3.328844940738238e-07), ('arete', 2.496633705553678e-07), ('amor', 2.0805280879613985e-07), ('vestido', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('boca', 6.657689881476476e-07), ('labio', 5.548074901230396e-07), ('vestido', 3.328844940738238e-07), ('pasta_de_dientes', 2.2192299604921585e-07), ('zapato', 2.2192299604921585e-07)]
+Definción: Lo que usas para hablar y comer
+-- FRECUENCIA -- 
+[('vestido', 7.767304861722554e-07), ('labio', 7.212497371599516e-07), ('boca', 7.212497371599516e-07), ('niño', 3.883652430861277e-07), ('pasta_de_dientes', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('labio', 1.7753839683937268e-06), ('zapato', 5.548074901230396e-07), ('arete', 4.438459920984317e-07), ('amor', 3.883652430861277e-07), ('vestido', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('boca', 9.986534822214713e-07), ('labio', 7.212497371599516e-07), ('vestido', 6.102882391353436e-07), ('pasta_de_dientes', 3.328844940738238e-07), ('zapato', 3.328844940738238e-07)]
+Definción: parte del cuerpo humano con la que comemos
+-- FRECUENCIA -- 
+[('boca', 1.387018725307599e-06), ('labio', 1.1096149802460792e-06), ('vestido', 8.322112351845594e-07), ('cara', 7.767304861722554e-07), ('mano', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('labio', 2.3301914585167666e-06), ('mano', 9.293025459560914e-07), ('zapato', 7.212497371599516e-07), ('boca', 6.657689881476476e-07), ('cara', 6.102882391353436e-07)]
+-- ASOCIACIÓN -- 
+[('boca', 1.719903219381423e-06), ('labio', 1.1096149802460792e-06), ('cara', 7.767304861722554e-07), ('vestido', 6.657689881476476e-07), ('botón', 4.438459920984317e-07)]
+Definción: parte del cuerpo, tiene labios y te sirve para hablar
+-- FRECUENCIA -- 
+[('boca', 1.8863454664183348e-06), ('cara', 1.3315379762952952e-06), ('labio', 1.276057227282991e-06), ('vestido', 1.0541342312337753e-06), ('botón', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('labio', 3.065311382929794e-06), ('mano', 1.470239848826055e-06), ('boca', 1.0818746057399272e-06), ('zapato', 9.986534822214713e-07), ('leche', 9.792352200671648e-07)]
+-- ASOCIACIÓN -- 
+[('boca', 2.2192299604921584e-06), ('botón', 1.497980223332207e-06), ('cara', 1.3315379762952952e-06), ('labio', 1.276057227282991e-06), ('vestido', 8.876919841968634e-07)]
+Concepto: Chocolate
+Definción: alimento dulce y café de origen prehispánico que a casi todos les gusta y produce endorfina.
+-- FRECUENCIA -- 
+[('melón', 2.2192299604921585e-07), ('pan', 2.2192299604921585e-07), ('gelatina', 1.1096149802460793e-07), ('tienda', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('melón', 3.051441195676718e-07), ('vaca', 3.051441195676718e-07), ('comer', 1.9418262154306386e-07), ('osito', 8.322112351845595e-08), ('salchicha', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('melón', 2.2192299604921585e-07), ('tierra', 1.1096149802460793e-07), ('pan', 1.1096149802460793e-07), ('gelatina', 1.1096149802460793e-07), ('tienda', 1.1096149802460793e-07)]
+Definción: Golosina
+-- FRECUENCIA -- 
+[('melón', 2.2192299604921585e-07), ('pan', 2.2192299604921585e-07), ('gelatina', 1.1096149802460793e-07), ('tienda', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('melón', 3.051441195676718e-07), ('vaca', 3.051441195676718e-07), ('comer', 1.9418262154306386e-07), ('osito', 8.322112351845595e-08), ('salchicha', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('melón', 2.2192299604921585e-07), ('tierra', 1.1096149802460793e-07), ('pan', 1.1096149802460793e-07), ('gelatina', 1.1096149802460793e-07), ('tienda', 1.1096149802460793e-07)]
+Definción: Sabe dulce, es de color café y viene del cacao
+-- FRECUENCIA -- 
+[('carriola', 7.767304861722554e-07), ('chocolate', 5.548074901230396e-07), ('pan', 3.883652430861277e-07), ('bebé', 3.883652430861277e-07), ('melón', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.0541342312337753e-06), ('vaca', 7.397433201640528e-07), ('carriola', 6.657689881476476e-07), ('melón', 6.102882391353436e-07), ('chocolate', 4.34599200596381e-07)]
+-- ASOCIACIÓN -- 
+[('carriola', 7.767304861722554e-07), ('chocolate', 5.548074901230396e-07), ('bebé', 3.883652430861277e-07), ('melón', 3.328844940738238e-07), ('pan', 2.2192299604921585e-07)]
+Definción: postre de sabor dulce y preshispánico elaborado con cacao
+-- FRECUENCIA -- 
+[('carriola', 1.1096149802460792e-06), ('chocolate', 9.986534822214713e-07), ('gelatina', 8.876919841968634e-07), ('pan', 7.212497371599516e-07), ('bebé', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('cubeta', 1.525720597838359e-06), ('melón', 1.1096149802460792e-06), ('carriola', 9.709131077153194e-07), ('vaca', 9.616663162132685e-07), ('chocolate', 8.13717652180458e-07)]
+-- ASOCIACIÓN -- 
+[('carriola', 1.1096149802460792e-06), ('chocolate', 9.986534822214713e-07), ('gelatina', 7.767304861722554e-07), ('bebé', 7.212497371599516e-07), ('pastel', 6.102882391353436e-07)]
+Definción: bebida caliente muy dulce de méxico
+-- FRECUENCIA -- 
+[('carriola', 1.497980223332207e-06), ('pan', 1.4424994743199031e-06), ('chocolate', 1.387018725307599e-06), ('bebé', 9.986534822214713e-07), ('gelatina', 9.986534822214713e-07)]
+-- TIEMPO -- 
+[('chocolate', 2.145255628475753e-06), ('cocodrilo', 1.8116005684434252e-06), ('cubeta', 1.8031243428998788e-06), ('melón', 1.4159149487515074e-06), ('carriola', 1.282992320909529e-06)]
+-- ASOCIACIÓN -- 
+[('carriola', 1.497980223332207e-06), ('chocolate', 1.387018725307599e-06), ('pan', 1.1096149802460792e-06), ('bebé', 9.986534822214713e-07), ('gelatina', 8.876919841968634e-07)]
+Concepto: Espagueti
+Definción: alimento de harina italiano en fideo que va con crema o en jitomate
+-- FRECUENCIA -- 
+[('pan', 8.322112351845594e-07), ('espagueti', 7.767304861722554e-07), ('globo', 5.548074901230396e-07), ('rojo', 2.2192299604921585e-07), ('comida', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('espagueti', 5.270671156168877e-07), ('globo', 5.054912687787695e-07), ('elote', 3.883652430861277e-07), ('pan', 3.606248685799758e-07), ('vaca', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('espagueti', 7.767304861722554e-07), ('pan', 5.548074901230396e-07), ('globo', 5.548074901230396e-07), ('rojo', 2.2192299604921585e-07), ('galleta', 1.1096149802460793e-07)]
+Definción: Pasta que se enrreda
+-- FRECUENCIA -- 
+[('pan', 8.322112351845594e-07), ('espagueti', 7.767304861722554e-07), ('globo', 5.548074901230396e-07), ('rojo', 2.2192299604921585e-07), ('comida', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('espagueti', 5.270671156168877e-07), ('globo', 5.054912687787695e-07), ('elote', 3.883652430861277e-07), ('pan', 3.606248685799758e-07), ('vaca', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('espagueti', 7.767304861722554e-07), ('pan', 5.548074901230396e-07), ('globo', 5.548074901230396e-07), ('rojo', 2.2192299604921585e-07), ('galleta', 1.1096149802460793e-07)]
+Definción: Como sopa de fideo, pero seca
+-- FRECUENCIA -- 
+[('espagueti', 1.276057227282991e-06), ('pan', 9.431727332091674e-07), ('globo', 6.657689881476476e-07), ('rojo', 2.2192299604921585e-07), ('carne', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('espagueti', 7.073795499068755e-07), ('globo', 6.534399328115799e-07), ('elote', 4.993267411107356e-07), ('pan', 3.606248685799758e-07), ('galleta', 3.3981958770036175e-07)]
+-- ASOCIACIÓN -- 
+[('espagueti', 1.2205764782706872e-06), ('globo', 6.657689881476476e-07), ('pan', 5.548074901230396e-07), ('galleta', 3.328844940738238e-07), ('rojo', 2.2192299604921585e-07)]
+Definción: comida típica de italia elaborada de pasta con forma tubular y alargada
+-- FRECUENCIA -- 
+[('espagueti', 4.604902168021229e-06), ('cara', 1.6644224703691188e-06), ('pan', 1.608941721356815e-06), ('muñeco de nieve', 1.5534609723445109e-06), ('globo', 1.2205764782706872e-06)]
+-- TIEMPO -- 
+[('espagueti', 3.3288449407382377e-06), ('reja', 1.6990979385018089e-06), ('vaca', 1.6782926576221949e-06), ('muñeco de nieve', 1.567331159597587e-06), ('casa', 1.484110036079131e-06)]
+-- ASOCIACIÓN -- 
+[('espagueti', 4.327498422959709e-06), ('muñeco de nieve', 1.5534609723445109e-06), ('cara', 1.5534609723445109e-06), ('globo', 1.2205764782706872e-06), ('plastilina', 1.1096149802460792e-06)]
+Definción: ingrediente básico de la alimentación italiana
+-- FRECUENCIA -- 
+[('espagueti', 6.269324638390348e-06), ('pan', 1.9695665899367905e-06), ('cara', 1.941826215430639e-06), ('mantequilla', 1.941826215430639e-06), ('muñeco de nieve', 1.8308647174060307e-06)]
+-- TIEMPO -- 
+[('espagueti', 4.493940669996621e-06), ('mantequilla', 2.4272827692882984e-06), ('vaca', 2.0666579007083226e-06), ('reja', 2.0042420580694805e-06), ('muñeco de nieve', 1.8169945301529549e-06)]
+-- ASOCIACIÓN -- 
+[('espagueti', 5.991920893328828e-06), ('mantequilla', 1.941826215430639e-06), ('muñeco de nieve', 1.8308647174060307e-06), ('cara', 1.8308647174060307e-06), ('globo', 1.497980223332207e-06)]
+Concepto: Plátano
+Definción: Fruta amarilla y fálica
+-- FRECUENCIA -- 
+[('plátano', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('refrigerador', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('plátano', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Mono
+-- FRECUENCIA -- 
+[('plátano', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('ardilla', 1.1096149802460793e-07), ('refrigerador', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- ASOCIACIÓN -- 
+[('plátano', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Fruta con cáscara color amarilla, por dentro de un color más blanco y espeso. La comen los monos :p
+-- FRECUENCIA -- 
+[('plátano', 1.2205764782706872e-06), ('naranja', 4.993267411107356e-07), ('mariposa', 2.2192299604921585e-07), ('lápiz', 2.2192299604921585e-07), ('flor', 1.664422470369119e-07)]
+-- TIEMPO -- 
+[('naranja', 5.825478646291917e-07), ('ardilla', 3.883652430861277e-07), ('dientes', 3.328844940738238e-07), ('refrigerador', 3.328844940738238e-07), ('mercado', 2.404165790533172e-07)]
+-- ASOCIACIÓN -- 
+[('plátano', 1.2205764782706872e-06), ('mariposa', 4.438459920984317e-07), ('naranja', 2.774037450615198e-07), ('dientes', 2.774037450615198e-07), ('durazno', 2.2192299604921585e-07)]
+Definción: Lo que comen los changos.
+-- FRECUENCIA -- 
+[('plátano', 1.3315379762952952e-06), ('naranja', 4.993267411107356e-07), ('mariposa', 2.2192299604921585e-07), ('lápiz', 2.2192299604921585e-07), ('gelatina', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('naranja', 6.380286136414955e-07), ('ardilla', 4.438459920984317e-07), ('dientes', 3.883652430861277e-07), ('refrigerador', 3.328844940738238e-07), ('cubeta', 2.774037450615198e-07)]
+-- ASOCIACIÓN -- 
+[('plátano', 1.3315379762952952e-06), ('mariposa', 4.438459920984317e-07), ('dientes', 3.328844940738238e-07), ('naranja', 2.774037450615198e-07), ('durazno', 2.2192299604921585e-07)]
+Definción: Fruta amarilla que es conocida por se alimento de monos
+-- FRECUENCIA -- 
+[('plátano', 2.3301914585167666e-06), ('naranja', 5.548074901230396e-07), ('sandía', 4.993267411107356e-07), ('mariposa', 2.774037450615198e-07), ('lápiz', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('vaca', 1.4794866403281056e-06), ('naranja', 7.489901116661035e-07), ('ardilla', 6.102882391353436e-07), ('cubeta', 6.102882391353436e-07), ('dientes', 4.993267411107356e-07)]
+-- ASOCIACIÓN -- 
+[('plátano', 2.3301914585167666e-06), ('mariposa', 5.548074901230396e-07), ('sandía', 4.993267411107356e-07), ('dientes', 3.883652430861277e-07), ('durazno', 2.774037450615198e-07)]
+Concepto: Búho
+Definción: pajaro nocturno que caza ratones que tiene grandes ojos, que ulula y que usan para simbolizar la inteligencia y que no es la lechuza
+-- FRECUENCIA -- 
+[('búho', 5.548074901230396e-07), ('gato', 4.438459920984317e-07), ('collar', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07), ('pato', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('gato', 4.715863666045837e-07), ('vestido', 4.161056175922797e-07), ('pato', 3.606248685799758e-07), ('lujo', 2.2192299604921585e-07), ('zapato', 2.2192299604921585e-07)]
+-- ASOCIACIÓN -- 
+[('búho', 5.548074901230396e-07), ('gato', 4.438459920984317e-07), ('araña', 2.774037450615198e-07), ('collar', 2.2192299604921585e-07), ('elefante', 2.2192299604921585e-07)]
+Definción: Ave que voltea la cabeza
+-- FRECUENCIA -- 
+[('búho', 8.876919841968634e-07), ('gato', 5.548074901230396e-07), ('pelo', 4.438459920984317e-07), ('pato', 3.328844940738238e-07), ('gorra', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('pato', 6.241584263884196e-07), ('búho', 5.270671156168877e-07), ('vestido', 4.993267411107356e-07), ('gato', 4.715863666045837e-07), ('lente', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('búho', 9.986534822214713e-07), ('gato', 5.548074901230396e-07), ('collar', 3.328844940738238e-07), ('sombrero', 3.328844940738238e-07), ('pato', 3.328844940738238e-07)]
+Definción: Animal, con alas, ojos bonitos, que se parece al logo de Sanborns
+-- FRECUENCIA -- 
+[('búho', 1.497980223332207e-06), ('gato', 1.0541342312337753e-06), ('pájaro', 7.212497371599516e-07), ('pelo', 6.657689881476476e-07), ('vestido', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('pato', 1.0957447929930032e-06), ('gato', 9.246791502050659e-07), ('mariposa', 9.015621714499394e-07), ('vestido', 7.489901116661035e-07), ('búho', 5.825478646291917e-07)]
+-- ASOCIACIÓN -- 
+[('búho', 1.387018725307599e-06), ('gato', 9.431727332091674e-07), ('pájaro', 5.548074901230396e-07), ('sombrero', 4.438459920984317e-07), ('ganso', 4.438459920984317e-07)]
+Definción: ave de ojos grandes que simboliza inteligencia
+-- FRECUENCIA -- 
+[('búho', 2.1637492114798544e-06), ('gato', 1.1650957292583833e-06), ('pájaro', 9.986534822214713e-07), ('pelo', 7.212497371599516e-07), ('vestido', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('pato', 1.497980223332207e-06), ('mariposa', 1.1234851674991552e-06), ('gato', 1.0356406482296738e-06), ('vestido', 9.431727332091674e-07), ('búho', 8.876919841968634e-07)]
+-- ASOCIACIÓN -- 
+[('búho', 1.9973069644429425e-06), ('gato', 1.0541342312337753e-06), ('pájaro', 7.767304861722554e-07), ('mono', 6.657689881476476e-07), ('sombrero', 5.548074901230396e-07)]
+Definción: ave nocturna, refiere sabiduría
+-- FRECUENCIA -- 
+[('búho', 3.6062486857997577e-06), ('gato', 1.497980223332207e-06), ('pájaro', 1.1650957292583833e-06), ('vestido', 8.322112351845594e-07), ('pelo', 7.767304861722554e-07)]
+-- TIEMPO -- 
+[('búho', 1.8308647174060307e-06), ('pato', 1.8077477386509038e-06), ('gato', 1.350031559299396e-06), ('mariposa', 1.289927414536067e-06), ('vestido', 1.0541342312337753e-06)]
+-- ASOCIACIÓN -- 
+[('búho', 3.6617294348120614e-06), ('gato', 1.3315379762952952e-06), ('pájaro', 9.431727332091674e-07), ('libro', 6.657689881476476e-07), ('collar', 6.657689881476476e-07)]
+Concepto: Pie
+Definción: En el zapato
+-- FRECUENCIA -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+-- TIEMPO -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+-- ASOCIACIÓN -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+Definción: Caminar
+-- FRECUENCIA -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+-- TIEMPO -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+-- ASOCIACIÓN -- 
+[('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0), ('desabrigo', 0.0)]
+Definción: Parte del cuerpo con la que caminamos y podemos sentir el suelo
+-- FRECUENCIA -- 
+[('pie', 1.2205764782706872e-06), ('mano', 1.1096149802460792e-06), ('suéter', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('mano', 5.548074901230396e-07), ('policía', 3.7911845158407704e-07), ('zapato', 3.4675468132689976e-07), ('pie', 3.328844940738238e-07), ('mamá', 2.4041657905331713e-07)]
+-- ASOCIACIÓN -- 
+[('pie', 1.2205764782706872e-06), ('mano', 9.986534822214713e-07), ('suéter', 1.1096149802460793e-07), ('botón', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Lo que está al final de la pierna. Lo que te sostiene.
+-- FRECUENCIA -- 
+[('mano', 2.0527877134552466e-06), ('pie', 1.7753839683937268e-06), ('brazo', 3.328844940738238e-07), ('patín', 1.1096149802460793e-07), ('suéter', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('mano', 9.986534822214713e-07), ('pie', 6.796391754007235e-07), ('zapato', 4.854565538576597e-07), ('policía', 4.6233957510253296e-07), ('arete', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('mano', 2.0527877134552466e-06), ('pie', 1.8863454664183348e-06), ('brazo', 4.438459920984317e-07), ('patín', 1.1096149802460793e-07), ('suéter', 1.1096149802460793e-07)]
+Definción: Extremidad inferior
+-- FRECUENCIA -- 
+[('pie', 3.21788344271363e-06), ('mano', 2.829518199627502e-06), ('brazo', 4.438459920984317e-07), ('patín', 1.1096149802460793e-07), ('suéter', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('pie', 2.1082684624675507e-06), ('mano', 1.5534609723445109e-06), ('zapato', 4.854565538576597e-07), ('policía', 4.6233957510253296e-07), ('mueble', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('pie', 3.3288449407382377e-06), ('mano', 2.718556701602894e-06), ('brazo', 6.657689881476476e-07), ('patín', 1.1096149802460793e-07), ('suéter', 1.1096149802460793e-07)]
+Concepto: Galleta
+Definción: La tomas con leche, por lo regular son redondas
+-- FRECUENCIA -- 
+[('huevo', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('luna', 1.1096149802460793e-07), ('cena', 8.322112351845595e-08), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- ASOCIACIÓN -- 
+[('hot_cakes', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Postre que se hornea y es planito y crujiente y puede tener chispas de chocolate
+-- FRECUENCIA -- 
+[('galleta', 1.1096149802460792e-06), ('horno', 5.548074901230396e-07), ('resbaladilla', 5.548074901230396e-07), ('papa', 5.548074901230396e-07), ('mano', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('galleta', 7.397433201640528e-07), ('papa', 7.212497371599516e-07), ('mesa', 6.858037030687573e-07), ('comer', 4.854565538576597e-07), ('ejote', 4.6773353681206254e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 1.4424994743199031e-06), ('mesa', 7.767304861722554e-07), ('comida', 6.657689881476476e-07), ('mano', 5.548074901230396e-07), ('horno', 4.438459920984317e-07)]
+Definción: hornear
+-- FRECUENCIA -- 
+[('galleta', 1.1650957292583833e-06), ('horno', 8.322112351845594e-07), ('papa', 7.212497371599516e-07), ('resbaladilla', 6.102882391353436e-07), ('mano', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('papa', 9.986534822214713e-07), ('galleta', 7.952240691763567e-07), ('mesa', 7.412844520810613e-07), ('comer', 5.409373028699636e-07), ('ejote', 4.6773353681206254e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 1.497980223332207e-06), ('mesa', 8.322112351845594e-07), ('comida', 7.767304861722554e-07), ('horno', 6.657689881476476e-07), ('papa', 6.657689881476476e-07)]
+Definción: masa crujiente en forma redonda
+-- FRECUENCIA -- 
+[('galleta', 1.5534609723445109e-06), ('plastilina', 1.276057227282991e-06), ('pan', 1.2205764782706872e-06), ('horno', 1.0541342312337753e-06), ('papa', 1.0541342312337753e-06)]
+-- TIEMPO -- 
+[('papa', 1.2205764782706872e-06), ('galleta', 1.0495108354827498e-06), ('mesa', 1.046428571648733e-06), ('lámpara', 9.570429204622434e-07), ('electrodoméstico', 8.599516096907115e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 2.0527877134552466e-06), ('plastilina', 1.276057227282991e-06), ('mesa', 1.0541342312337753e-06), ('horno', 8.876919841968634e-07), ('comida', 8.876919841968634e-07)]
+Definción: Polvoron
+-- FRECUENCIA -- 
+[('galleta', 1.5534609723445109e-06), ('plastilina', 1.276057227282991e-06), ('pan', 1.2205764782706872e-06), ('horno', 1.0541342312337753e-06), ('papa', 1.0541342312337753e-06)]
+-- TIEMPO -- 
+[('papa', 1.2205764782706872e-06), ('galleta', 1.0495108354827498e-06), ('mesa', 1.046428571648733e-06), ('lámpara', 9.570429204622434e-07), ('electrodoméstico', 8.599516096907115e-07)]
+-- ASOCIACIÓN -- 
+[('galleta', 2.0527877134552466e-06), ('plastilina', 1.276057227282991e-06), ('mesa', 1.0541342312337753e-06), ('horno', 8.876919841968634e-07), ('comida', 8.876919841968634e-07)]
+Concepto: Taco
+Definción: Comida mexicana, tortilla
+-- FRECUENCIA -- 
+[('torta', 1.664422470369119e-07), ('pan', 1.1096149802460793e-07), ('huevo', 5.548074901230396e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('torta', 2.496633705553678e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('taco', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Típico
+-- FRECUENCIA -- 
+[('muñeco de nieve', 3.328844940738238e-07), ('pan', 2.2192299604921585e-07), ('torta', 1.664422470369119e-07), ('blanco', 1.1096149802460793e-07), ('sombrero', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('muñeco de nieve', 2.774037450615198e-07), ('torta', 2.496633705553678e-07), ('verde', 1.1096149802460793e-07), ('durazno', 7.397433201640528e-08), ('agua', 7.397433201640528e-08)]
+-- ASOCIACIÓN -- 
+[('muñeco de nieve', 3.328844940738238e-07), ('taco', 3.328844940738238e-07), ('blanco', 1.1096149802460793e-07), ('queso', 1.1096149802460793e-07), ('sombrero', 1.1096149802460793e-07)]
+Definción: Platillo gastronómico elaborado de tortilla y puede ser de diferentes tipo de carne, longaniza y otros ingredientes
+-- FRECUENCIA -- 
+[('taco', 1.2205764782706872e-06), ('muñeco de nieve', 1.0541342312337753e-06), ('mantequilla', 1.0541342312337753e-06), ('pelo', 9.431727332091674e-07), ('comida', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('mantequilla', 1.4378760785688778e-06), ('torta', 1.0402640439806993e-06), ('muñeco de nieve', 8.661161373587452e-07), ('taco', 8.417469889210491e-07), ('colores', 7.813538819232808e-07)]
+-- ASOCIACIÓN -- 
+[('taco', 2.2192299604921584e-06), ('muñeco de nieve', 1.0541342312337753e-06), ('mantequilla', 1.0541342312337753e-06), ('carne', 7.212497371599516e-07), ('comida', 6.102882391353436e-07)]
+Definción: Lo que haces rollito con la tortilla.
+-- FRECUENCIA -- 
+[('taco', 1.7753839683937268e-06), ('manguera', 1.3315379762952952e-06), ('muñeco de nieve', 1.3315379762952952e-06), ('mantequilla', 1.3315379762952952e-06), ('pelo', 1.2205764782706872e-06)]
+-- TIEMPO -- 
+[('mantequilla', 1.8539816961611576e-06), ('torta', 1.581201346850663e-06), ('muñeco de nieve', 1.115779507914113e-06), ('manguera', 1.0787923419059102e-06), ('taco', 1.0370854594018696e-06)]
+-- ASOCIACIÓN -- 
+[('taco', 2.995960446664414e-06), ('manguera', 1.3315379762952952e-06), ('muñeco de nieve', 1.3315379762952952e-06), ('mantequilla', 1.3315379762952952e-06), ('carne', 9.986534822214713e-07)]
+Definción: Todo lo que cabe en una tortilla
+-- FRECUENCIA -- 
+[('taco', 2.0527877134552466e-06), ('cepillo', 1.497980223332207e-06), ('manguera', 1.497980223332207e-06), ('muñeco de nieve', 1.497980223332207e-06), ('pelo', 1.497980223332207e-06)]
+-- TIEMPO -- 
+[('mantequilla', 2.131385441222677e-06), ('torta', 1.9025273515469232e-06), ('muñeco de nieve', 1.282221754951025e-06), ('manguera', 1.2452345889428223e-06), ('cepillo', 1.2286674208349815e-06)]
+-- ASOCIACIÓN -- 
+[('taco', 3.4952871877751495e-06), ('cepillo', 1.497980223332207e-06), ('manguera', 1.497980223332207e-06), ('muñeco de nieve', 1.497980223332207e-06), ('mantequilla', 1.497980223332207e-06)]
+Concepto: payaso 
+Definción: Dicho de una persona: Que hace reír con sus dichos o gestos
+-- FRECUENCIA -- 
+[('niño', 3.328844940738238e-07), ('plastilina', 3.328844940738238e-07), ('cara', 3.328844940738238e-07), ('figura', 1.1096149802460793e-07), ('niña', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('niño', 3.606248685799758e-07), ('lente', 3.328844940738238e-07), ('cara', 2.496633705553678e-07), ('burbuja', 1.9418262154306386e-07), ('elefante', 1.803124342899879e-07)]
+-- ASOCIACIÓN -- 
+[('niño', 3.328844940738238e-07), ('cara', 3.328844940738238e-07), ('plastilina', 2.2192299604921585e-07), ('niña', 1.1096149802460793e-07), ('burbuja', 1.1096149802460793e-07)]
+Definción: Dicho de un artista: Ambulante y que debuta en las mojigangas enmascarado.
+-- FRECUENCIA -- 
+[('circo', 9.986534822214713e-07), ('plastilina', 5.548074901230396e-07), ('cara', 5.548074901230396e-07), ('niño', 4.438459920984317e-07), ('mono', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('niño', 5.270671156168877e-07), ('circo', 4.715863666045837e-07), ('lente', 4.438459920984317e-07), ('cara', 4.0223543033920374e-07), ('estrella', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('circo', 6.657689881476476e-07), ('cara', 5.548074901230396e-07), ('niño', 3.328844940738238e-07), ('burbuja', 3.328844940738238e-07), ('plastilina', 2.2192299604921585e-07)]
+Definción: Artista de circo, generalmente caracterizado de modo extravagante, que hace reír con su aspecto, actos, dichos y gestos.
+-- FRECUENCIA -- 
+[('circo', 2.4966337055536785e-06), ('plastilina', 1.3315379762952952e-06), ('cara', 1.3315379762952952e-06), ('niño', 9.709131077153194e-07), ('diversión', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('circo', 1.497980223332207e-06), ('niño', 1.2483168527768392e-06), ('lente', 1.1096149802460792e-06), ('cara', 9.154323587030153e-07), ('grande', 6.935093626537995e-07)]
+-- ASOCIACIÓN -- 
+[('circo', 1.8863454664183348e-06), ('cara', 1.3315379762952952e-06), ('burbuja', 9.431727332091674e-07), ('niño', 6.102882391353436e-07), ('feo', 4.993267411107356e-07)]
+Concepto: Gallina
+Definción: el animal que pone los huevos
+-- FRECUENCIA -- 
+[('reja', 1.1096149802460793e-07), ('caja', 1.1096149802460793e-07), ('gallina', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('reja', 1.1096149802460793e-07), ('caja', 1.1096149802460793e-07), ('ejote', 5.779244688781663e-08), ('cocodrilo', 5.70218809293124e-08), ('caballo', 3.236377025717731e-08)]
+-- ASOCIACIÓN -- 
+[('reja', 1.1096149802460793e-07), ('caja', 1.1096149802460793e-07), ('gallina', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Animal que pone huevos.
+-- FRECUENCIA -- 
+[('reja', 2.2192299604921585e-07), ('caja', 2.2192299604921585e-07), ('gallina', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+-- TIEMPO -- 
+[('reja', 2.2192299604921585e-07), ('caja', 2.2192299604921585e-07), ('ejote', 1.1558489377563327e-07), ('cocodrilo', 1.140437618586248e-07), ('caballo', 6.472754051435462e-08)]
+-- ASOCIACIÓN -- 
+[('reja', 2.2192299604921585e-07), ('caja', 2.2192299604921585e-07), ('gallina', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: ave que pone huevos y cacarea
+-- FRECUENCIA -- 
+[('canasta', 7.212497371599516e-07), ('reja', 4.993267411107356e-07), ('caja', 3.328844940738238e-07), ('gallina', 2.774037450615198e-07), ('camisa', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('canasta', 6.014267306125451e-07), ('reja', 4.993267411107356e-07), ('caja', 4.2997580484535573e-07), ('cocodrilo', 2.2654639180024122e-07), ('ejote', 1.7568903853896255e-07)]
+-- ASOCIACIÓN -- 
+[('canasta', 7.212497371599516e-07), ('reja', 7.212497371599516e-07), ('caja', 3.328844940738238e-07), ('gallina', 2.774037450615198e-07), ('fruto', 2.2192299604921585e-07)]
+Definción: ave que da huevos
+-- FRECUENCIA -- 
+[('canasta', 9.431727332091674e-07), ('juguete', 9.431727332091674e-07), ('ganso', 6.657689881476476e-07), ('reja', 5.548074901230396e-07), ('caja', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('canasta', 7.724923734004822e-07), ('reja', 5.548074901230396e-07), ('dedo', 5.159709658144269e-07), ('caja', 4.854565538576597e-07), ('pato', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('canasta', 9.431727332091674e-07), ('juguete', 9.431727332091674e-07), ('reja', 7.767304861722554e-07), ('ganso', 6.657689881476476e-07), ('caja', 3.883652430861277e-07)]
+Definción: ave que pone huevos
+-- FRECUENCIA -- 
+[('canasta', 1.1096149802460792e-06), ('juguete', 1.1096149802460792e-06), ('ganso', 8.322112351845594e-07), ('reja', 7.212497371599516e-07), ('caja', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('canasta', 9.389346204373941e-07), ('reja', 7.212497371599516e-07), ('dedo', 6.269324638390348e-07), ('caja', 6.102882391353436e-07), ('pato', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('canasta', 1.1096149802460792e-06), ('juguete', 1.1096149802460792e-06), ('reja', 9.986534822214713e-07), ('ganso', 8.322112351845594e-07), ('caja', 4.993267411107356e-07)]
+Concepto: Durazno
+Definción: fruta dulce con hueso no muy grande y con vellitos blancos
+-- FRECUENCIA -- 
+[('sandía', 4.438459920984317e-07), ('flor', 1.1096149802460793e-07), ('elefante', 1.1096149802460793e-07), ('pan', 1.1096149802460793e-07), ('calabaza', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('piña', 2.6353355780844384e-07), ('mantequilla', 2.2192299604921585e-07), ('mercado', 1.849358300410132e-07), ('electrodoméstico', 1.1096149802460793e-07), ('estrella', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('sandía', 3.328844940738238e-07), ('dientes', 2.2192299604921585e-07), ('durazno', 1.1096149802460793e-07), ('reja', 1.1096149802460793e-07), ('elefante', 1.1096149802460793e-07)]
+Definción: Color como el melocotón pero más naranja
+-- FRECUENCIA -- 
+[('durazno', 5.548074901230396e-07), ('sandía', 4.438459920984317e-07), ('gelatina', 3.328844940738238e-07), ('uva', 2.2192299604921585e-07), ('calabaza', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('uva', 5.964180518822676e-07), ('cubeta', 4.0223543033920374e-07), ('mercado', 2.681569535594691e-07), ('piña', 2.6353355780844384e-07), ('sandía', 2.2192299604921585e-07)]
+-- ASOCIACIÓN -- 
+[('durazno', 1.1096149802460792e-06), ('sandía', 3.328844940738238e-07), ('dientes', 2.2192299604921585e-07), ('calabaza', 2.2192299604921585e-07), ('crayola', 1.1096149802460793e-07)]
+Definción: Fruta, suave, cáscara roja o amarilla, sabor dulce
+-- FRECUENCIA -- 
+[('plátano', 1.1650957292583833e-06), ('sandía', 1.0541342312337753e-06), ('naranja', 9.431727332091674e-07), ('gelatina', 8.876919841968634e-07), ('durazno', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('uva', 1.0310172524786486e-06), ('naranja', 9.709131077153194e-07), ('cubeta', 8.044708606784075e-07), ('mantequilla', 6.657689881476476e-07), ('mercado', 4.90079949608685e-07)]
+-- ASOCIACIÓN -- 
+[('durazno', 2.1082684624675507e-06), ('plátano', 9.431727332091674e-07), ('sandía', 8.322112351845594e-07), ('naranja', 7.212497371599516e-07), ('dulce', 4.438459920984317e-07)]
+Definción: fruta color naranja de sabor dulce y aterciopelada
+-- FRECUENCIA -- 
+[('durazno', 2.774037450615198e-06), ('plátano', 1.5534609723445109e-06), ('sandía', 1.497980223332207e-06), ('gelatina', 1.414759099813751e-06), ('naranja', 1.276057227282991e-06)]
+-- TIEMPO -- 
+[('durazno', 1.975731117604825e-06), ('uva', 1.3084209975401685e-06), ('naranja', 1.3037976017891431e-06), ('cubeta', 9.431727332091674e-07), ('mercado', 7.767304861722554e-07)]
+-- ASOCIACIÓN -- 
+[('durazno', 4.549421419008925e-06), ('plátano', 1.2205764782706872e-06), ('sandía', 1.2205764782706872e-06), ('naranja', 9.431727332091674e-07), ('dulce', 8.876919841968634e-07)]
+Definción: fruto con semilla grande, aterciopelado
+-- FRECUENCIA -- 
+[('durazno', 3.828171681848974e-06), ('sandía', 2.6353355780844383e-06), ('naranja', 1.8863454664183348e-06), ('plátano', 1.719903219381423e-06), ('gelatina', 1.470239848826055e-06)]
+-- TIEMPO -- 
+[('manzana', 5.544992637396379e-06), ('durazno', 2.8510940464656203e-06), ('naranja', 1.6551756788670682e-06), ('uva', 1.5488375765934857e-06), ('cubeta', 1.5349673893404095e-06)]
+-- ASOCIACIÓN -- 
+[('durazno', 5.714517148267308e-06), ('sandía', 2.1082684624675507e-06), ('naranja', 1.3315379762952952e-06), ('plátano', 1.3315379762952952e-06), ('dulce', 9.431727332091674e-07)]
+Concepto: Abrigo
+Definción: ropa como sueter que se usa para el frío pero más largo
+-- FRECUENCIA -- 
+[('bufanda', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07), ('calzón', 1.1096149802460793e-07), ('pantalón', 1.1096149802460793e-07), ('vestido', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('vestido', 2.2192299604921585e-07), ('suéter', 1.1096149802460793e-07), ('pie', 1.1096149802460793e-07), ('pantalón', 1.1096149802460793e-07), ('zapato', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('bufanda', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07), ('calzón', 1.1096149802460793e-07), ('pantalón', 1.1096149802460793e-07), ('vestido', 1.1096149802460793e-07)]
+Definción: Lo que pones encima del sueter
+-- FRECUENCIA -- 
+[('bufanda', 2.2192299604921585e-07), ('gorra', 2.2192299604921585e-07), ('vestido', 2.2192299604921585e-07), ('suéter', 1.1096149802460793e-07), ('camisa', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('suéter', 3.328844940738238e-07), ('vestido', 2.2192299604921585e-07), ('zapato', 1.9418262154306386e-07), ('short', 1.1096149802460793e-07), ('pie', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('bufanda', 2.2192299604921585e-07), ('vestido', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07), ('suéter', 1.1096149802460793e-07), ('camisa', 1.1096149802460793e-07)]
+Definción: Lo que usas para que ni te de frío
+-- FRECUENCIA -- 
+[('gorra', 3.883652430861277e-07), ('bufanda', 3.328844940738238e-07), ('vestido', 2.774037450615198e-07), ('suéter', 1.664422470369119e-07), ('calzón', 1.664422470369119e-07)]
+-- TIEMPO -- 
+[('suéter', 4.438459920984317e-07), ('zapato', 3.328844940738238e-07), ('vestido', 3.328844940738238e-07), ('pie', 1.664422470369119e-07), ('bebé', 1.387018725307599e-07)]
+-- ASOCIACIÓN -- 
+[('bufanda', 3.328844940738238e-07), ('vestido', 2.774037450615198e-07), ('gorra', 2.2192299604921585e-07), ('suéter', 1.664422470369119e-07), ('calzón', 1.664422470369119e-07)]
+Definción: ropa que sirve para protegerse del frío
+-- FRECUENCIA -- 
+[('suéter', 7.212497371599516e-07), ('bufanda', 6.102882391353436e-07), ('gorra', 6.102882391353436e-07), ('camisa', 4.438459920984317e-07), ('botón', 4.438459920984317e-07)]
+-- TIEMPO -- 
+[('suéter', 1.0541342312337753e-06), ('vestido', 5.548074901230396e-07), ('vaso', 4.0685882609022903e-07), ('zapato', 3.883652430861277e-07), ('leche', 3.5415211452854027e-07)]
+-- ASOCIACIÓN -- 
+[('suéter', 8.322112351845594e-07), ('bufanda', 6.102882391353436e-07), ('botón', 5.548074901230396e-07), ('gorra', 4.438459920984317e-07), ('camisa', 4.438459920984317e-07)]
+Definción: vestido que te cubre cuando hay frío
+-- FRECUENCIA -- 
+[('bufanda', 1.387018725307599e-06), ('gorra', 8.876919841968634e-07), ('camisa', 8.876919841968634e-07), ('suéter', 8.322112351845594e-07), ('botón', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('suéter', 2.4966337055536785e-06), ('vestido', 8.876919841968634e-07), ('zapato', 4.438459920984317e-07), ('leche', 4.0963286354084425e-07), ('vaso', 4.0685882609022903e-07)]
+-- ASOCIACIÓN -- 
+[('bufanda', 1.387018725307599e-06), ('suéter', 9.431727332091674e-07), ('camisa', 8.876919841968634e-07), ('gorra', 7.212497371599516e-07), ('botón', 6.657689881476476e-07)]
+Concepto: Playera
+Definción: Ropa deportiva
+-- FRECUENCIA -- 
+[('short', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('short', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('short', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Ropa
+-- FRECUENCIA -- 
+[('short', 1.664422470369119e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('short', 1.664422470369119e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('short', 1.664422470369119e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Prenda de vestir que usan tanto hombres como mujeres para cubrir la partes de arriba del cuerpo
+-- FRECUENCIA -- 
+[('calzón', 1.608941721356815e-06), ('camisa', 8.876919841968634e-07), ('short', 8.322112351845594e-07), ('vestido', 6.102882391353436e-07), ('cajón', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('calzón', 1.3037976017891431e-06), ('short', 9.154323587030153e-07), ('vestido', 7.767304861722554e-07), ('suéter', 6.657689881476476e-07), ('mano', 5.548074901230396e-07)]
+-- ASOCIACIÓN -- 
+[('calzón', 1.608941721356815e-06), ('camisa', 8.876919841968634e-07), ('short', 8.322112351845594e-07), ('vestido', 4.438459920984317e-07), ('cajón', 3.883652430861277e-07)]
+Definción: Lo que te pones encima, aquí *señalaría el torso*
+-- FRECUENCIA -- 
+[('calzón', 1.608941721356815e-06), ('camisa', 1.387018725307599e-06), ('dedo', 1.276057227282991e-06), ('short', 9.431727332091674e-07), ('vestido', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('calzón', 1.3037976017891431e-06), ('suéter', 1.1650957292583833e-06), ('short', 1.0864980014909527e-06), ('vestido', 9.477961289601926e-07), ('dedo', 9.098842838017849e-07)]
+-- ASOCIACIÓN -- 
+[('calzón', 1.608941721356815e-06), ('camisa', 1.497980223332207e-06), ('dedo', 1.276057227282991e-06), ('short', 1.0541342312337753e-06), ('vestido', 7.767304861722554e-07)]
+Definción: Prenda de vestir para la parte superior del cuerpo.
+-- FRECUENCIA -- 
+[('calzón', 2.3579318330229182e-06), ('camisa', 1.914085840924487e-06), ('dedo', 1.497980223332207e-06), ('short', 1.1650957292583833e-06), ('vestido', 1.1650957292583833e-06)]
+-- TIEMPO -- 
+[('calzón', 1.914085840924487e-06), ('suéter', 1.5534609723445109e-06), ('short', 1.3084209975401687e-06), ('vestido', 1.2298232697727377e-06), ('dedo', 1.1318072798510008e-06)]
+-- ASOCIACIÓN -- 
+[('calzón', 2.3579318330229182e-06), ('camisa', 2.0805280879613987e-06), ('dedo', 1.497980223332207e-06), ('short', 1.276057227282991e-06), ('vestido', 9.986534822214713e-07)]
+Concepto: Pan
+Definción: El alimento que no puede faltar en el desayuno y que engorda
+-- FRECUENCIA -- 
+[('pan', 3.328844940738238e-07), ('dinero', 2.2192299604921585e-07), ('galleta', 1.1096149802460793e-07), ('comida', 1.1096149802460793e-07), ('mano', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('vaca', 4.2072901334330505e-07), ('burro', 2.958973280656211e-07), ('hamburguesa', 2.095939407131483e-07), ('policía', 1.803124342899879e-07), ('comida', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('pan', 2.2192299604921585e-07), ('dinero', 2.2192299604921585e-07), ('galleta', 1.1096149802460793e-07), ('hot_cakes', 1.1096149802460793e-07), ('comida', 1.1096149802460793e-07)]
+Definción: Esa comida esponjocita que se hace con harina y se hornea, y se puede comer con leche o café
+-- FRECUENCIA -- 
+[('pan', 2.2192299604921584e-06), ('dinero', 1.1650957292583833e-06), ('plastilina', 8.322112351845594e-07), ('papa', 6.102882391353436e-07), ('horno', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('vaca', 1.2275115718972252e-06), ('hamburguesa', 9.539606566282264e-07), ('policía', 9.154323587030153e-07), ('burro', 8.507048181886608e-07), ('papa', 8.275878394335342e-07)]
+-- ASOCIACIÓN -- 
+[('pan', 1.3315379762952952e-06), ('dinero', 8.322112351845594e-07), ('papa', 7.212497371599516e-07), ('mano', 6.657689881476476e-07), ('plastilina', 4.993267411107356e-07)]
+Definción: cebada
+-- FRECUENCIA -- 
+[('pan', 2.2192299604921584e-06), ('dinero', 1.1650957292583833e-06), ('plastilina', 8.322112351845594e-07), ('papa', 6.102882391353436e-07), ('horno', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('vaca', 1.2275115718972252e-06), ('hamburguesa', 9.539606566282264e-07), ('policía', 9.154323587030153e-07), ('burro', 8.507048181886608e-07), ('papa', 8.275878394335342e-07)]
+-- ASOCIACIÓN -- 
+[('pan', 1.3315379762952952e-06), ('dinero', 8.322112351845594e-07), ('papa', 7.212497371599516e-07), ('mano', 6.657689881476476e-07), ('plastilina', 4.993267411107356e-07)]
+Definción: bolillo
+-- FRECUENCIA -- 
+[('pan', 3.1069219446890217e-06), ('dinero', 1.3315379762952952e-06), ('plastilina', 9.431727332091674e-07), ('horno', 6.657689881476476e-07), ('papa', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('vaca', 1.2275115718972252e-06), ('pan', 1.1650957292583833e-06), ('hamburguesa', 9.539606566282264e-07), ('papa', 9.385493374581421e-07), ('policía', 9.154323587030153e-07)]
+-- ASOCIACIÓN -- 
+[('pan', 2.3301914585167666e-06), ('dinero', 9.986534822214713e-07), ('papa', 7.212497371599516e-07), ('mano', 6.657689881476476e-07), ('comida', 6.102882391353436e-07)]
+Definción: Concha
+-- FRECUENCIA -- 
+[('pan', 4.493940669996621e-06), ('dinero', 1.497980223332207e-06), ('plastilina', 1.0541342312337753e-06), ('horno', 7.767304861722554e-07), ('comida', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('pan', 2.4411529565413744e-06), ('vaca', 1.2275115718972252e-06), ('dinero', 9.986534822214713e-07), ('hamburguesa', 9.539606566282264e-07), ('papa', 9.385493374581421e-07)]
+-- ASOCIACIÓN -- 
+[('pan', 3.7172101838243654e-06), ('dinero', 1.1650957292583833e-06), ('comida', 7.767304861722554e-07), ('papa', 7.212497371599516e-07), ('palo', 6.657689881476476e-07)]
+Concepto: Fresa
+Definción: fruta pequeña que es roja con un rabito verde, se hace mermelada con ella
+-- FRECUENCIA -- 
+[('ardilla', 6.657689881476476e-07), ('plastilina', 5.548074901230396e-07), ('durazno', 3.328844940738238e-07), ('pan', 3.328844940738238e-07), ('sandía', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('muñeco de nieve', 6.935093626537995e-07), ('ardilla', 6.380286136414955e-07), ('niño', 2.774037450615198e-07), ('plastilina', 2.589101620574185e-07), ('fresa', 2.4041657905331713e-07)]
+-- ASOCIACIÓN -- 
+[('ardilla', 6.657689881476476e-07), ('durazno', 4.438459920984317e-07), ('plastilina', 3.328844940738238e-07), ('palo', 3.328844940738238e-07), ('árbol', 3.328844940738238e-07)]
+Definción: Una fruta roja se hace mermelada con ella.
+-- FRECUENCIA -- 
+[('plastilina', 9.431727332091674e-07), ('ardilla', 8.876919841968634e-07), ('durazno', 5.548074901230396e-07), ('pan', 5.548074901230396e-07), ('sandía', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('muñeco de nieve', 1.1373553547522313e-06), ('ardilla', 8.599516096907115e-07), ('plastilina', 4.6233957510253306e-07), ('fresa', 4.2535240909433034e-07), ('niño', 3.883652430861277e-07)]
+-- ASOCIACIÓN -- 
+[('ardilla', 8.876919841968634e-07), ('durazno', 7.212497371599516e-07), ('palo', 6.102882391353436e-07), ('plastilina', 5.548074901230396e-07), ('árbol', 4.993267411107356e-07)]
+Definción: única fruta que tiene sus semillas exteriores y es de color rojo, es pequeña y de sabor dulce.
+-- FRECUENCIA -- 
+[('sandía', 2.4966337055536785e-06), ('plastilina', 1.8308647174060307e-06), ('ventana', 1.719903219381423e-06), ('ardilla', 1.719903219381423e-06), ('mano', 1.497980223332207e-06)]
+-- TIEMPO -- 
+[('manzana', 4.83144855982147e-06), ('muñeco de nieve', 2.015800547447044e-06), ('cubeta', 1.937202819679613e-06), ('ardilla', 1.5858247426016883e-06), ('ventana', 1.5580843680955362e-06)]
+-- ASOCIACIÓN -- 
+[('ventana', 1.719903219381423e-06), ('ardilla', 1.719903219381423e-06), ('sandía', 1.6644224703691188e-06), ('durazno', 1.497980223332207e-06), ('mano', 1.387018725307599e-06)]
+Definción: fruta dulce pequeña, roja
+-- FRECUENCIA -- 
+[('sandía', 3.1069219446890217e-06), ('ventana', 1.941826215430639e-06), ('ardilla', 1.941826215430639e-06), ('plastilina', 1.941826215430639e-06), ('mano', 1.719903219381423e-06)]
+-- TIEMPO -- 
+[('manzana', 5.746880918524485e-06), ('muñeco de nieve', 2.5706080375700835e-06), ('cubeta', 2.270087313753437e-06), ('ardilla', 1.8077477386509038e-06), ('ventana', 1.780007364144752e-06)]
+-- ASOCIACIÓN -- 
+[('sandía', 2.1082684624675507e-06), ('ventana', 1.941826215430639e-06), ('ardilla', 1.941826215430639e-06), ('durazno', 1.8863454664183348e-06), ('mano', 1.608941721356815e-06)]
+Definción: fruta roja chiquita con semillas
+-- FRECUENCIA -- 
+[('sandía', 3.939133179873581e-06), ('ventana', 2.2192299604921584e-06), ('ardilla', 2.2192299604921584e-06), ('plastilina', 2.2192299604921584e-06), ('mano', 1.8308647174060307e-06)]
+-- TIEMPO -- 
+[('manzana', 7.027561541558502e-06), ('cubeta', 2.9913370509133887e-06), ('muñeco de nieve', 2.792531033619299e-06), ('ardilla', 2.0851514837124236e-06), ('ventana', 2.0574111092062715e-06)]
+-- ASOCIACIÓN -- 
+[('sandía', 2.6630759525905903e-06), ('ventana', 2.2192299604921584e-06), ('ardilla', 2.2192299604921584e-06), ('durazno', 2.0527877134552466e-06), ('mano', 1.719903219381423e-06)]
+Concepto: Camisa
+Definción:  tipo de playera que se usa para eventos formales, ir a trabajar y tiene cuello y botones
+-- FRECUENCIA -- 
+[('camisa', 6.657689881476476e-07), ('rojo', 4.438459920984317e-07), ('globo', 4.438459920984317e-07), ('lavadora', 3.328844940738238e-07), ('ropa', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('globo', 4.2997580484535573e-07), ('vestido', 4.0223543033920374e-07), ('camisa', 3.1901430682074777e-07), ('collar', 2.774037450615198e-07), ('grande', 2.2192299604921585e-07)]
+-- ASOCIACIÓN -- 
+[('camisa', 6.657689881476476e-07), ('lavadora', 3.328844940738238e-07), ('globo', 3.328844940738238e-07), ('ropa', 3.328844940738238e-07), ('patín', 2.2192299604921585e-07)]
+Definción: Es una ropa que se usa para un evento formal, trabajo o estudio.
+-- FRECUENCIA -- 
+[('camisa', 1.9973069644429425e-06), ('rojo', 7.767304861722554e-07), ('globo', 7.767304861722554e-07), ('ropa', 7.767304861722554e-07), ('lavadora', 6.657689881476476e-07)]
+-- TIEMPO -- 
+[('vestido', 1.1928361037645351e-06), ('globo', 8.738217969437874e-07), ('camisa', 7.489901116661035e-07), ('mesa', 6.657689881476476e-07), ('escoba', 3.6755996220651374e-07)]
+-- ASOCIACIÓN -- 
+[('camisa', 1.9973069644429425e-06), ('lavadora', 7.767304861722554e-07), ('globo', 6.102882391353436e-07), ('ropa', 6.102882391353436e-07), ('doctor', 5.548074901230396e-07)]
+Definción: prenda de vestir masculina que tiene botones al frente
+-- FRECUENCIA -- 
+[('camisa', 3.3288449407382377e-06), ('globo', 1.0541342312337753e-06), ('rojo', 9.986534822214713e-07), ('ropa', 8.322112351845594e-07), ('lavadora', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('vestido', 1.525720597838359e-06), ('camisa', 1.289927414536067e-06), ('globo', 1.1096149802460792e-06), ('mesa', 7.906006734253315e-07), ('escoba', 5.617425837495776e-07)]
+-- ASOCIACIÓN -- 
+[('camisa', 3.3288449407382377e-06), ('globo', 8.876919841968634e-07), ('lavadora', 8.322112351845594e-07), ('botón', 7.767304861722554e-07), ('rojo', 7.212497371599516e-07)]
+Definción: vestimenta formal para hombres
+-- FRECUENCIA -- 
+[('camisa', 5.936440144316524e-06), ('globo', 1.2205764782706872e-06), ('rojo', 1.0541342312337753e-06), ('ropa', 1.0541342312337753e-06), ('botón', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('camisa', 2.6908163270967424e-06), ('vestido', 1.7892541556468028e-06), ('globo', 1.3384730699218332e-06), ('mesa', 9.293025459560914e-07), ('escoba', 6.727040817741856e-07)]
+-- ASOCIACIÓN -- 
+[('camisa', 5.936440144316524e-06), ('globo', 1.1650957292583833e-06), ('botón', 1.0541342312337753e-06), ('lavadora', 8.876919841968634e-07), ('ropa', 8.876919841968634e-07)]
+Definción: Es una prende vestir que tiene mangas y cuello
+-- FRECUENCIA -- 
+[('camisa', 7.545381865673339e-06), ('playera', 1.8308647174060307e-06), ('botón', 1.608941721356815e-06), ('globo', 1.4424994743199031e-06), ('ropa', 1.276057227282991e-06)]
+-- TIEMPO -- 
+[('camisa', 3.536897749534377e-06), ('vestido', 1.9002156536714108e-06), ('globo', 1.5659441408722793e-06), ('brazo', 1.3315379762952952e-06), ('mesa', 1.1049915844950539e-06)]
+-- ASOCIACIÓN -- 
+[('camisa', 7.434420367648731e-06), ('botón', 1.7753839683937268e-06), ('playera', 1.719903219381423e-06), ('globo', 1.4424994743199031e-06), ('ropa', 1.1096149802460792e-06)]
+Concepto: Helado
+Definción: Napolitano, frío, cono
+-- FRECUENCIA -- 
+[('helado', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('helado', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('helado', 3.328844940738238e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Frío
+-- FRECUENCIA -- 
+[('helado', 4.438459920984317e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- TIEMPO -- 
+[('helado', 4.438459920984317e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+-- ASOCIACIÓN -- 
+[('helado', 4.438459920984317e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0), ('llamada', 0.0)]
+Definción: Postre formado por un cono de galleta y bolas de una mezcla fría de diferentes sabores
+-- FRECUENCIA -- 
+[('helado', 2.6075952035782862e-06), ('pala', 1.1650957292583833e-06), ('plastilina', 1.1650957292583833e-06), ('pelo', 1.0541342312337753e-06), ('cacahuate', 6.102882391353436e-07)]
+-- TIEMPO -- 
+[('helado', 2.0701254475215914e-06), ('pala', 1.0402640439806993e-06), ('plastilina', 9.59354618337756e-07), ('colores', 9.108089629519899e-07), ('arete', 8.322112351845594e-07)]
+-- ASOCIACIÓN -- 
+[('helado', 2.6075952035782862e-06), ('pala', 1.1650957292583833e-06), ('plastilina', 1.1650957292583833e-06), ('cacahuate', 6.102882391353436e-07), ('pelo', 6.102882391353436e-07)]
+Definción: Postre. El del conito.
+-- FRECUENCIA -- 
+[('helado', 3.051441195676718e-06), ('pala', 1.276057227282991e-06), ('plastilina', 1.276057227282991e-06), ('pelo', 1.1650957292583833e-06), ('cacahuate', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('helado', 2.5278416268730993e-06), ('pala', 1.1512255420053073e-06), ('plastilina', 1.070316116362364e-06), ('colores', 1.0217704609765978e-06), ('arete', 8.876919841968634e-07)]
+-- ASOCIACIÓN -- 
+[('helado', 3.051441195676718e-06), ('pala', 1.276057227282991e-06), ('plastilina', 1.276057227282991e-06), ('cacahuate', 7.212497371599516e-07), ('mono', 6.657689881476476e-07)]
+Definción: Alimento dulce, postre frío..
+-- FRECUENCIA -- 
+[('helado', 4.216536924935101e-06), ('pala', 1.608941721356815e-06), ('plastilina', 1.608941721356815e-06), ('pelo', 1.387018725307599e-06), ('gelatina', 1.1096149802460792e-06)]
+-- TIEMPO -- 
+[('helado', 3.2560264576595888e-06), ('vaca', 1.7083447300038594e-06), ('pala', 1.4355643806933651e-06), ('plastilina', 1.3292262784197823e-06), ('colores', 1.2991742060381176e-06)]
+-- ASOCIACIÓN -- 
+[('helado', 3.939133179873581e-06), ('pala', 1.608941721356815e-06), ('plastilina', 1.608941721356815e-06), ('cacahuate', 9.431727332091674e-07), ('gelatina', 8.876919841968634e-07)]
+Concepto: Radio
+Definción: Escuchas música en el carro
+-- FRECUENCIA -- 
+[('tambor', 1.1096149802460793e-07), ('niño', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- TIEMPO -- 
+[('traste', 1.1096149802460793e-07), ('cuchara', 1.1096149802460793e-07), ('cocina', 8.322112351845595e-08), ('dañar', 0.0), ('adolescente', 0.0)]
+-- ASOCIACIÓN -- 
+[('tambor', 1.1096149802460793e-07), ('niño', 1.1096149802460793e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+Definción: Programa
+-- FRECUENCIA -- 
+[('televisión', 2.2192299604921585e-07), ('tambor', 1.1096149802460793e-07), ('niño', 1.1096149802460793e-07), ('familia', 1.1096149802460793e-07), ('dañar', 0.0)]
+-- TIEMPO -- 
+[('cuchara', 2.2192299604921585e-07), ('traste', 1.1096149802460793e-07), ('televisión', 1.1096149802460793e-07), ('cocina', 8.322112351845595e-08), ('cuchillo', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('televisión', 2.2192299604921585e-07), ('tambor', 1.1096149802460793e-07), ('niño', 1.1096149802460793e-07), ('familia', 1.1096149802460793e-07), ('dañar', 0.0)]
+Definción: Aparato electrónico en el que se puede escuchar música y sientonizar diferentes frecuencias
+-- FRECUENCIA -- 
+[('radio', 1.6644224703691188e-06), ('televisión', 1.2205764782706872e-06), ('colores', 6.102882391353436e-07), ('pelo', 5.548074901230396e-07), ('mano', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('radio', 1.456369661572979e-06), ('colores', 9.801598992173701e-07), ('televisión', 6.935093626537995e-07), ('negro', 6.842625711517489e-07), ('dinero', 5.270671156168877e-07)]
+-- ASOCIACIÓN -- 
+[('radio', 1.7753839683937268e-06), ('televisión', 1.2205764782706872e-06), ('colores', 6.102882391353436e-07), ('pelo', 5.548074901230396e-07), ('mano', 5.548074901230396e-07)]
+Definción: El aparato donde escuchas música. Donde sintonizas estaciones.
+-- FRECUENCIA -- 
+[('radio', 3.5507679367874536e-06), ('televisión', 1.9973069644429425e-06), ('colores', 7.767304861722554e-07), ('mano', 7.212497371599516e-07), ('dinero', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('radio', 3.259494004472858e-06), ('colores', 1.285304018785042e-06), ('televisión', 1.2483168527768392e-06), ('negro', 7.397433201640528e-07), ('policía', 6.287818221394449e-07)]
+-- ASOCIACIÓN -- 
+[('radio', 3.7172101838243654e-06), ('televisión', 1.9973069644429425e-06), ('colores', 8.322112351845594e-07), ('mano', 7.212497371599516e-07), ('pelo', 6.102882391353436e-07)]
+Definción: 
+-- FRECUENCIA -- 
+[('radio', 3.5507679367874536e-06), ('televisión', 1.9973069644429425e-06), ('colores', 7.767304861722554e-07), ('mano', 7.212497371599516e-07), ('dinero', 7.212497371599516e-07)]
+-- TIEMPO -- 
+[('radio', 3.259494004472858e-06), ('colores', 1.285304018785042e-06), ('televisión', 1.2483168527768392e-06), ('negro', 7.397433201640528e-07), ('policía', 6.287818221394449e-07)]
+-- ASOCIACIÓN -- 
+[('radio', 3.7172101838243654e-06), ('televisión', 1.9973069644429425e-06), ('colores', 8.322112351845594e-07), ('mano', 7.212497371599516e-07), ('pelo', 6.102882391353436e-07)]
+Definción: Electrónico que sirve para escuchar programas y música.
+-- FRECUENCIA -- 
+[('radio', 4.937786662095053e-06), ('televisión', 2.718556701602894e-06), ('dinero', 9.986534822214713e-07), ('pelo', 9.431727332091674e-07), ('mano', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('radio', 4.396849359225089e-06), ('colores', 1.6736692618711693e-06), ('televisión', 1.6644224703691188e-06), ('comida', 1.1650957292583833e-06), ('negro', 1.1281085632501806e-06)]
+-- ASOCIACIÓN -- 
+[('radio', 5.04874816011966e-06), ('televisión', 2.718556701602894e-06), ('colores', 1.0541342312337753e-06), ('mano', 9.431727332091674e-07), ('plato', 8.322112351845594e-07)]
+Concepto: Abeja
+Definción: insecto volador rayado que produce miel
+-- FRECUENCIA -- 
+[('mariposa', 2.2192299604921585e-07), ('abeja', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+-- TIEMPO -- 
+[('mariposa', 1.1096149802460793e-07), ('abeja', 1.1096149802460793e-07), ('ardilla', 8.322112351845595e-08), ('cacahuate', 8.322112351845595e-08), ('dañar', 0.0)]
+-- ASOCIACIÓN -- 
+[('mariposa', 2.2192299604921585e-07), ('abeja', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0), ('funcionar', 0.0)]
+Definción: Obreras pequeñitas
+-- FRECUENCIA -- 
+[('abeja', 5.548074901230396e-07), ('mariposa', 3.328844940738238e-07), ('tractor', 2.2192299604921585e-07), ('martillo', 2.2192299604921585e-07), ('campo', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('martillo', 2.681569535594691e-07), ('abeja', 2.2192299604921585e-07), ('ardilla', 1.9418262154306386e-07), ('cacahuate', 1.9418262154306386e-07), ('agua', 1.571954555348612e-07)]
+-- ASOCIACIÓN -- 
+[('abeja', 4.438459920984317e-07), ('mariposa', 3.328844940738238e-07), ('tractor', 3.328844940738238e-07), ('campo', 3.328844940738238e-07), ('araña', 2.2192299604921585e-07)]
+Definción: Insecto que pica, Los que hacen la miel
+-- FRECUENCIA -- 
+[('abeja', 1.2205764782706872e-06), ('plastilina', 6.657689881476476e-07), ('mariposa', 4.993267411107356e-07), ('tractor', 3.328844940738238e-07), ('martillo', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('martillo', 4.6233957510253296e-07), ('agua', 4.0685882609022903e-07), ('abeja', 3.883652430861277e-07), ('cacahuate', 3.883652430861277e-07), ('fresa', 3.328844940738238e-07)]
+-- ASOCIACIÓN -- 
+[('abeja', 1.0541342312337753e-06), ('plastilina', 4.438459920984317e-07), ('mariposa', 4.438459920984317e-07), ('tractor', 4.438459920984317e-07), ('campo', 4.438459920984317e-07)]
+Definción: animal que produce miel
+-- FRECUENCIA -- 
+[('abeja', 1.719903219381423e-06), ('plastilina', 7.212497371599516e-07), ('mariposa', 7.212497371599516e-07), ('martillo', 4.438459920984317e-07), ('tractor', 3.883652430861277e-07)]
+-- TIEMPO -- 
+[('abeja', 7.767304861722554e-07), ('martillo', 6.287818221394449e-07), ('agua', 5.733010731271409e-07), ('cacahuate', 4.993267411107356e-07), ('ardilla', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('abeja', 1.5534609723445109e-06), ('tractor', 6.102882391353436e-07), ('plastilina', 4.993267411107356e-07), ('mariposa', 4.993267411107356e-07), ('campo', 4.993267411107356e-07)]
+Definción: insecto volador amarillo y negro
+-- FRECUENCIA -- 
+[('abeja', 2.1637492114798544e-06), ('mariposa', 1.387018725307599e-06), ('plastilina', 9.431727332091674e-07), ('martillo', 6.102882391353436e-07), ('tractor', 5.548074901230396e-07)]
+-- TIEMPO -- 
+[('abeja', 8.876919841968634e-07), ('martillo', 8.715100990682747e-07), ('ardilla', 7.212497371599516e-07), ('agua', 6.842625711517488e-07), ('cacahuate', 6.310935200149575e-07)]
+-- ASOCIACIÓN -- 
+[('abeja', 1.941826215430639e-06), ('mariposa', 1.1096149802460792e-06), ('araña', 9.986534822214713e-07), ('tractor', 9.431727332091674e-07), ('plastilina', 6.657689881476476e-07)]
+Concepto: Borrego
+Definción: animal de granja con lana y que usan para la barbacoa
+-- FRECUENCIA -- 
+[('borrego', 7.767304861722554e-07), ('camisa', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07), ('flor', 1.1096149802460793e-07), ('ganso', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('borrego', 7.767304861722554e-07), ('conejo', 1.803124342899879e-07), ('jirafa', 1.664422470369119e-07), ('camisa', 1.4794866403281056e-07), ('lujo', 1.1096149802460793e-07)]
+-- ASOCIACIÓN -- 
+[('borrego', 7.767304861722554e-07), ('camisa', 2.2192299604921585e-07), ('gorra', 1.1096149802460793e-07), ('cochino', 1.1096149802460793e-07), ('cebra', 1.1096149802460793e-07)]
+Definción: Animal con lana que no es alpaca
+-- FRECUENCIA -- 
+[('borrego', 1.1096149802460792e-06), ('camisa', 2.774037450615198e-07), ('flor', 1.664422470369119e-07), ('ganso', 1.664422470369119e-07), ('vestido', 1.664422470369119e-07)]
+-- TIEMPO -- 
+[('borrego', 1.1096149802460792e-06), ('jirafa', 2.774037450615198e-07), ('conejo', 2.3579318330229185e-07), ('camisa', 2.0342941304511451e-07), ('lujo', 1.664422470369119e-07)]
+-- ASOCIACIÓN -- 
+[('borrego', 1.1096149802460792e-06), ('camisa', 2.774037450615198e-07), ('cochino', 1.664422470369119e-07), ('cebra', 1.664422470369119e-07), ('zapato', 1.664422470369119e-07)]
+Definción: Animal acolchonado blanco
+-- FRECUENCIA -- 
+[('borrego', 2.3301914585167666e-06), ('ganso', 5.548074901230396e-07), ('camisa', 4.993267411107356e-07), ('flor', 2.2192299604921585e-07), ('vestido', 2.2192299604921585e-07)]
+-- TIEMPO -- 
+[('borrego', 3.2733641917259336e-06), ('jirafa', 5.548074901230396e-07), ('conejo', 4.0223543033920374e-07), ('camisa', 3.328844940738238e-07), ('vestido', 3.051441195676718e-07)]
+-- ASOCIACIÓN -- 
+[('borrego', 2.3301914585167666e-06), ('camisa', 4.993267411107356e-07), ('cochino', 2.2192299604921585e-07), ('cebra', 2.2192299604921585e-07), ('ganso', 2.2192299604921585e-07)]
+Definción: animal que produce lana
+-- FRECUENCIA -- 
+[('borrego', 2.829518199627502e-06), ('ganso', 6.657689881476476e-07), ('camisa', 5.548074901230396e-07), ('flor', 2.774037450615198e-07), ('vestido', 2.774037450615198e-07)]
+-- TIEMPO -- 
+[('borrego', 3.939133179873581e-06), ('jirafa', 7.212497371599516e-07), ('conejo', 4.5771617935150767e-07), ('camisa', 3.883652430861277e-07), ('vestido', 3.606248685799758e-07)]
+-- ASOCIACIÓN -- 
+[('borrego', 2.829518199627502e-06), ('camisa', 5.548074901230396e-07), ('cochino', 2.774037450615198e-07), ('cebra', 2.774037450615198e-07), ('ganso', 2.774037450615198e-07)]
+Definción: animal de un ganado que produce lana
+-- FRECUENCIA -- 
+[('borrego', 3.3288449407382377e-06), ('ganso', 7.767304861722554e-07), ('camisa', 6.102882391353436e-07), ('flor', 3.328844940738238e-07), ('vestido', 3.328844940738238e-07)]
+-- TIEMPO -- 
+[('borrego', 4.604902168021229e-06), ('jirafa', 8.876919841968634e-07), ('conejo', 5.131969283638117e-07), ('camisa', 4.438459920984317e-07), ('vestido', 4.161056175922797e-07)]
+-- ASOCIACIÓN -- 
+[('borrego', 3.3288449407382377e-06), ('camisa', 6.102882391353436e-07), ('cochino', 3.328844940738238e-07), ('cebra', 3.328844940738238e-07), ('ganso', 3.328844940738238e-07)]
+Concepto: Rana
+Definción: es verde y húmedo, brinca y es un tipo de anfibio
+-- FRECUENCIA -- 
+[('rana', 4.438459920984317e-07), ('trapo', 2.2192299604921585e-07), ('tierra', 1.1096149802460793e-07), ('verde', 1.1096149802460793e-07), ('mono', 1.1096149802460793e-07)]
+-- TIEMPO -- 
+[('rana', 3.8939266436413337e-07), ('ejote', 1.1558489377563324e-07), ('cocodrilo', 1.140437618586248e-07), ('tierra', 1.1211734696236425e-07), ('trapo', 8.322112351845595e-08)]
+-- ASOCIACIÓN -- 
+[('rana', 5.548074901230396e-07), ('trapo', 3.328844940738238e-07), ('verde', 2.2192299604921585e-07), ('dañar', 0.0), ('adolescente', 0.0)]
+Definción: Es un anfibio que salta muy alto. Es verde y vive en lugares húmedos.
+-- FRECUENCIA -- 
+[('rana', 1.719903219381423e-06), ('casa', 9.431727332091674e-07), ('trapo', 7.767304861722554e-07), ('verde', 5.548074901230396e-07), ('tierra', 4.993267411107356e-07)]
+-- TIEMPO -- 
+[('rana', 1.400888912560675e-06), ('casa', 1.1974594995155607e-06), ('árbol', 8.090942564294328e-07), ('trapo', 6.102882391353436e-07), ('cocodrilo', 5.409373028699636e-07)]
+-- ASOCIACIÓN -- 
+[('rana', 1.8863454664183348e-06), ('casa', 1.1650957292583833e-06), ('trapo', 9.431727332091674e-07), ('verde', 7.212497371599516e-07), ('planta', 6.657689881476476e-07)]
+Definción: anfibio de color verde que salta y croa
+-- FRECUENCIA -- 
+[('rana', 2.995960446664414e-06), ('cocodrilo', 1.3315379762952952e-06), ('casa', 1.3315379762952952e-06), ('trapo', 9.431727332091674e-07), ('tierra', 8.322112351845594e-07)]
+-- TIEMPO -- 
+[('rana', 2.2968002669815834e-06), ('cocodrilo', 1.7491847258045833e-06), ('casa', 1.616647380941857e-06), ('árbol', 1.5026036190832323e-06), ('cubeta', 1.1096149802460792e-06)]
+-- ASOCIACIÓN -- 
+[('rana', 3.3288449407382377e-06), ('casa', 1.719903219381423e-06), ('cocodrilo', 1.3315379762952952e-06), ('trapo', 1.1096149802460792e-06), ('verde', 8.876919841968634e-07)]
+Definción: anfibio que salta
+-- FRECUENCIA -- 
+[('rana', 3.6617294348120614e-06), ('cocodrilo', 1.4424994743199031e-06), ('casa', 1.4424994743199031e-06), ('trapo', 1.0541342312337753e-06), ('ventana', 9.431727332091674e-07)]
+-- TIEMPO -- 
+[('rana', 2.618383126997345e-06), ('cocodrilo', 1.8817220706673092e-06), ('casa', 1.783089627978769e-06), ('árbol', 1.7615137811406508e-06), ('cubeta', 1.1096149802460792e-06)]
+-- ASOCIACIÓN -- 
+[('rana', 4.050094677898189e-06), ('casa', 1.8863454664183348e-06), ('cocodrilo', 1.4424994743199031e-06), ('trapo', 1.2205764782706872e-06), ('verde', 1.0541342312337753e-06)]
+Definción: animalito que vive en el agua, es verde y hace croac
+-- FRECUENCIA -- 
+[('rana', 7.489901116661035e-06), ('casa', 2.774037450615198e-06), ('cocodrilo', 1.9973069644429425e-06), ('verde', 1.9973069644429425e-06), ('tierra', 1.3315379762952952e-06)]
+-- TIEMPO -- 
+[('rana', 5.846283927171531e-06), ('cocodrilo', 3.2421562704065123e-06), ('casa', 2.8233536719594682e-06), ('árbol', 2.2469703349983105e-06), ('cubeta', 1.608941721356815e-06)]
+-- ASOCIACIÓN -- 
+[('rana', 7.878266359747162e-06), ('casa', 3.21788344271363e-06), ('verde', 2.0527877134552466e-06), ('cocodrilo', 1.9973069644429425e-06), ('planta', 1.5534609723445109e-06)]
+Precisiones finales
+FRECUENCIA
+		P1		P3		P5		
+		172		207		216		
+TIEMPO
+		P1		P3		P5		
+		99		152		183		
+ASOCIACIÓN
+		P1		P3		P5		
+		183		221		227		
+Precisiones finales porcentuales
+FRECUENCIA
+		P1		P3		P5		
+		0.6164874551971327		0.7419354838709677		0.7741935483870968		
+TIEMPO
+		P1		P3		P5		
+		0.3548387096774194		0.5448028673835126		0.6559139784946236		
+ASOCIACIÓN
+		P1		P3		P5		
+		0.6559139784946236		0.7921146953405018		0.8136200716845878		
