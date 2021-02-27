@@ -1,0 +1,1337 @@
+Definición: base esquites 
+
+['esquites', 'base']
+[('ejote', 0.40118411026496453), ('tierra', 0.37654324297263786), ('pie', 0.37654324297263786), ('elote', 0.3327217200467165), ('jabón', 0.29877053406463455), ('mesa', 0.29877053406463455)]
+Definición: tortilla 
+
+['tortilla']
+[('queso', 0.3764148696900725), ('torta', 0.35526400023405075), ('pan', 0.3302959662944707), ('huevo', 0.3302959662944707), ('taco', 0.29726638107284575), ('canasta', 0.29080393482735), ('elote', 0.26818599635999557), ('durazno', 0.2326596090248189), ('burro', 0.1950181355759893)]
+
+['fruto', 'crecer', 'amarillo', 'grano', 'blanco', 'milpa', 'color']
+
+['venir', 'echar', 'esquites', 'mayonesa', 'asar'] 
+[('carne', 0.32999056038163505), ('elote', 0.32443309804786175), ('hamburguesa', 0.27922280419003886), ('salchicha', 0.27922280419003886), ('pescado', 0.27922280419003886), ('ejote', 0.26968738551900384), ('carriola', 0.23363929079170387), ('canasta', 0.23363929079170387)]
+['comida', 'alimento', 'típico', 'mexicano']
+
+['arrugar', 'ropa', 'quitar', 'necesitar', 'instrumento', 'agua', 'funcionar', 'vapor']
+
+
+['herramienta', 'ropa', 'ocupar']
+[('pantalón', 0.26558670071446816), ('camisa', 0.23409246335704076), ('zapato', 0.20988048548253432), ('playera', 0.1976677209925825), ('calzón', 0.19412002609584827), ('short', 0.19185369273772968), ('falda', 0.18190672459301546), ('suéter', 0.17118192025066584), ('bufanda', 0.1578281030041336), ('plancha', 0.1564290884480569), ('botón', 0.15286956119124656)]
+Definición: usar arruga 
+
+['arruga', 'usar']
+[('camisa', 0.37411353507530826), ('vestido', 0.349596351056593), ('zapato', 0.34396649011628694), ('calzón', 0.31519971908249106), ('gorra', 0.3121850165952735), ('plancha', 0.2984558149100237), ('collar', 0.2777883846211715)]
+
+['electrodoméstico', 'ropa', 'quitar', 'arruga', 'calor', 'base']
+
+['aparato', 'ropa', 'lisa']
+[('pantalón', 0.2857987893456946), ('camisa', 0.242777453386101), ('zapato', 0.2202884132684501), ('playera', 0.2152859965585922), ('calzón', 0.21172023439914867), ('short', 0.21049268360843623), ('falda', 0.20482418728239385), ('suéter', 0.18551672792170154), ('bufanda', 0.17314917534042062), ('bota', 0.15085696403467155), ('botón', 0.150204443630507)]
+Definición: comida rico llevar carne 2 pan lechuga jitomate queso catsup 
+
+['carne', 'pan', 'queso', 'llevar', 'catsup', 'comida', 'lechuga', 'rico']
+
+['tomate', 'pan', 'tapa', 'carne', 'lechuga', 'base']
+
+['alimento', 'pan', 'llevar', 'cebolla', 'carne', 'lechuga', 'parte']
+
+['comida', 'carne', 'pan']
+
+['comida', 'pan', 'chatarra', 'servir']
+
+['cuello', 'ir', 'botón', 'playero', 'trabajar', 'formal', 'usar']
+
+['trabajo', 'ropa', 'usar', 'formal', 'estudio']
+[('pantalón', 0.2489721346413002), ('camisa', 0.24662185120663782), ('zapato', 0.19934650223929692), ('calzón', 0.189565697578793), ('playera', 0.18490550610442805), ('short', 0.18386654600553576), ('dinero', 0.17475235264174216), ('falda', 0.16968594947683727), ('bota', 0.15802902676029426), ('bolsa', 0.15671395278396902), ('suéter', 0.15652036154074503)]
+
+['botón', 'prender', 'vestir']
+
+['vestimenta', 'formal', 'hombre']
+[('niño', 0.3038364405834259), ('pantalón', 0.2793708807011233), ('playera', 0.265133412743078), ('calzón', 0.25141550065715573), ('camisa', 0.24271077402145838), ('falda', 0.19641481764919308), ('perro', 0.18816697590463335), ('gorra', 0.18445977118561596), ('pelo', 0.1701797385711821), ('suéter', 0.16285211376300393), ('sombrero', 0.14984133905832006)]
+
+['prender', 'manga', 'vestir', 'cuello']
+[('pantalón', 0.32350986726150904), ('playera', 0.2814331750735805), ('camisa', 0.27663591916578234), ('calzón', 0.24158583225440763), ('short', 0.24084335853587277), ('falda', 0.23481331823299803), ('zapato', 0.222715545291495), ('suéter', 0.21998661374714662), ('bufanda', 0.1990332673862762), ('gorra', 0.19086605387515101), ('botón', 0.17608966058332)]
+Definición: animal color gris poder transmitir rabia  conjunto ser considerar plagar  reproducir manera abismal  
+
+['poder', 'gris', 'rabia', 'color', 'conjunto', 'animal']
+
+
+['cola', 'andar', 'animal']
+
+
+
+Definición: pequeño gustar queso 
+
+['gustar', 'queso', 'pequeño']
+
+
+
+Definición: roedor perseguir gato 
+
+['gato', 'roedor']
+
+
+
+Definición: animal mickey mouse 
+
+['mouse', 'mickey', 'animal']
+
+
+
+Definición: toma leche  regular ser redondo 
+
+['redondo', 'leche']
+
+
+
+Definición: postre hornear ser plano crujiente poder tener chispa chocolate 
+
+['poder', 'postre', 'plano', 'crujiente', 'hornear', 'chocolate', 'chispa']
+
+
+
+Definición: hornear 
+
+['hornear']
+
+[('horno', 0.5773502691896258), ('papa', 0.5773502691896258)]
+Definición: masa crujiente forma redondo 
+
+['redondo', 'masa', 'crujiente', 'forma']
+
+[('casa', 0.20631127135061383), ('pan', 0.197446353928798), ('hot_cakes', 0.197054073997898), ('cuchara', 0.19472707755310825), ('plato', 0.19254355262841463), ('mesa', 0.18820919024437763), ('espejo', 0.17926419736119142), ('huevo', 0.1745104516422912), ('cara', 0.1742126822694176), ('juguete', 0.17258504190185003), ('cereal', 0.16986293066288097)]
+Definición: agujero diente lengua usar hablar comer 
+
+['comer', 'usar', 'lengua', 'diente', 'hablar']
+ 
+Definición: besar 
+
+['besar']
+
+[('labio', 0.5773502691896258), ('boca', 0.5773502691896258)]
+Definición: usar hablar comer 
+
+['usar', 'comer', 'hablar']
+
+Definición: parte cuerpo  tener labio servir hablar 
+
+['labio', 'cuerpo', 'hablar', 'servir', 'parte']
+
+Definición: insecto color vivo volar 
+
+['volar', 'vivo', 'color', 'insecto']
+ 
+Definición: convertir oruga cuado salir ala 
+
+['salir', 'oruga', 'ala']
+
+[('pájaro', 0.29297660760059246), ('pluma', 0.2714839448434302), ('ganso', 0.23668611912594276), ('pollito', 0.23668611912594276), ('gallina', 0.23156880513276173), ('huevo', 0.22894673545974348), ('ventana', 0.22013262229502986), ('puerta', 0.20758448808934574), ('calle', 0.20510655557001628), ('libro', 0.20410864535955997), ('avión', 0.19844002064301008)]
+Definición: ala 
+
+['ala']
+
+[('pájaro', 0.34995219218593565), ('pluma', 0.3483055033682943), ('pollito', 0.29968208339542163), ('ganso', 0.29968208339542163), ('gallina', 0.2951120756609667), ('avión', 0.28460090243352815), ('mariposa', 0.2638004313517826), ('libro', 0.23517568108621661), ('helicóptero', 0.2288052260207303), ('llave', 0.20034514463606548)]
+Definición: convertir oruga 
+
+['oruga']
+
+[('mariposa', 0.7071067811865475)]
+Definición: monarca 
+
+['monarca']
+[('calabaza', 0.5598852608963282), ('mariposa', 0.5598852608963282)]
+Definición: escucha música carro 
+
+['carro', 'música']
+[('niño', 0.30324289979575264), ('camión', 0.2536220908295163), ('autobús', 0.241075013506005), ('calle', 0.2235970300069904), ('moto', 0.20836644826640274), ('tren', 0.19800838950402724), ('familia', 0.17976165778767525), ('dinero', 0.16723800228731242), ('bicicleta', 0.15682850088310438), ('puerta', 0.15560387789142616), ('policía', 0.15338947890710194)]
+Definición: programa 
+
+['programa']
+
+[('computador', 0.501233889859248), ('televisión', 0.501233889859248), ('cuchillo', 0.4511105102120538)]
+Definición: aparato electrónico poder escuchar música sintonizar diferente frecuencia 
+
+['poder', 'aparato', 'frecuencia', 'diferente', 'escuchar', 'música', 'electrónico']
+
+[('radio', 0.2675715123811151), ('televisión', 0.25450651896766596), ('color', 0.20556636312970417), ('computador', 0.2043152264658275), ('timbre', 0.19766892953124468), ('elefante', 0.18805753040928933), ('circo', 0.18805753040928933), ('puerta', 0.18804349012771712), ('burbuja', 0.17266408428302824), ('león', 0.17144334202486491), ('cocina', 0.16712183046306484)]
+Definición: aparato escuchar música  sintonizar estación  
+
+['estación', 'aparato', 'escuchar', 'música']
+
+[('radio', 0.29588798856369025), ('televisión', 0.2787948059983312), ('computador', 0.24122755215243927), ('timbre', 0.23602382937488148), ('puerta', 0.22675751921220197), ('elefante', 0.2041770028832163), ('circo', 0.2041770028832163), ('cámara', 0.19172490335817444), ('planta', 0.1837593120222608), ('hielo', 0.1837593120222608), ('cocina', 0.1837593120222608)]
+Definición: electrónico servir escuchar programa música  
+
+['escuchar', 'programa', 'música', 'servir', 'electrónico']
+
+[('radio', 0.2561642348547828), ('computador', 0.23844980015982975), ('vaso', 0.23536711291079743), ('cocina', 0.2296496671175239), ('televisión', 0.22184220507345803), ('timbre', 0.2199949985148981), ('puerta', 0.21645835802162233), ('plato', 0.2007951772654054), ('botón', 0.18268358681956245), ('hielo', 0.17800110969346716), ('bacinica', 0.17454391800686656)]
+Definición: verdura verde largo parecer chícharos 
+
+['verdura', 'largo', 'chícharos', 'verde']
+
+Definición: verdura preparar huevo  ser largo verde  
+
+['preparar', 'huevo', 'verdura', 'largo', 'verde']
+
+Definición: verdura color verde componer vaina 
+
+['verdura', 'color', 'verde']
+
+Definición: verdura largo pequeño verde 
+
+['verdura', 'largo', 'verde', 'pequeño']
+
+Definición: ser vaina verde 
+
+['verde']
+
+Definición: zapato 
+
+['zapato']
+
+Definición: caminar 
+
+['caminar']
+
+[('zapato', 0.34748482915727547), ('pie', 0.32080515793871117), ('bota', 0.2969671052140267), ('piedra', 0.2908084913205109), ('bolsa', 0.2648866004725165), ('araña', 0.2622186350605889), ('calle', 0.259218970806509), ('pato', 0.25570902757713965), ('pájaro', 0.25570902757713965), ('escalera', 0.23013813031907873)]
+Definición: parte cuerpo caminar poder sentir suelo 
+
+['poder', 'suelo', 'caminar', 'cuerpo', 'parte']
+
+[('pie', 0.29147639313311413), ('mano', 0.2565679088000821), ('zapato', 0.19848765050178818), ('brazo', 0.19155587652421777), ('dedo', 0.18527392103753282), ('piedra', 0.18439636711169455), ('bolsa', 0.1739809129994211), ('camisa', 0.17319137308414462), ('cara', 0.17164735377022858), ('calle', 0.17104485717128362), ('tierra', 0.17088130044745292)]
+Definición: final pierna sostener
+
+['pierna', 'sostener']
+
+[('falda', 0.3031947912189084), ('pie', 0.2745596544293214), ('pantalón', 0.2611714826401594), ('bota', 0.25960377404828816), ('short', 0.23757114984916095), ('calzón', 0.23757114984916095), ('brazo', 0.20497825844892456), ('patín', 0.20259711295334104), ('mano', 0.20144859706994606), ('sillón', 0.193848985079601), ('mesa', 0.19031932370062246)]
+Definición: extremidad inferior
+
+['extremidad', 'inferior']
+
+[('pie', 0.4486151423926745), ('mano', 0.42177491913497095), ('brazo', 0.42177491913497095), ('dedo', 0.42177491913497095)]
+Definición: transporte público 
+
+['transporte', 'público']
+ 
+[('camión', 0.2887363725832276), ('autobús', 0.2685055374952268), ('moto', 0.26822918331009127), ('tren', 0.26797504015798074), ('avión', 0.23676466447871178), ('bicicleta', 0.23408352188619722), ('tractor', 0.22253929134676495), ('helicóptero', 0.2173167121346603), ('triciclo', 0.21392756483656156), ('canasta', 0.19025111143379317), ('caballo', 0.18538084949911732)]
+Definición: bus 
+
+['bus']
+
+[('camión', 0.7071067811865475)]
+Definición: medio transporte grande 4 rueda  utilizar carga pesar 
+
+['medio', 'transporte', 'carga', 'grande', 'rueda']
+
+Definición: transporte público  
+
+['transporte', 'público']
+
+[('camión', 0.2887363725832276), ('autobús', 0.2685055374952268), ('moto', 0.26822918331009127), ('tren', 0.26797504015798074), ('avión', 0.23676466447871178), ('bicicleta', 0.23408352188619722), ('tractor', 0.22253929134676495), ('helicóptero', 0.2173167121346603), ('triciclo', 0.21392756483656156), ('canasta', 0.19025111143379317), ('caballo', 0.18538084949911732)]
+Definición: medio transporte público 
+
+['medio', 'transporte', 'público']
+
+[('camión', 0.2660940302157073), ('autobús', 0.2651615162754946), ('tren', 0.24866374170648148), ('moto', 0.2467290588321009), ('avión', 0.21810342888877662), ('helicóptero', 0.21790975428588752), ('bicicleta', 0.21344715030953676), ('tractor', 0.20321919597956095), ('triciclo', 0.19509195217403308), ('dinero', 0.19296151295200156), ('canasta', 0.17328161826051067)]
+Definición: fruto pequeño ser rojo rabo verde  hacer mermelada 
+
+['fruto', 'rabo', 'hacer', 'rojo', 'verde', 'mermelada', 'pequeño']
+
+Definición: fruto rojo hacer mermelada  
+
+['fruto', 'hacer', 'mermelada', 'rojo']
+
+Definición: único fruto tener semilla exterior ser color rojo  ser pequeño sabor dulce  
+
+['único', 'fruto', 'dulce', 'exterior', 'rojo', 'semilla', 'sabor', 'color', 'pequeño']
+
+Definición: fruto dulce pequeño rojo 
+
+['fruto', 'dulce', 'rojo', 'pequeño']
+
+Definición: fruto rojo chiquito semilla 
+
+['fruto', 'chiquito', 'rojo', 'semilla']
+
+Definición: rugir vivir selva 
+
+['selva', 'vivir', 'rugir']
+
+[('león', 0.3613375763196911), ('tigre', 0.33280851253503957), ('hipopótamo', 0.31870983541266656), ('jirafa', 0.3138198109604329), ('elefante', 0.2921506907476115), ('cebra', 0.2921506907476115), ('oso', 0.27901821446394975), ('mono', 0.18738498326584496), ('búho', 0.15948317192840347), ('víbora', 0.15948317192840347), ('casa', 0.13385831419068914)]
+Definición: rey 
+
+['rey']
+
+[('león', 0.7071067811865475)]
+Definición: animal carnívoro  4 pata  grande melena  pelaje amarillo  ser rey selva 
+
+['selva', 'amarillo', 'pata', 'grande', 'carnívoro', 'pelaje', 'animal', 'rey', 'melena']
+
+Definición: animal escudo gryffindor  
+
+['animal']
+
+Definición: animal conocer rey selva 
+
+['selva', 'rey', 'animal']
+
+Definición: fruto amarillo fálico 
+
+['fruto', 'amarillo']
+
+Definición: mono 
+
+['mono']
+
+Definición: fruto cáscara color amarillo  dentro color blanco espeso  comer mono
+
+['fruto', 'amarillo', 'cáscara', 'mono', 'blanco', 'color', 'comer']
+
+Definición: comer changos  
+
+['comer']
+
+Definición: fruto amarillo ser conocer alimento mono 
+
+['fruto', 'alimento', 'mono', 'amarillo']
+
+Definición: ser tubérculo poder ser comida chatarra  sabritas 
+
+['poder', 'comida', 'chatarra', 'tubérculo', 'sabritas']
+
+Definición: verdura blanquita crecer abajo tierra 
+
+['crecer', 'abajo', 'verdura', 'tierra']
+
+Definición: tubérculo 
+
+['tubérculo']
+
+[('zanahoria', 0.5212466883221977), ('calabaza', 0.47780947030499693), ('papa', 0.47780947030499693)]
+Definición: fritura 
+
+['fritura']
+
+[('papa', 0.4713261328363417), ('tienda', 0.43204896443989), ('palomita', 0.43204896443989), ('cacahuate', 0.384916370862998)]
+Definición: ser verde húmedo  brincar ser tipo anfibio 
+
+['anfibio', 'brincar', 'verde', 'húmedo']
+
+Definición: ser anfibio saltar alto  ser verde vivir lugar húmedo  
+
+['verde', 'vivir', 'alto', 'lugar', 'anfibio', 'saltar', 'húmedo']
+
+Definición: anfibio color verde saltar croar 
+
+['color', 'anfibio', 'saltar', 'verde', 'croar']
+
+Definición: anfibio saltar 
+
+['anfibio', 'saltar']
+
+[('rana', 0.38496363251544874), ('cocodrilo', 0.35682146569908), ('reja', 0.31832512183347317), ('conejo', 0.31832512183347317), ('ventana', 0.31832512183347317), ('palomita', 0.31832512183347317)]
+Definición: animal vivir agua  ser verde hacer croac 
+
+['hacer', 'agua', 'vivir', 'verde', 'animal']
+
+Definición: ropa sueter usar frío largo 
+
+['ropa', 'usar', 'largo', 'frío']
+
+Definición: poner encima sueter 
+
+['poner']
+
+[('zapato', 0.30594910103581796), ('falda', 0.2808828944154052), ('gorra', 0.2588337779782465), ('caja', 0.2524893385155335), ('vestido', 0.24030626316456605), ('short', 0.23559473468373363), ('camisa', 0.2248868038889621), ('arete', 0.21781759162496858), ('bota', 0.21781759162496858), ('sombrero', 0.20296083180437238), ('mesa', 0.18438334431879205)]
+Definición: usar frío 
+
+['usar', 'frío']
+
+[('agua', 0.2773893369534552), ('hielo', 0.22222759991235397), ('refrigerador', 0.19034616842887586), ('pingüino', 0.1802795420998164), ('pantalón', 0.1752749325809995), ('bufanda', 0.16742955725073713), ('helado', 0.16289412930659256), ('muñeco de nieve', 0.16252467725506575), ('foca', 0.15106089248660357), ('jugo', 0.14704578275111227), ('falda', 0.14544298685035406)]
+Definición: ropa servir proteger frío 
+
+['ropa', 'proteger', 'frío', 'servir']
+
+Definición: vestir cubrir haber frío 
+
+['cubrir', 'vestir', 'frío']
+
+Definición: volar cielo ser avión 
+
+['volar', 'cielo', 'avión']
+
+Definición: ave 
+
+['ave']
+
+[('pájaro', 0.35015820992544433), ('pato', 0.31667066138317473), ('gallina', 0.2980080007748384), ('pluma', 0.2918916230287315), ('ganso', 0.29084274819998357), ('pollito', 0.284107107218536), ('huevo', 0.27080810465277844), ('pingüino', 0.2125966083947799), ('guajolote', 0.21083523058269754), ('búho', 0.15184528309481157), ('ventana', 0.15184528309481157)]
+Definición: ave tamaño pequeño diverso tipo color 
+
+['diverso', 'color', 'ave', 'pequeño']
+
+Definición: animal volar tipo ser paloma urraca  
+
+['volar', 'paloma', 'urraca', 'animal']
+
+Definición: animal volar 
+
+['volar', 'animal']
+
+Definición: napolitano frío cono 
+
+['napolitano', 'cono', 'frío']
+
+[('agua', 0.29974915228274795), ('hielo', 0.24328518044422268), ('refrigerador', 0.2067047869757735), ('pingüino', 0.18487944331465517), ('helado', 0.174201433981541), ('muñeco de nieve', 0.1668724586476612), ('jugo', 0.16538066159308337), ('refresco', 0.16463690653309218), ('foca', 0.1564279552763453), ('bufanda', 0.1533160646969147), ('leche', 0.15123377923458728)]
+Definición: frío 
+
+['frío']
+
+[('agua', 0.291179039031718), ('hielo', 0.23472703645954748), ('refrigerador', 0.2013397782152686), ('pingüino', 0.18893718364537027), ('helado', 0.1700258366154106), ('muñeco de nieve', 0.16999374710919368), ('bufanda', 0.1606330549040967), ('foca', 0.15978641694602577), ('jugo', 0.15576620722661502), ('refresco', 0.15374473967424682), ('pantalón', 0.15137088149192524)]
+Definición: postre formar cono galleta bola mezcla frío diferente sabor 
+
+['galleta', 'postre', 'mezcla', 'bola', 'frío', 'sabor', 'formar', 'diferente', 'cono']
+
+Definición: postre cono
+
+['postre', 'cono']
+
+[('dulce', 0.3587524322299907), ('fresa', 0.313782456703592), ('pastel', 0.26801095194816443), ('durazno', 0.24270321793398442), ('gelatina', 0.23278227712557897), ('manzana', 0.21539485007675957), ('plátano', 0.20522075858351344), ('paleta', 0.20474319486423712), ('helado', 0.20040111783610423), ('galleta', 0.19393744280622952), ('hot_cakes', 0.19192436138549393)]
+Definición: alimento dulce postre frío
+
+['alimento', 'dulce', 'postre', 'frío']
+
+Definición: alimento azúcar ser rico 
+
+['alimento', 'azúcar', 'rico']
+
+Definición: sensacion producir comer azucar  
+
+['comer']
+
+Definición: sabor característico alimento azúcar 
+
+['alimento', 'azúcar', 'sabor']
+
+Definición: caramelo dar niño 
+
+['niño', 'dar', 'caramelo']
+
+Definición: golosina gustar niño 
+
+['niño', 'gustar', 'golosina']
+
+Definición: medio transporte navegar mar 
+
+['medio', 'transporte', 'mar', 'navegar']
+
+[('agua', 0.2913265981691803), ('barco', 0.2194487323216026), ('río', 0.20794394953663545), ('pescado', 0.20742933022447316), ('tierra', 0.1969894372750565), ('foca', 0.19434564899775236), ('tren', 0.1776125053710026), ('camión', 0.17564397168362472), ('tortuga', 0.16889653156376463), ('ganso', 0.16587951650058186), ('pingüino', 0.1646900925224066)]
+Definición: ir persona mar 
+
+['persona', 'ir', 'mar']
+
+[('casa', 0.24576205106669805), ('agua', 0.21076527622155258), ('calle', 0.17962658005709395), ('ojo', 0.17093995566201867), ('cara', 0.1648180830225834), ('ventana', 0.15234751936438715), ('boca', 0.1503530700764426), ('espejo', 0.14567260091733206), ('lente', 0.13452658162988151), ('cepillo', 0.13033143126009558), ('pie', 0.13016546604223317)]
+Definición: zarpar 
+
+['zarpar']
+
+[('barco', 0.7071067811865475)]
+Definición: balsa grande flotar mar 
+
+['balsa', 'flotar', 'mar', 'grande']
+
+Definición: titanic 
+
+['titanic']
+
+[('barco', 0.5598852608963282), ('hielo', 0.5598852608963282)]
+Definición: aparato doméstico lavar ropa 
+
+['aparato', 'ropa', 'lavar']
+
+[('pantalón', 0.2627102853226274), ('camisa', 0.2237787943220348), ('calzón', 0.21750130115506697), ('zapato', 0.20716034818357257), ('playera', 0.19655511410475895), ('short', 0.1929167308837571), ('falda', 0.18100468339359777), ('suéter', 0.1664257200980858), ('lavabo', 0.16111053549458645), ('bufanda', 0.15887069228836115), ('plancha', 0.15575219268694626)]
+Definición: artefacto meter lavar limpiar ropa 
+
+['artefacto', 'ropa', 'meter', 'limpiar', 'lavar']
+
+[('pantalón', 0.24113454174278395), ('zapato', 0.20826859694208552), ('camisa', 0.20463936011613282), ('calzón', 0.2022576970829988), ('playera', 0.18013429673513223), ('lavabo', 0.17949407021763505), ('short', 0.17676715633618037), ('falda', 0.16613506350994917), ('dinero', 0.15530130895851618), ('suéter', 0.15020632150171362), ('plancha', 0.14757924195588648)]
+Definición: lavar
+
+['lavar']
+
+[('lavabo', 0.2927939748513042), ('cepillo', 0.23196889486884145), ('diente', 0.2303080797813327), ('jabón', 0.22919146475903016), ('pasta_de_dientes', 0.21548876530722846), ('lavadora', 0.21001401864502744), ('mano', 0.20826099819212088), ('toalla', 0.20289108218553903), ('pelo', 0.18128147326330565), ('shampoo', 0.18102897987632233), ('plancha', 0.1783380050737632)]
+Definición: lavar ropa 
+
+['ropa', 'lavar']
+
+[('pantalón', 0.2634137599667021), ('camisa', 0.22437732434991686), ('calzón', 0.2180099072447435), ('zapato', 0.20773985778601117), ('playera', 0.19710863795028993), ('short', 0.19345947259662663), ('falda', 0.18152654375859764), ('suéter', 0.16684566204834467), ('lavabo', 0.161117721405003), ('bufanda', 0.15899526741235115), ('plancha', 0.15607890730635535)]
+Definición: ropa 
+
+['ropa']
+
+[('pantalón', 0.29132615656547267), ('camisa', 0.24898496672636025), ('playera', 0.2198623465263762), ('calzón', 0.21631553928534278), ('zapato', 0.2160180408609213), ('short', 0.21489085506735653), ('falda', 0.20166141616833605), ('suéter', 0.19036656585857178), ('bufanda', 0.1767013131642897), ('botón', 0.15431532790209254), ('bota', 0.15299279965101426)]
+Definición: fruta color naranja pastel usualmente encontrar coctel fruto  tener cáscara duro  ser necesario utilizar cuchillo poder consumir  
+
+['fruto', 'necesario', 'duro', 'poder', 'encontrar', 'cáscara', 'cuchillo', 'coctel', 'color', 'pastel', 'naranja']
+
+Definición: fruto ser rosa dentro ser color  
+
+['fruto', 'color', 'rosa']
+
+Definición: fruto anaranjado ser chino 
+
+['fruto', 'anaranjado', 'chino']
+
+Definición: fruto redondo cáscara claro rugoso interior naranja 
+
+['fruto', 'redondo', 'interior', 'cáscara', 'claro', 'rugoso', 'naranja']
+
+Definición: fruto redondo grande  semilla 
+
+['fruto', 'redondo', 'grande', 'semilla']
+
+Definición: animal poner huevo 
+
+['poner', 'huevo', 'animal']
+
+Definición: animal poner huevo  
+
+['poner', 'huevo', 'animal']
+
+Definición: ave poner huevo cacarear 
+
+['poner', 'huevo', 'ave', 'cacarear']
+
+Definición: ave dar huevo 
+
+['huevo', 'ave', 'dar']
+
+Definición: ave poner huevo 
+
+['poner', 'huevo', 'ave']
+
+Definición: fruto dulce hueso grande vello blanco 
+
+['fruto', 'dulce', 'blanco', 'hueso', 'grande']
+
+Definición: color melocotón naranja 
+
+['color', 'melocotón', 'naranja']
+
+Definición: fruta  suave  cáscara rojo amarillo  sabor dulce 
+
+['suave', 'dulce', 'rojo', 'cáscara', 'sabor', 'amarillo']
+
+Definición: fruto color naranja sabor dulce aterciopelado 
+
+['fruto', 'dulce', 'sabor', 'aterciopelado', 'color', 'naranja']
+
+Definición: fruto semilla grande  aterciopelado 
+
+['fruto', 'aterciopelado', 'grande', 'semilla']
+
+Definición: fruto ser redondo poder ser color rojo  verde amarillo 
+
+['fruto', 'redondo', 'poder', 'rojo', 'verde', 'amarillo', 'color']
+
+Definición: fruto rojo dar maestro 
+
+['fruto', 'maestro', 'rojo', 'dar']
+
+Definición: fruto 
+
+['fruto']
+
+Definición: fruto poner chamoy miguel 
+
+['fruto', 'chamoy', 'poner', 'miguel']
+
+Definición: blanco nieve 
+
+['blanco', 'nieve']
+
+Definición: animal mexicano ser similar pavo cocinar mole 
+
+
+Definición: ave ser pavo unir 
+
+['unir', 'pavo', 'ave']
+
+[('pájaro', 0.3380573740259251), ('pato', 0.30514941987356153), ('gallina', 0.28814286133746725), ('pluma', 0.28147360365603), ('ganso', 0.2801779140530905), ('pollito', 0.274686657652558), ('huevo', 0.271203623416855), ('guajolote', 0.21450930428556975), ('pingüino', 0.20373975041634956), ('palomita', 0.1488271514679725), ('búho', 0.14520704054799882)]
+Definición: acompañar mole 
+
+['mole']
+
+[('chile', 0.44837866646084257), ('ejote', 0.44837866646084257), ('guajolote', 0.4035408176500898), ('olla', 0.4035408176500898)]
+Definición: ave similar gallina grande 
+
+['ave', 'gallina', 'grande']
+
+
+
+Definición: animal decir gordogordogordo
+
+['animal']
+
+
+
+Definición: parte cuerpo utilizar ver 
+
+['ver', 'cuerpo', 'parte']
+
+[('mano', 0.2835371829803642), ('cara', 0.24115091968889577), ('brazo', 0.23352447745578292), ('camisa', 0.23113752599300214), ('dedo', 0.2254547861653682), ('ojo', 0.21860450343361146), ('pie', 0.21251198226242443), ('jabón', 0.19072915996098364), ('suéter', 0.17916933221675516), ('botón', 0.17795218822737593), ('calzón', 0.17744245234992886)]
+Definición: tener 2 poder ser diferente color 
+
+['poder', 'diferente', 'color']
+
+
+
+Definición: órgano usar ver 
+
+['usar', 'órgano', 'ver']
+
+
+[('zapato', 0.26446431476599563), ('lente', 0.24603840810670272), ('ojo', 0.2459817415656458), ('gorra', 0.24436321426252808), ('ventana', 0.24373987996316274), ('vestido', 0.24370021007212841), ('camisa', 0.23940834738638217), ('reloj', 0.22345035170544708), ('espejo', 0.22137790988782857), ('calzón', 0.21725378872449203), ('televisión', 0.19700393035781066)]
+Definición: ver 
+
+['ver']
+
+[('ojo', 0.34991680281701926), ('ventana', 0.34991680281701926), ('espejo', 0.3181061974541607), ('lente', 0.3181061974541607), ('luna', 0.28311453589706237), ('televisión', 0.28311453589706237), ('reloj', 0.28311453589706237), ('circo', 0.28311453589706237)]
+Definición: alimento poder faltar desayuno engordar 
+
+['poder', 'alimento', 'desayuno', 'engordar']
+
+
+
+Definición: comida esponjocita hacer harina hornear  poder comer leche café 
+
+['hacer', 'poder', 'leche', 'comer', 'comida', 'café', 'hornear', 'harina']
+
+
+
+Definición: bolillo 
+
+['bolillo']
+
+[('pan', 0.5212466883221976), ('mantequilla', 0.4778094703049969), ('torta', 0.4778094703049969)]
+Definición: concha 
+
+['concha']
+
+[('pan', 0.7071067811865475)]
+
+[('pan', 0.7071067811865475)]
+
+[('pan', 0.7071067811865475)]
+Definición: transporte necesitar gasolina derivado  mover gracias fuerza realizar humano  existir alguno estacionario ser usar hacer ejercicio  
+
+['transporte', 'gasolina', 'humano', 'fuerza', 'hacer', 'necesitar', 'usar', 'mover', 'ejercicio']
+
+[('niño', 0.35195497042035107), ('mano', 0.1901087042204719), ('camión', 0.1861950099683685), ('bicicleta', 0.1767091641921844), ('tren', 0.1673637211931035), ('playera', 0.16572067770786886), ('autobús', 0.16495636986501908), ('moto', 0.1580672846955739), ('short', 0.1553271338054502), ('brazo', 0.1535060058156534), ('gorra', 0.14884459708548095)]
+Definición: pedalear 
+
+['pedalear']
+
+[('bicicleta', 0.7071067811865475)]
+
+[('bicicleta', 0.7071067811865475)]
+
+[('bicicleta', 0.7071067811865475)]
+Definición: ser transporte promover fin semana ciudad 
+
+['transporte', 'ciudad']
+
+[('autobús', 0.2847683232113611), ('moto', 0.28441117647086095), ('camión', 0.2793782230298073), ('calle', 0.24342730428662196), ('tren', 0.23049142317797902), ('bicicleta', 0.22783714694614526), ('triciclo', 0.2032826878858386), ('avión', 0.19768563357146574), ('escuela', 0.19404095553937892), ('tractor', 0.1927666185736219), ('helicóptero', 0.17920539515069395)]
+Definición: vehículo motor 2 rueda 
+
+['vehículo', 'motor', 'rueda']
+
+[('moto', 0.30704015265682827), ('camión', 0.3064381825898922), ('autobús', 0.26216280551607457), ('tractor', 0.26063429582368464), ('bicicleta', 0.24830177869766454), ('tren', 0.24168010268892168), ('triciclo', 0.23915788212142827), ('avión', 0.2073716167266348), ('helicóptero', 0.18562999687956394), ('patín', 0.17035004422675717), ('carriola', 0.16943565563362945)]
+Definición: moto motor 
+
+['moto', 'motor']
+
+
+
+Definición: verdura amarillo naranja grande redondo usar hacer lámpara 
+
+['hacer', 'redondo', 'amarillo', 'lámpara', 'grande', 'usar', 'verdura', 'naranja']
+
+
+
+Definición: adorno halloween 
+
+['adorno', 'halloween']
+
+[('arete', 0.33622324778646884), ('flor', 0.3348826610697477), ('collar', 0.30820465417249127), ('bolsa', 0.30820465417249127), ('planta', 0.308070599143816), ('calabaza', 0.2949327264726445), ('mueble', 0.27458234971461076), ('burbuja', 0.26144447704343926)]
+Definición: cosa naranja poner cara halloween 
+
+['poner', 'cara', 'halloween', 'cosa', 'naranja']
+
+
+
+Definición: verdura color verde amarillo dentro sabor dulzón 
+
+['amarillo', 'verdura', 'color', 'verde', 'sabor']
+
+
+
+Definición: verdura verde pepita hacer consomé 
+
+['hacer', 'pepita', 'verdura', 'verde']
+
+
+
+Definición: insecto volador rayado producir miel 
+
+['volador', 'miel', 'insecto']
+
+[('dulce', 0.2996904703994608), ('abeja', 0.24195034302918308), ('fresa', 0.22834587149120497), ('hot_cakes', 0.22136577837986618), ('manzana', 0.22136577837986618), ('cacahuate', 0.21592648685578383), ('cuchara', 0.21094934587206268), ('mariposa', 0.19997674190605294), ('taza', 0.18965709684691073), ('luna', 0.1872912932727871), ('cuna', 0.1872912932727871)]
+Definición: obrero pequeño 
+
+['obrero', 'pequeño']
+
+[('niño', 0.32766736424040555), ('bebé', 0.2806625911236426), ('muñeca', 0.23657474260313377), ('juguete', 0.22777234823241935), ('cuna', 0.17669134543755055), ('triciclo', 0.17669134543755055), ('conejo', 0.17149860125620506), ('familia', 0.17106397346856292), ('perro', 0.17084681217734768), ('mano', 0.16801710711327458), ('pie', 0.15516386620310285)]
+Definición: insecto picar  hacer miel 
+
+['picar', 'hacer', 'miel', 'insecto']
+
+[('dulce', 0.275559262732495), ('abeja', 0.24435398559730687), ('cuchara', 0.22108213691822226), ('taza', 0.20248438079197936), ('tenedor', 0.194728010130156), ('cuchillo', 0.194728010130156), ('fresa', 0.19371709441674087), ('manzana', 0.18835820188027572), ('hot_cakes', 0.18835820188027572), ('cacahuate', 0.18690095318447328), ('chile', 0.17914458252264995)]
+Definición: animal producir miel 
+
+['miel', 'animal']
+
+
+
+Definición: insecto volador amarillo negro 
+
+['negro', 'volador', 'amarillo', 'insecto']
+
+
+
+Definición: medio transporte poder volar 
+
+['medio', 'transporte', 'poder', 'volar']
+
+[('avión', 0.23425714425762656), ('helicóptero', 0.22690759004128408), ('autobús', 0.21732232485523495), ('camión', 0.21614530904567267), ('tren', 0.20059608952097882), ('pájaro', 0.1935187139200288), ('moto', 0.1853462678555883), ('pato', 0.16654563954864587), ('mariposa', 0.16321739989489617), ('dinero', 0.16310089482036486), ('bicicleta', 0.15738434777561564)]
+Definición: sistema transporte ir volar cielo  
+
+['transporte', 'volar', 'cielo', 'sistema', 'ir']
+
+[('sol', 0.23678510766610927), ('avión', 0.22249808879925156), ('pájaro', 0.21001137743760953), ('helicóptero', 0.17691572931655938), ('mariposa', 0.17480355272221768), ('tren', 0.16969267340913582), ('camión', 0.1644457584022538), ('tierra', 0.16235107323728168), ('pelota', 0.15739046957892475), ('color', 0.15626373637373264), ('autobús', 0.15469582887464436)]
+Definición: medio transporte volar 
+
+['medio', 'transporte', 'volar']
+[('avión', 0.24622817023849408), ('autobús', 0.22730150713423836), ('helicóptero', 0.21246495575798055), ('tren', 0.20850329429122505), ('camión', 0.1990743945796375), ('moto', 0.19551936062412759), ('pájaro', 0.1922690257081147), ('pato', 0.17843797979081455), ('mariposa', 0.17426152960406124), ('bicicleta', 0.16939788001762407), ('triciclo', 0.16155902503850902)]
+Definición: transporte aéreo 
+
+['transporte', 'aéreo']
+
+
+[('tren', 0.26908221561828033), ('camión', 0.2679775944784655), ('moto', 0.2648801561497316), ('avión', 0.2588730268910838), ('autobús', 0.2478884864701079), ('helicóptero', 0.2391382298386715), ('bicicleta', 0.2350103600784993), ('tractor', 0.22098028016445317), ('triciclo', 0.21708284996393065), ('canasta', 0.191195560209905), ('caballo', 0.1863272543956857)]
+Definición: medio transporte aire 
+
+['medio', 'transporte', 'aire']
+
+[('avión', 0.23083637059134068), ('árbol', 0.22015693775809897), ('tren', 0.20228946076818283), ('pájaro', 0.19710698640532676), ('helicóptero', 0.19651498531040984), ('tierra', 0.19632366398180656), ('camión', 0.17561046297103222), ('mariposa', 0.17372119624140825), ('autobús', 0.17353354771351887), ('moto', 0.17091350303325198), ('tractor', 0.15929234816436663)]
+Definición: pajaro nocturno cazar ratón tener grande ojo  ulular usar simbolizar inteligencia ser lechuzo 
+
+['ojo', 'inteligencia', 'nocturno', 'grande', 'usar', 'ratón', 'cazar']
+
+
+
+Definición: ave voltear cabeza 
+
+['cabeza', 'ave']
+
+[('pájaro', 0.3143211682281169), ('pato', 0.28389363341122303), ('pluma', 0.2826743626173724), ('gallina', 0.2649289029401622), ('ganso', 0.26092886556011663), ('pollito', 0.2526125493362972), ('huevo', 0.2391166490513387), ('pingüino', 0.20987265092673646), ('guajolote', 0.18764060538079308), ('mariposa', 0.1462306482552111), ('sombrero', 0.1348482651355266)]
+Definición: animal  ala  ojo bonito  parecer logo sanborns 
+
+['ojo', 'bonito', 'ala', 'animal']
+
+
+
+Definición: ave ojo grande simbolizar inteligencia 
+
+['ojo', 'inteligencia', 'ave', 'grande']
+
+
+
+Definición: ave nocturno referir sabiduría
+
+['sabiduría', 'nocturno', 'ave']
+
+[('pájaro', 0.33038279082765754), ('pato', 0.2967594205637114), ('pluma', 0.28790949188160536), ('ganso', 0.27391539185659713), ('gallina', 0.263938049905135), ('pollito', 0.25128440061783747), ('huevo', 0.23888615461594837), ('pingüino', 0.18736392931161258), ('guajolote', 0.18548120386527378), ('búho', 0.17157972296864257), ('libro', 0.16141331109487606)]
+Definición: alimento harina italiano fideo ir crema jitomate 
+
+['alimento', 'crema', 'ir', 'italiano', 'harina']
+
+
+
+Definición: pasta enreda 
+
+['pasta']
+
+[('diente', 0.41942390862924267), ('cepillo de dientes', 0.3844719228644239), ('cepillo', 0.3844719228644239), ('tenedor', 0.3805883734029176), ('espagueti', 0.3805883734029176)]
+
+Definición: sopa fideo seco 
+
+['seco', 'sopa']
+[('taza', 0.24767043385630835), ('plato', 0.23235674245064172), ('tenedor', 0.23183799684974218), ('cuchara', 0.21743401240813265), ('tierra', 0.1981301249890256), ('olla', 0.19635784312019613), ('trapo', 0.19191517501409064), ('espagueti', 0.1828019635538554), ('ejote', 0.17919410836772273), ('carne', 0.1719997313195863), ('planta', 0.1669119354991263)]
+Definición: comida típico italia elaborar pasta forma tubular alargar 
+
+['italia', 'tubular', 'pasta', 'forma', 'comida', 'típico', 'alargar']
+
+
+
+Definición: ingrediente básico alimentación italiano 
+
+['ingrediente', 'básico', 'italiano']
+
+[('mantequilla', 0.39891809494967195), ('espagueti', 0.39891809494967195), ('triciclo', 0.3622827844990957), ('canasta', 0.3622827844990957)]
+Definición: ropa deportivo 
+
+['ropa', 'deportivo']
+
+[('pantalón', 0.2907471157888763), ('camisa', 0.24849177133370962), ('playera', 0.21953965976705092), ('short', 0.2185934552392364), ('calzón', 0.21603028794496082), ('zapato', 0.21520188135521687), ('falda', 0.20129745984624883), ('suéter', 0.18971228247143132), ('bufanda', 0.176397132196694), ('botón', 0.15371803289607205), ('bota', 0.15239350521124886)]
+Definición: ropa 
+
+['ropa']
+[('pantalón', 0.29132615656547267), ('camisa', 0.24898496672636025), ('playera', 0.2198623465263762), ('calzón', 0.21631553928534278), ('zapato', 0.2160180408609213), ('short', 0.21489085506735653), ('falda', 0.20166141616833605), ('suéter', 0.19036656585857178), ('bufanda', 0.1767013131642897), ('botón', 0.15431532790209254), ('bota', 0.15299279965101426)]
+Definición: prenda vestir usar hombre mujer cubrir parte arriba cuerpo 
+
+['parte', 'cubrir', 'usar', 'vestir', 'hombre', 'cuerpo', 'mujer', 'arriba', 'prenda']
+
+
+
+Definición: poner encima  aquí señalar torso
+
+['señalar', 'poner']
+
+[('zapato', 0.2993369343953117), ('falda', 0.2748001540474016), ('gorra', 0.25337465833125), ('caja', 0.24703498444383593), ('vestido', 0.23510117427340393), ('short', 0.2305049504653035), ('camisa', 0.22001530807077357), ('arete', 0.213099652271721), ('bota', 0.213099652271721), ('sombrero', 0.2000104264169304), ('guante', 0.18987005237309126)]
+Definición: prenda vestir parte superior cuerpo  
+
+['cuerpo', 'parte', 'vestir', 'prenda']
+
+[('pantalón', 0.31663485636983085), ('camisa', 0.2810065528621393), ('falda', 0.24197256188321747), ('calzón', 0.2372846308564234), ('short', 0.23483180125617442), ('playera', 0.2300092136489545), ('suéter', 0.22251897788546218), ('zapato', 0.20551535755168573), ('bufanda', 0.18178487617601607), ('gorra', 0.17943468888157524), ('bota', 0.17658514640199816)]
+Definición: animal poder montar 
+
+['poder', 'montar', 'animal']
+
+
+
+Definición: animal 4 pata correr usar carrera  
+
+['carrera', 'usar', 'correr', 'pata', 'animal']
+
+
+
+Definición: animal equino usar cabalgar usar juego polo
+
+['equino', 'cabalgar', 'juego', 'usar', 'polo', 'animal']
+
+
+
+Definición: animal galopar relinchar 
+
+['relinchar', 'galopar', 'animal']
+
+
+
+Definición: animal relinchar 
+
+['relinchar', 'animal']
+
+
+
+Definición: transporte terrestre público pasajero grande 
+
+['transporte', 'público', 'grande', 'pasajero']
+
+
+
+Definición: transporte público grande 
+
+['transporte', 'público', 'grande']
+
+
+
+Definición: carro grande llevar pasajero ser combi metro 
+
+['metro', 'llevar', 'grande', 'pasajero', 'carro', 'combi']
+
+
+
+Definición: transporte persona 
+
+['transporte', 'persona']
+
+[('casa', 0.21333337478229022), ('calle', 0.1924916765054918), ('cara', 0.17722149146829153), ('espejo', 0.16747109727469384), ('boca', 0.1615609058683008), ('ojo', 0.15843559305621752), ('camión', 0.1575094546385194), ('bicicleta', 0.15192644676473105), ('autobús', 0.14955661660266872), ('ventana', 0.14706448598862354), ('triciclo', 0.13918642949689913)]
+Definición: transporte público pasajero 
+
+['transporte', 'público', 'pasajero']
+
+[('camión', 0.2975387002914793), ('tren', 0.2801568480670875), ('autobús', 0.2785747733017451), ('moto', 0.2535948952929441), ('avión', 0.24593901312306382), ('bicicleta', 0.21633342577722864), ('tractor', 0.20860325412177724), ('helicóptero', 0.2060994822188879), ('triciclo', 0.19971714466795792), ('barco', 0.17734168877069917), ('canasta', 0.1751232518717184)]
+Definición: roedor comedor nuez 
+
+['nuez', 'comedor', 'roedor']
+
+[('cocina', 0.29322369500197204), ('mesa', 0.29242676496726633), ('cuchara', 0.2643393636705371), ('sala', 0.24906977546826908), ('silla', 0.24906977546826908), ('ardilla', 0.2367552926816195), ('tenedor', 0.22135408727945882), ('burbuja', 0.21258782198218149), ('conejo', 0.19950169084501773), ('víbora', 0.19950169084501773), ('ratón', 0.19611500000671878)]
+Definición: nuez
+
+['nuez']
+
+[('cacahuate', 0.4713261328363417), ('paleta', 0.43204896443989), ('ardilla', 0.43204896443989), ('helado', 0.384916370862998)]
+Definición: animal comer nuez  vivir trepar árbol 4 pata  pelaje café grisáseo 
+
+['nuez', 'café', 'pata', 'trepar', 'árbol', 'pelaje', 'vivir', 'comer', 'animal']
+
+
+
+Definición: animal comer nuez  salir era hielo
+
+['nuez', 'salir', 'hielo', 'comer', 'animal']
+
+
+
+Definición: animal roedor comer bellota 
+
+['bellota', 'roedor', 'comer', 'animal']
+
+
+
+Definición: postre elaborar agua  poder ser diverso sabor  postre ser recomendar enfermo consumar  
+
+['poder', 'postre', 'enfermo', 'diverso', 'sabor', 'agua']
+
+
+
+Definición: hacer agua cuajar 
+
+['hacer', 'agua']
+
+
+
+Definición: sabor ser fruto nunca faltar cumpleaños 
+
+['fruto', 'cumpleaños', 'sabor']
+
+
+
+Definición: postre sabor abasede agua dejar cuajar 
+
+['agua', 'postre', 'sabor']
+
+
+
+Definición: postre viscoso dar fiesta 
+
+['postre', 'fiesta', 'viscoso', 'dar']
+
+[('dulce', 0.3253456512323171), ('fresa', 0.27619848837707583), ('pastel', 0.2681051877522404), ('gelatina', 0.23296962402688293), ('durazno', 0.22563631992887428), ('paleta', 0.19238965723393353), ('manzana', 0.18256362575942806), ('hot_cakes', 0.17713511585544198), ('helado', 0.1703549158321806), ('plátano', 0.16707681893496087), ('sandía', 0.15938415035516543)]
+Definición: servir iluminar espacio llevar foco 
+
+['espacio', 'foco', 'iluminar', 'llevar', 'servir']
+[('sol', 0.27863381772342066), ('calle', 0.23747573172481298), ('lámpara', 0.21652325582262563), ('tierra', 0.21098599566083903), ('luna', 0.2082593448600083), ('estrella', 0.2074825675688334), ('techo', 0.2024414173597017), ('ventana', 0.19016007595502588), ('vela', 0.1765308075981681), ('color', 0.165947527406005), ('plumón', 0.165947527406005)]
+Definición: objeto necesitar haber luz noche 
+
+['objeto', 'luz', 'noche', 'necesitar']
+[('mesa', 0.19450551290972562), ('luna', 0.18723724632638777), ('cama', 0.18702325613601928), ('mueble', 0.1840243346042985), ('lámpara', 0.18238700316228587), ('estrella', 0.17989481808658753), ('color', 0.17427362937722704), ('caja', 0.16985223599559404), ('sol', 0.1670450313381153), ('techo', 0.16531161019114585), ('pijama', 0.15371010876033686)]
+Definición: aparato eléctrico usar alumbrar lugar 
+
+['alumbrar', 'aparato', 'usar', 'eléctrico', 'lugar']
+[('camión', 0.25596640886594), ('casa', 0.23277494874543067), ('calle', 0.22844363378990395), ('autobús', 0.2250131619131033), ('escuela', 0.18832546600277095), ('sol', 0.18624172695888616), ('televisión', 0.18483690584318002), ('sala', 0.18198870980187778), ('iglesia', 0.17990444986723703), ('tren', 0.17512123107433822), ('lámpara', 0.16840692922203457)]
+Definición: objeto dar luz noche 
+
+['objeto', 'luz', 'noche', 'dar']
+[('mesa', 0.19581696678728747), ('color', 0.18480672582288957), ('cama', 0.18474562086902457), ('mueble', 0.18426562967917617), ('luna', 0.18317883078084965), ('caja', 0.1824491677475761), ('lámpara', 0.18044894236710646), ('estrella', 0.1765930388565091), ('techo', 0.1621270366291358), ('gato', 0.15614096475831546), ('sol', 0.15454030886177259)]
+Definición: objeto iluminar alguno cuarto 
+
+['objeto', 'iluminar', 'cuarto']
+[('mueble', 0.30611970693249435), ('mesa', 0.25909715028137276), ('cama', 0.22843162708099948), ('cocina', 0.20792529083965453), ('caja', 0.19649407660834625), ('silla', 0.19619875731775568), ('techo', 0.19338849878415598), ('lámpara', 0.19303343299669284), ('puerta', 0.18548764976674081), ('cajón', 0.18079606879460813), ('espejo', 0.1690015499294468)]
+Definición: ropa vestir generalmente elaborar mezclilla aunque poder ser hacer material ser utilizar mayoría hombre 
+
+['poder', 'hacer', 'ropa', 'vestir', 'material', 'hombre', 'mezclilla']
+
+
+
+Definición: prenda ropa ser mezclilla 
+
+['mezclilla', 'ropa', 'prenda']
+
+[('pantalón', 0.3111727841953648), ('camisa', 0.25692474127289255), ('short', 0.2258925126354573), ('falda', 0.21646145386784965), ('playera', 0.21182898954469975), ('calzón', 0.2083967322605767), ('zapato', 0.2030637490089485), ('suéter', 0.20248317686539202), ('bufanda', 0.18662717135873658), ('botón', 0.1662598916068579), ('bota', 0.1625953777537226)]
+Definición: prender vestir ajustar cintura pierna 
+
+['ajustar', 'pierna', 'prender', 'cintura', 'vestir']
+
+[('pantalón', 0.33366305103590466), ('falda', 0.2740601776443086), ('short', 0.24778765991002974), ('calzón', 0.24748935626080384), ('camisa', 0.24304154039841933), ('playera', 0.238237565160586), ('zapato', 0.22792487976990952), ('bota', 0.20370607517796896), ('suéter', 0.18631809536072605), ('vestido', 0.18386312826239365), ('gorra', 0.16964351496519461)]
+Definición: ropa cubrir manera independiente 2 pierna llegar tobillo  
+
+['independiente', 'pierna', 'ropa', 'cubrir']
+
+
+
+Definición: prender vestir cubrir pierna  
+
+['pierna', 'prender', 'vestir', 'cubrir']
+
+[('pantalón', 0.29782619520964854), ('calzón', 0.2522638638374105), ('playera', 0.23941361138052472), ('falda', 0.23237754983317258), ('camisa', 0.21866157153977986), ('short', 0.2181575031215473), ('suéter', 0.2046913244611749), ('zapato', 0.20062092271734222), ('bufanda', 0.1982136370129793), ('bota', 0.19516727579006524), ('vestido', 0.1790898933598319)]
+Definición: animal parecer caballo tener raya blanco negro 
+
+['blanco', 'negro', 'caballo', 'raya', 'animal']
+
+
+
+Definición: animal parecer caballo raya 
+
+['caballo', 'raya', 'animal']
+
+
+
+Definición: equino 
+
+['equino']
+
+[('caballo', 0.7071067811865475)]
+
+[('caballo', 0.7071067811865475)]
+
+[('caballo', 0.7071067811865475)]
+Definición: animal raya blanco negro 
+
+['blanco', 'negro', 'raya', 'animal']
+
+
+
+Definición: burro 
+
+['burro']
+
+
+
+Definición: parte cuerpo mano 
+
+['cuerpo', 'mano', 'parte']
+
+
+
+Definición: parte cuerpo  sostener cosa aplicar fuerza  
+
+['cuerpo', 'fuerza', 'cosa', 'sostener', 'parte']
+
+[('mano', 0.2548378657926925), ('cajón', 0.20470236217334883), ('caja', 0.2034673259016589), ('mesa', 0.20189700537473845), ('brazo', 0.19059495246686037), ('mueble', 0.18375157784081225), ('bolsa', 0.17860002227768934), ('camisa', 0.1748477681683909), ('dinero', 0.17097107573602432), ('palo', 0.15801859243508418), ('mercado', 0.1575068316024888)]
+Definición: extremidad superior cuerpo humano 
+
+['extremidad', 'cuerpo', 'humano']
+
+[('mano', 0.347177480907316), ('brazo', 0.30969231039097483), ('dedo', 0.29024873393537515), ('pie', 0.2666569692566187), ('cara', 0.2477275941429751), ('camisa', 0.21387940861338234), ('jabón', 0.2083509914872963), ('ojo', 0.1736332629569805), ('suéter', 0.17024844759273555), ('calzón', 0.17024844759273555), ('mono', 0.17013784507232582)]
+Definición: parte cuerpo permitir agarrar cosa 
+
+['agarrar', 'cuerpo', 'cosa', 'parte']
+
+[('mano', 0.24154045032758872), ('cajón', 0.22322777386774678), ('caja', 0.22007760636602458), ('brazo', 0.2007219184817733), ('bolsa', 0.1958059489149676), ('camisa', 0.19458851617496795), ('dinero', 0.19239193626858678), ('mesa', 0.18791892055304768), ('mueble', 0.18659293665377333), ('mercado', 0.17819286714461777), ('dedo', 0.17805978013722473)]
+Definición: ser parte cuerpo pegar mano 
+
+['cuerpo', 'pegar', 'mano', 'parte']
+
+
+
+Definición: electrodoméstico servir juntar polvo 
+
+['electrodoméstico', 'polvo', 'servir', 'juntar']
+
+[('mueble', 0.2765279883051166), ('refrigerador', 0.2604950584266075), ('lavadora', 0.238718994681025), ('leche', 0.23440279367437156), ('aspiradora', 0.23247015168649657), ('tierra', 0.2288042019211749), ('escoba', 0.21616637894993854), ('televisión', 0.21127856526970087), ('plancha', 0.21103238299348157), ('vaso', 0.20019590557499095), ('familia', 0.19712295073733196)]
+Definición: escoba eléctrico 
+
+['eléctrico', 'escoba']
+
+[('trapo', 0.2488542889861112), ('aspiradora', 0.2479231789490734), ('casa', 0.19612628155930265), ('pala', 0.1956652875399091), ('limpiar', 0.17810711614778116), ('cubeta', 0.1665820882201486), ('limpio', 0.16517806454489534), ('cepillo', 0.1588347231391688), ('limpieza', 0.1585405895240888), ('barrer', 0.15715398827622318), ('herramienta', 0.14039523126017928)]
+Definición: aparato sacar polvo 
+
+['aparato', 'sacar', 'polvo']
+[('tierra', 0.305358561274313), ('aspiradora', 0.2621390726803322), ('escoba', 0.25704621579579834), ('mueble', 0.2534411309017814), ('pala', 0.24933706404727843), ('calabaza', 0.24668920096937735), ('televisión', 0.24418242592224515), ('tractor', 0.2364344648328046), ('cajón', 0.23124273111964197), ('leche', 0.23056753908715769), ('cámara', 0.22114233038136788)]
+Definición: aparato electrónico quitar polvo 
+
+['aparato', 'quitar', 'polvo', 'electrónico']
+
+[('mueble', 0.2513893999089431), ('cajón', 0.24738246842880293), ('aspiradora', 0.24602432492949608), ('televisión', 0.23762975035790357), ('tierra', 0.22600839992906283), ('lavadora', 0.21846467562123262), ('plancha', 0.2181736317949865), ('dinero', 0.21577153728085066), ('escoba', 0.2056441517151326), ('tractor', 0.20364256054874846), ('cámara', 0.19700456697210295)]
+Definición: ser aparato limpiar succionar polvo 
+
+['aparato', 'polvo', 'succionar', 'limpiar']
+
+[('lavabo', 0.25811964720224634), ('escoba', 0.23584288124814035), ('diente', 0.2291790287800068), ('cepillo', 0.2152738586384076), ('jabón', 0.19777207918487458), ('trapo', 0.1950239054106886), ('pasta_de_dientes', 0.19383360783613324), ('aspiradora', 0.19258677355972095), ('lavadora', 0.1835906642305312), ('toalla', 0.16889072701173055), ('cubeta', 0.16666305376538665)]
+Definición: alimento elaborar leche existir diferente tipo  manchego cotija panela  
+
+['alimento', 'leche', 'diferente', 'manchego', 'panela']
+
+
+
+Definición: producto sacar leche vaca 
+
+['producto', 'leche', 'sacar', 'vaca']
+
+
+
+Definición: amarillo agujero 
+
+['amarillo']
+
+[('queso', 0.2100436926629599), ('huevo', 0.20571852287840747), ('naranja', 0.19831804875841527), ('leche', 0.18691484659248453), ('calabaza', 0.17931926136857373), ('refrigerador', 0.17563188850654762), ('durazno', 0.16834089276291356), ('jugo', 0.1579564831767145), ('manzana', 0.1518468843049007), ('pato', 0.14919826225856306), ('gelatina', 0.1470223057373747)]
+Definición: derivar lacteo poner trampa ratón 
+
+['poner', 'trampa', 'ratón']
+
+
+
+Definición: crema sólido 
+
+[('queso', 0.29657290870894204), ('pastel', 0.27904029776451444), ('leche', 0.2767683838313542), ('mantequilla', 0.2522040071407775), ('pan', 0.24619575090007328), ('calabaza', 0.2229328729859427), ('elote', 0.2077100354978382), ('durazno', 0.20748270367348942), ('plátano', 0.19574437704746345), ('fresa', 0.1957261312135095), ('ejote', 0.1708109552738611)]
+Definición: vegetal color naranja crecer bajo tierra ser alimento preferir conejo  caballo  menos imaginario colectivo  
+
+['crecer', 'tierra', 'conejo', 'bajo', 'alimento', 'vegetal', 'caballo', 'colectivo', 'color', 'menos', 'naranja']
+
+
+
+Definición: verdura comer conejo cómo decir  
+
+['conejo', 'verdura', 'comer']
+
+
+
+Definición: comer ser bueno vista 
+
+['bueno', 'comer', 'vista']
+
+
+
+Definición: raíz naranja comer conejo caricatura 
+
+['raíz', 'conejo', 'caricatura', 'comer', 'naranja']
+
+
+
+Definición: comer conejo 
+
+['conejo', 'comer']
+
+
+
+Definición: comida mexicano tortilla 
+
+['comida', 'mexicano', 'tortilla']
+
+
+
+Definición: típico
+
+['típico']
+
+[('muñeco de nieve', 0.7071067811865475)]
+
+[('muñeco de nieve', 0.7071067811865475)]
+
+[('muñeco de nieve', 0.7071067811865475)]
+Definición: platillo gastronómico elaborar tortilla poder ser diferente tipo carne longaniza ingrediente 
+
+['poder', 'longaniza', 'ingrediente', 'tortilla', 'carne', 'diferente', 'platillo']
+
+
+
+Definición: hacer rollo tortilla 
+
+['hacer', 'rollo', 'tortilla']
+
+[('queso', 0.34242905914351496), ('torta', 0.32330004104695176), ('pan', 0.29914161075145895), ('huevo', 0.29914161075145895), ('taco', 0.2877758486846572), ('canasta', 0.26478224729627553), ('elote', 0.24274926141706357), ('durazno', 0.21041928027156592), ('palo', 0.1854838176400743), ('burro', 0.176176398813201), ('burbuja', 0.15670625016460601)]
+Definición: caber tortilla 
+
+['caber', 'tortilla']
+[('queso', 0.36599163223148656), ('torta', 0.34542644845624754), ('pan', 0.3211498036500851), ('huevo', 0.3211498036500851), ('taco', 0.2890348437876655), ('canasta', 0.28275135088545644), ('elote', 0.2607597244606985), ('durazno', 0.22621710241885343), ('burro', 0.1896179634946951), ('cepillo', 0.1652495143663081)]
+Definición: decir persona  hacer reír dicho gesto 
+
+['hacer', 'persona', 'gesto', 'reír']
+
+[('niño', 0.2689266860296728), ('casa', 0.20861651594938158), ('cara', 0.1990125899394617), ('ojo', 0.18751072869839142), ('calle', 0.1696626525044875), ('lente', 0.14988808476805685), ('boca', 0.14548343471373285), ('ventana', 0.142808993846845), ('pantalón', 0.1396659826823163), ('playera', 0.1396659826823163), ('short', 0.1396659826823163)]
+Definición: decir artista  ambulante debutar mojiganga enmascarar  
+
+['ambulante', 'artista']
+
+[('circo', 0.3871293879600307), ('estrella', 0.35281859202802657), ('color', 0.35281859202802657), ('radio', 0.35281859202802657), ('borrego', 0.35281859202802657)]
+Definición: artista circo  generalmente caracterizar modo extravagante hacer reír aspecto acto decir gesto  
+
+['hacer', 'acto', 'artista', 'gesto', 'circo', 'reír']
+
+[('niño', 0.2899630303860162), ('payaso', 0.22579165993787484), ('globo', 0.21299568434087363), ('divertir', 0.19786020519351555), ('color', 0.1835467711791579), ('grande', 0.18129273693409026), ('diversión', 0.17649179585035335), ('elefante', 0.15401507409763168), ('juego', 0.15008014087212257), ('león', 0.145748151672444), ('mono', 0.14522186131959608)]
+Definición: prenda ropa usar  vez  mujer vez pantalón 
+
+['mujer', 'ropa', 'usar', 'pantalón', 'prenda']
+
+
+
+Definición: ser short medio pierna 
+
+['medio', 'pierna', 'short']
+
+
+
+Definición: ropa 
+
+['ropa']
+
+[('pantalón', 0.29132615656547267), ('camisa', 0.24898496672636025), ('playera', 0.2198623465263762), ('calzón', 0.21631553928534278), ('zapato', 0.2160180408609213), ('short', 0.21489085506735653), ('falda', 0.20166141616833605), ('suéter', 0.19036656585857178), ('bufanda', 0.1767013131642897), ('botón', 0.15431532790209254), ('bota', 0.15299279965101426)]
+Definición: tela forma circular mujer 
+
+['tela', 'circular', 'mujer', 'forma']
+
+[('calzón', 0.2510176348464703), ('pantalón', 0.23897669087505632), ('falda', 0.23121493107684868), ('playera', 0.23044992691182486), ('camisa', 0.22094831497430806), ('bufanda', 0.20497920070011647), ('short', 0.20177114728002055), ('suéter', 0.17594921849089415), ('abrigo', 0.16801211921101317), ('vestido', 0.16761234232539754), ('flor', 0.15710184630673477)]
+Definición: ropa mujer 
+
+['ropa', 'mujer']
+
+[('pantalón', 0.2866242273157481), ('falda', 0.22304889312150764), ('playera', 0.2217558053695141), ('calzón', 0.22056671600615751), ('camisa', 0.21938448669246813), ('zapato', 0.2032576066513501), ('short', 0.19491375156113022), ('bufanda', 0.18380427319200401), ('suéter', 0.16765947115501334), ('gorra', 0.1631852458591428), ('vestido', 0.1489426806173778)]
+Definición: alimento dulce café origen prehispánico casi gustar producir endorfina  
+
+['alimento', 'dulce', 'gustar', 'café']
+
+
+
+Definición: golosina 
+
+['golosina']
+
+[('dulce', 0.4008707480238552), ('chocolate', 0.34281623309882214), ('galleta', 0.29469219635814264), ('paleta', 0.29469219635814264), ('helado', 0.2679020038414962), ('cacahuate', 0.2679020038414962), ('pastel', 0.2614625303997724), ('hot_cakes', 0.23029742712966222), ('tienda', 0.2041511813818118), ('palomita', 0.2041511813818118), ('hamburguesa', 0.16406411997548181)]
+Definición: sabor dulce ser color café venir cacao 
+
+['dulce', 'sabor', 'cacao', 'venir', 'color', 'café']
+
+
+
+Definición: postre sabor dulce preshispánico elaborar cacao 
+
+['postre', 'cacao', 'dulce', 'sabor']
+
+
+
+Definición: bebida caliente dulce méxico 
+
+['dulce', 'bebida', 'caliente', 'méxico']
+
+
+
+Definición: animal granja lana usar barbacoa 
+
+['usar', 'granja', 'barbacoa', 'lana', 'animal']
+
+
+
+Definición: animal lana ser alpaca 
+
+['lana', 'animal']
+
+
+
+Definición: animal acolchonar blanco 
+
+['blanco', 'acolchonar', 'animal']
+
+
+
+Definición: animal producir lana 
+
+['lana', 'animal']
+
+
+
+Definición: animal ganado producir lana 
+
+['lana', 'animal']
+
+
+
+Definición: parte cuerpo agarrar objeto tener 5 dedo 
+
+['agarrar', 'objeto', 'cuerpo', 'dedo', 'parte']
+
+
+
+Definición: parte cuerpo conde terminar brazo 
+
+['cuerpo', 'brazo', 'parte']
+
+
+
+Definición: extremidad 
+
+['extremidad']
+
+[('brazo', 0.447213595499958), ('pie', 0.447213595499958), ('dedo', 0.447213595499958), ('mano', 0.447213595499958)]
+
+Definición: agarrar cosa humano 
+
+['agarrar', 'humano', 'cosa']
+
+[('caja', 0.24569196749943634), ('dinero', 0.2414844625230098), ('bolsa', 0.2402187568528213), ('mano', 0.2397178506599013), ('mueble', 0.2332536454322552), ('cajón', 0.22385390906170471), ('mesa', 0.21932604084309534), ('mercado', 0.2142988465773342), ('tienda', 0.19199822608767483), ('brazo', 0.1919566654381428), ('cocina', 0.191677862845492)]
+Definición: pie 
+
+['pie']
+
+
+
+Definición: animal consumir méxico carnitas chicharrón provenir manteca  
+
+['chicharrón', 'carnitas', 'méxico', 'animal']
+
+
+
+Definición: hacer carnitas 
+
+['hacer', 'carnitas']
+
+[('taco', 0.41358108836233826), ('palo', 0.3815870912566631), ('cochino', 0.37889135944837465), ('plastilina', 0.3402289958804441), ('burbuja', 0.3402289958804441)]
+Definición: sucio 
+
+['sucio']
+
+[('agua', 0.2742168374244544), ('lavabo', 0.19814150022221078), ('jabón', 0.17859731600382825), ('cocina', 0.1725415588716037), ('mano', 0.16377629785181577), ('vaso', 0.1580779974255487), ('toalla', 0.1503542400777291), ('olla', 0.14647884053298177), ('lavadora', 0.14010991922189708), ('botella', 0.1387042872092912), ('pañal', 0.13761481017998936)]
+Definición: parecer cerdo puerco 
+
+['cerdo', 'puerco']
+
+[('cochino', 0.38177767946677393), ('pato', 0.35260854272776115), ('carne', 0.3208606286429796), ('gallina', 0.31747930050953926), ('jabón', 0.245799508381719), ('policía', 0.245799508381719), ('burro', 0.245799508381719), ('tambor', 0.24404072084092815)]
+Definición: animal alcancía 
+
+['alcancía', 'animal']
+
+
+
+Definición: ser ave parecer pato grande además agresivo 
+
+['pato', 'agresivo', 'ave', 'grande']
+
+
+
+Definición: animal parecer pato ser pato 
+
+['pato', 'animal']
+
+
+
+Definición: cisne 
+
+['cisne']
+
+[('pato', 0.5773502691896258), ('ganso', 0.5773502691896258)]
+
+[('pato', 0.5773502691896258), ('ganso', 0.5773502691896258)]
+
+[('pato', 0.5773502691896258), ('ganso', 0.5773502691896258)]
+Definición: parecer pato grande 
+
+['pato', 'grande']
+
+
+
+Definición: pato pato 
+
+['pato']
+
+
+
+

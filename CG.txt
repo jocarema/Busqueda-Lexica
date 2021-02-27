@@ -1,0 +1,1161 @@
+Concepto: Gelatina
+Definición: Postre elaborado con agua, puede ser de diversos sabores. Este postre es recomendado para que los enfermos lo consuman.
+['agua', 'enfermo', 'diverso', 'sabor', 'poder', 'postre']
+
+[('dulce', 0.21678321678321677), ('jugo', 0.21678321678321677), ('leche', 0.1888111888111888), ('verde', 0.18181818181818182), ('refresco', 0.16083916083916083), ('fresa', 0.14685314685314685), ('frío', 0.14685314685314685), ('gelatina', 0.14685314685314685), ('río', 0.13986013986013987), ('color', 0.13286713286713286), ('naranja', 0.13286713286713286)]
+Definición: La que se hace con agua y cuaja
+['agua', 'hacer']
+
+[('jugo', 0.23931623931623935), ('verde', 0.18803418803418806), ('refresco', 0.17948717948717952), ('río', 0.17094017094017094), ('leche', 0.15384615384615385), ('vaso', 0.15384615384615385), ('sucio', 0.15384615384615385), ('dulce', 0.1452991452991453), ('frío', 0.13675213675213677), ('manzana', 0.12820512820512822), ('naranja', 0.12820512820512822)]
+Definición: Sus sabores son de frutas y nunca faltan en los cumpleaños
+['cumpleaños', 'fruto', 'sabor']
+
+[('dulce', 0.627906976744186), ('fresa', 0.41860465116279066), ('naranja', 0.3953488372093023), ('agua', 0.37209302325581395), ('manzana', 0.3488372093023256), ('jugo', 0.32558139534883723), ('árbol', 0.3023255813953488), ('plátano', 0.3023255813953488), ('durazno', 0.3023255813953488), ('color', 0.27906976744186046), ('gelatina', 0.27906976744186046)]
+Definición: Postre de sabores a base de agua que se deja cuajar
+['agua', 'postre', 'sabor']
+
+[('jugo', 0.23308270676691728), ('dulce', 0.22556390977443608), ('leche', 0.19548872180451127), ('verde', 0.18796992481203006), ('refresco', 0.16541353383458646), ('fresa', 0.15789473684210525), ('frío', 0.15037593984962405), ('río', 0.15037593984962405), ('naranja', 0.14285714285714285), ('gelatina', 0.14285714285714285), ('helado', 0.14285714285714285)]
+Definición: el postre viscoso que dan en las fiestas
+['dar', 'postre', 'viscoso', 'fiesta']
+
+[('dulce', 0.34090909090909094), ('fresa', 0.25), ('pastel', 0.25), ('gelatina', 0.20454545454545456), ('paleta', 0.18181818181818182), ('durazno', 0.18181818181818182), ('manzana', 0.13636363636363635), ('queso', 0.13636363636363635), ('hot_cakes', 0.13636363636363635), ('helado', 0.13636363636363635), ('calabaza', 0.11363636363636365)]
+Concepto: Ejote
+Definición: verdura verde larga parecida a los chícharos
+['chícharos', 'verdura', 'verde', 'largo']
+
+[('agua', 0.2777777777777778), ('color', 0.23333333333333334), ('árbol', 0.22222222222222224), ('naranja', 0.18888888888888888), ('manzana', 0.13333333333333333), ('planta', 0.12222222222222223), ('flor', 0.12222222222222223), ('zanahoria', 0.12222222222222223), ('ejote', 0.12222222222222223), ('plátano', 0.11111111111111112), ('palo', 0.11111111111111112)]
+Definición: Unas verduras de la cual se prepara con huevo, es larga y verde.
+['preparar', 'verdura', 'largo', 'verde', 'huevo']
+
+[('comida', 0.28104575163398693), ('rojo', 0.24836601307189543), ('comer', 0.22875816993464054), ('agua', 0.22222222222222224), ('blanco', 0.21568627450980393), ('rico', 0.19607843137254902), ('amarillo', 0.18300653594771243), ('naranja', 0.16993464052287582), ('color', 0.16993464052287582), ('manzana', 0.1568627450980392), ('pan', 0.1503267973856209)]
+Definición: verdura de color verde que se compone de una vaina
+['verdura', 'verde', 'color']
+
+[('rojo', 0.22929936305732485), ('niño', 0.20382165605095542), ('agua', 0.19745222929936307), ('azul', 0.1910828025477707), ('dulce', 0.15286624203821658), ('blanco', 0.15286624203821658), ('árbol', 0.1464968152866242), ('flor', 0.1337579617834395), ('plumón', 0.12101910828025478), ('hoja', 0.12101910828025478), ('negro', 0.12101910828025478)]
+Definición: verdura larga pequeña verde
+['verdura', 'verde', 'pequeño', 'largo']
+
+[('niño', 0.2803738317757009), ('agua', 0.24299065420560745), ('color', 0.22429906542056072), ('árbol', 0.19626168224299065), ('naranja', 0.16822429906542055), ('juguete', 0.14018691588785046), ('bebé', 0.14018691588785046), ('perro', 0.1308411214953271), ('manzana', 0.12149532710280372), ('zanahoria', 0.12149532710280372), ('pelo', 0.12149532710280372)]
+Definición: es una vaina verde
+['verde']
+
+[('agua', 0.35), ('árbol', 0.26666666666666666), ('color', 0.26666666666666666), ('naranja', 0.23333333333333334), ('manzana', 0.16666666666666666), ('zanahoria', 0.15), ('flor', 0.15), ('planta', 0.13333333333333333), ('calabaza', 0.11666666666666667), ('suéter', 0.11666666666666667), ('chile', 0.11666666666666667)]
+Concepto: Lavadora
+Definición: El aparato doméstico para lavar ropa
+['aparato', 'lavar', 'ropa']
+
+[('pantalón', 0.24528301886792453), ('zapato', 0.22641509433962265), ('camisa', 0.20754716981132074), ('lavabo', 0.20754716981132074), ('calzón', 0.18867924528301885), ('dinero', 0.16981132075471697), ('falda', 0.1509433962264151), ('playera', 0.1509433962264151), ('short', 0.1509433962264151), ('suéter', 0.1320754716981132), ('bufanda', 0.1320754716981132)]
+Definición: Artefacto donde metes a lavar/ limpiar tu ropa
+['meter', 'limpiar', 'lavar', 'artefacto', 'ropa']
+
+[('zapato', 0.23333333333333334), ('pantalón', 0.21666666666666667), ('lavabo', 0.2), ('camisa', 0.18333333333333332), ('dinero', 0.16666666666666666), ('calzón', 0.16666666666666666), ('cocina', 0.15), ('caja', 0.15), ('falda', 0.13333333333333333), ('short', 0.13333333333333333), ('trapo', 0.13333333333333333)]
+Definición: lavar
+['lavar']
+
+[('lavabo', 0.38095238095238093), ('jabón', 0.23809523809523808), ('diente', 0.23809523809523808), ('cepillo', 0.23809523809523808), ('lavadora', 0.19047619047619047), ('toalla', 0.19047619047619047), ('pasta_de_dientes', 0.19047619047619047), ('mano', 0.19047619047619047), ('aspiradora', 0.14285714285714285), ('plancha', 0.14285714285714285), ('trapo', 0.14285714285714285)]
+Definición: donde se lava la ropa
+['lavar', 'ropa']
+
+[('pantalón', 0.26530612244897955), ('zapato', 0.24489795918367346), ('lavabo', 0.22448979591836732), ('camisa', 0.22448979591836732), ('calzón', 0.2040816326530612), ('dinero', 0.18367346938775508), ('falda', 0.16326530612244897), ('playera', 0.16326530612244897), ('short', 0.16326530612244897), ('suéter', 0.14285714285714285), ('bufanda', 0.14285714285714285)]
+Definición: Ropa
+['ropa']
+
+[('pantalón', 0.3939393939393939), ('camisa', 0.33333333333333337), ('zapato', 0.30303030303030304), ('falda', 0.24242424242424243), ('playera', 0.24242424242424243), ('calzón', 0.24242424242424243), ('short', 0.24242424242424243), ('suéter', 0.21212121212121213), ('bufanda', 0.21212121212121213), ('dinero', 0.21212121212121213), ('abrigo', 0.18181818181818182)]
+Concepto: Hamburguesa
+Definición: comida rica que lleva carne entre dos panes, lechuga, jitomate, queso y catsup
+['llevar', 'carne', 'lechuga', 'comida', 'queso', 'ji_tomate', 'rico', 'catsup', 'pan']
+
+[('comer', 0.23931623931623935), ('dulce', 0.19230769230769232), ('leche', 0.17094017094017094), ('agua', 0.15811965811965814), ('huevo', 0.15811965811965814), ('alimento', 0.1452991452991453), ('rojo', 0.13675213675213677), ('cacahuate', 0.12820512820512822), ('manzana', 0.12393162393162395), ('salchicha', 0.12393162393162395), ('pastel', 0.12393162393162395)]
+Definición: Tiene carne, lechuga, tomate con tapa y base de pan.
+['carne', 'lechuga', 'base', 'tapa', 'tomate', 'pan']
+
+[('comida', 0.24025974025974028), ('comer', 0.18831168831168832), ('leche', 0.18181818181818182), ('huevo', 0.18181818181818182), ('dulce', 0.16233766233766234), ('mantequilla', 0.16233766233766234), ('queso', 0.16233766233766234), ('galleta', 0.15584415584415584), ('torta', 0.15584415584415584), ('agua', 0.14935064935064937), ('rico', 0.14935064935064937)]
+Definición: alimento compuesto de dos panes y carne en la parte central, lleva lechuga, jitomate, pepinillos y cebolla.
+['llevar', 'carne', 'lechuga', 'parte', 'alimento', 'ji_tomate', 'cebolla', 'pan']
+
+[('comida', 0.28402366863905326), ('comer', 0.22485207100591714), ('leche', 0.1893491124260355), ('dulce', 0.1834319526627219), ('rico', 0.17751479289940827), ('huevo', 0.17159763313609466), ('queso', 0.16568047337278105), ('mantequilla', 0.14792899408284024), ('elote', 0.14792899408284024), ('galleta', 0.14792899408284024), ('torta', 0.14792899408284024)]
+Definición: comida estadounidense que tiene pan y carne
+['carne', 'comida', 'pan']
+
+[('comer', 0.3027027027027027), ('dulce', 0.23783783783783785), ('rico', 0.23783783783783785), ('leche', 0.2), ('alimento', 0.1837837837837838), ('agua', 0.1783783783783784), ('huevo', 0.17297297297297298), ('queso', 0.16756756756756758), ('rojo', 0.15135135135135136), ('pastel', 0.15135135135135136), ('cacahuate', 0.14594594594594595)]
+Definición: comida chatarra que se sirve con pan
+['servir', 'comida', 'pan', 'chatarra']
+
+[('comer', 0.417910447761194), ('rico', 0.3208955223880597), ('dulce', 0.31343283582089554), ('leche', 0.26119402985074625), ('alimento', 0.2537313432835821), ('queso', 0.208955223880597), ('huevo', 0.208955223880597), ('agua', 0.20149253731343283), ('pastel', 0.19402985074626866), ('carne', 0.19402985074626866), ('cocina', 0.1791044776119403)]
+Concepto: Cebra
+Definición: El animal que parece caballo y tiene rayas blancas y negras
+['animal', 'blanco', 'raya', 'negro', 'caballo']
+
+[('grande', 0.2980769230769231), ('bonito', 0.19711538461538464), ('café', 0.16346153846153846), ('conejo', 0.14903846153846154), ('color', 0.14903846153846154), ('lobo', 0.12980769230769232), ('perro', 0.12980769230769232), ('gato', 0.125), ('campo', 0.125), ('burro', 0.1201923076923077), ('ardilla', 0.1201923076923077)]
+Definición: Un animal que parece caballo pero con rayas
+['animal', 'raya', 'caballo']
+
+[('grande', 0.21481481481481482), ('conejo', 0.2), ('bonito', 0.2), ('lobo', 0.17777777777777778), ('burro', 0.17037037037037037), ('ardilla', 0.17037037037037037), ('gato', 0.16296296296296298), ('león', 0.16296296296296298), ('oso', 0.16296296296296298), ('blanco', 0.16296296296296298), ('tigre', 0.16296296296296298)]
+Definición: equino
+['equino']
+
+[('caballo', 1.0)]
+Definición: el animal con rayas blancas y negras
+['animal', 'blanco', 'raya', 'negro']
+
+[('color', 0.1970802919708029), ('gato', 0.17518248175182483), ('perro', 0.16058394160583941), ('conejo', 0.145985401459854), ('huevo', 0.145985401459854), ('diente', 0.1386861313868613), ('pluma', 0.1386861313868613), ('pelo', 0.1386861313868613), ('cocodrilo', 0.13138686131386862), ('león', 0.13138686131386862), ('pájaro', 0.12408759124087591)]
+Definición: Burro
+['burro']
+
+[('caballo', 0.2), ('conejo', 0.17777777777777778), ('vaca', 0.13333333333333333), ('ratón', 0.13333333333333333), ('oso', 0.11111111111111112), ('borrego', 0.11111111111111112), ('blanco', 0.11111111111111112), ('animal', 0.1), ('comer', 0.1), ('diente', 0.08888888888888889), ('mesa', 0.08888888888888889)]
+Concepto: Falda
+Definición: La prenda de ropa que usan, a veces, las mujeres en vez del pantalón
+['pantalón', 'mujer', 'prenda', 'ropa', 'usar']
+
+[('camisa', 0.28421052631578947), ('rojo', 0.28421052631578947), ('falda', 0.2631578947368421), ('calzón', 0.25263157894736843), ('playera', 0.24210526315789474), ('niño', 0.24210526315789474), ('short', 0.23157894736842105), ('gorra', 0.21052631578947367), ('vestido', 0.19999999999999998), ('blanco', 0.19999999999999998), ('suéter', 0.18947368421052632)]
+Definición: Es como un short pero sin lo de enmedio de las piernas
+['pierna', 'short']
+
+[('playera', 0.3484848484848485), ('falda', 0.33333333333333337), ('pantalón', 0.3181818181818182), ('camisa', 0.30303030303030304), ('bota', 0.2878787878787879), ('niño', 0.2727272727272727), ('vestido', 0.24242424242424243), ('calzón', 0.2272727272727273), ('gorra', 0.21212121212121213), ('pie', 0.19696969696969696), ('negro', 0.16666666666666669)]
+Definición: ropa
+['ropa']
+
+[('pantalón', 0.3939393939393939), ('camisa', 0.33333333333333337), ('zapato', 0.30303030303030304), ('falda', 0.24242424242424243), ('playera', 0.24242424242424243), ('calzón', 0.24242424242424243), ('short', 0.24242424242424243), ('suéter', 0.21212121212121213), ('bufanda', 0.21212121212121213), ('dinero', 0.21212121212121213), ('abrigo', 0.18181818181818182)]
+Definición: tela en forma circular para mujeres
+['forma', 'circular', 'mujer', 'tela']
+
+[('falda', 0.225), ('calzón', 0.225), ('camisa', 0.225), ('pantalón', 0.225), ('playera', 0.2), ('short', 0.17500000000000002), ('bufanda', 0.17500000000000002), ('pelo', 0.17500000000000002), ('abrigo', 0.15000000000000002), ('cara', 0.15000000000000002), ('suéter', 0.15000000000000002)]
+Definición: Ropa mujer
+['mujer', 'ropa']
+
+[('pantalón', 0.30434782608695654), ('falda', 0.2391304347826087), ('camisa', 0.2391304347826087), ('zapato', 0.21739130434782608), ('calzón', 0.19565217391304346), ('playera', 0.19565217391304346), ('bufanda', 0.17391304347826086), ('short', 0.17391304347826086), ('bolsa', 0.15217391304347827), ('suéter', 0.15217391304347827), ('dinero', 0.15217391304347827)]
+Concepto: Pantalón
+Definición: Ropa de vestir que generalmente está elaborado con mezclilla aunque puede ser hecho con otros materiales y es utilizado en su mayoría por hombres
+['hombre', 'mezclilla', 'ropa', 'poder', 'material', 'hacer', 'vestir']
+
+[('niño', 0.3387096774193548), ('pantalón', 0.27419354838709675), ('camisa', 0.2096774193548387), ('falda', 0.1935483870967742), ('playera', 0.1774193548387097), ('zapato', 0.1774193548387097), ('calzón', 0.1774193548387097), ('gorra', 0.16129032258064516), ('short', 0.16129032258064516), ('dinero', 0.16129032258064516), ('mano', 0.16129032258064516)]
+Definición: la prenda de ropa que es de mezclilla
+['mezclilla', 'prenda', 'ropa']
+
+[('pantalón', 0.42857142857142855), ('camisa', 0.34285714285714286), ('falda', 0.2857142857142857), ('zapato', 0.2857142857142857), ('short', 0.2571428571428571), ('suéter', 0.22857142857142856), ('playera', 0.22857142857142856), ('calzón', 0.22857142857142856), ('bufanda', 0.22857142857142856), ('dinero', 0.19999999999999998), ('bota', 0.17142857142857143)]
+Definición: prenda de vestir que se ajusta en la cintura y en las piernas
+['cintura', 'ajustar', 'vestir', 'pierna', 'prender']
+
+[('pantalón', 0.4375), ('falda', 0.34375), ('camisa', 0.28125), ('playera', 0.25), ('calzón', 0.25), ('short', 0.25), ('zapato', 0.25), ('bota', 0.21875), ('vestido', 0.1875), ('suéter', 0.1875), ('gorra', 0.1875)]
+Definición: Ropa que cubre de manera independiente las dos piernas y llega a los tobillos.
+['cubrir', 'pierna', 'ropa', 'independiente']
+
+[('pantalón', 0.2641509433962264), ('camisa', 0.22641509433962265), ('calzón', 0.22641509433962265), ('zapato', 0.20754716981132074), ('falda', 0.18867924528301885), ('bota', 0.16981132075471697), ('cocina', 0.16981132075471697), ('short', 0.16981132075471697), ('abrigo', 0.16981132075471697), ('playera', 0.16981132075471697), ('suéter', 0.1509433962264151)]
+Definición: prende de vestir para cubrir las piernas.
+['cubrir', 'vestir', 'pierna', 'prender']
+
+[('pantalón', 0.30952380952380953), ('falda', 0.23809523809523808), ('calzón', 0.23809523809523808), ('playera', 0.21428571428571427), ('camisa', 0.21428571428571427), ('zapato', 0.19047619047619047), ('suéter', 0.19047619047619047), ('bufanda', 0.19047619047619047), ('short', 0.19047619047619047), ('bota', 0.19047619047619047), ('gorra', 0.16666666666666666)]
+Concepto: Barco
+Definición: Un medio de transporte que navega por el mar
+['medio', 'transporte', 'navegar', 'mar']
+
+[('agua', 0.32432432432432434), ('barco', 0.1891891891891892), ('tierra', 0.16216216216216217), ('río', 0.16216216216216217), ('foca', 0.16216216216216217), ('camión', 0.16216216216216217), ('tren', 0.16216216216216217), ('pescado', 0.16216216216216217), ('moto', 0.13513513513513514), ('autobús', 0.13513513513513514), ('helicóptero', 0.10810810810810811)]
+Definición: Donde van las personas en el mar
+['persona', 'mar', 'ir']
+
+[('agua', 0.3090909090909091), ('casa', 0.2545454545454545), ('calle', 0.18181818181818182), ('ojo', 0.16363636363636364), ('pescado', 0.12727272727272726), ('cara', 0.12727272727272726), ('tierra', 0.12727272727272726), ('pie', 0.12727272727272726), ('boca', 0.12727272727272726), ('foca', 0.10909090909090909), ('río', 0.10909090909090909)]
+Definición: zarpar
+['zarpar']
+
+[('barco', 1.0)]
+Definición: balsa grande que flota en el mar
+['mar', 'flotar', 'balsa', 'grande']
+
+[('casa', 0.2920353982300885), ('agua', 0.25663716814159293), ('niño', 0.23008849557522124), ('tierra', 0.1592920353982301), ('perro', 0.1415929203539823), ('elefante', 0.12389380530973451), ('diente', 0.12389380530973451), ('mueble', 0.12389380530973451), ('calle', 0.12389380530973451), ('cocodrilo', 0.11504424778761062), ('león', 0.11504424778761062)]
+Definición: Titanic
+['titanic']
+
+[('barco', 0.5), ('hielo', 0.5)]
+Concepto: Queso
+Definición: Alimento elaborado con leche. Existen diferentes tipos: manchego, cotija. panela entre otros.
+['diferente', 'leche', 'panela', 'alimento', 'manchego']
+
+[('comida', 0.4141414141414142), ('comer', 0.37373737373737376), ('dulce', 0.30303030303030304), ('rico', 0.30303030303030304), ('pan', 0.27272727272727276), ('queso', 0.26262626262626265), ('agua', 0.24242424242424243), ('chocolate', 0.20202020202020204), ('mantequilla', 0.20202020202020204), ('gelatina', 0.20202020202020204), ('delicioso', 0.20202020202020204)]
+Definición: El producto que se saca de la leche de la vaca
+['leche', 'sacar', 'vaca', 'producto']
+
+[('comida', 0.2047244094488189), ('pan', 0.18110236220472442), ('comer', 0.18110236220472442), ('queso', 0.15748031496062992), ('dulce', 0.15748031496062992), ('chocolate', 0.14960629921259844), ('carne', 0.14173228346456693), ('agua', 0.14173228346456693), ('mantequilla', 0.14173228346456693), ('cereal', 0.13385826771653542), ('hot_cakes', 0.13385826771653542)]
+Definición: Amarillo y con agujeros
+['amarillo']
+
+[('queso', 0.2272727272727273), ('naranja', 0.2272727272727273), ('huevo', 0.2272727272727273), ('calabaza', 0.18181818181818182), ('leche', 0.18181818181818182), ('refrigerador', 0.18181818181818182), ('diente', 0.1590909090909091), ('durazno', 0.1590909090909091), ('manzana', 0.13636363636363635), ('pájaro', 0.13636363636363635), ('pato', 0.13636363636363635)]
+Definición: Derivado lacteo que ponen en trampas para ratones
+['trampa', 'ratón', 'poner']
+
+[('conejo', 0.24691358024691357), ('zapato', 0.1728395061728395), ('cocodrilo', 0.16049382716049382), ('feo', 0.16049382716049382), ('burro', 0.16049382716049382), ('gato', 0.14814814814814814), ('elefante', 0.12345679012345678), ('animal', 0.12345679012345678), ('lindo', 0.12345679012345678), ('diente', 0.1111111111111111), ('arete', 0.1111111111111111)]
+Definición: como la crema pero sólido
+['crema', 'sólido']
+
+[('queso', 0.4090909090909091), ('pastel', 0.36363636363636365), ('leche', 0.36363636363636365), ('mantequilla', 0.3181818181818182), ('pan', 0.3181818181818182), ('calabaza', 0.2727272727272727), ('elote', 0.2272727272727273), ('fresa', 0.2272727272727273), ('plátano', 0.2272727272727273), ('durazno', 0.2272727272727273), ('zanahoria', 0.18181818181818182)]
+Concepto: Mariposa
+Definición: Un insecto de colores vivos que vuela
+['color', 'insecto', 'vivo', 'volar']
+
+[('niño', 0.25196850393700787), ('rojo', 0.18110236220472442), ('flor', 0.1653543307086614), ('azul', 0.15748031496062992), ('crayola', 0.15748031496062992), ('pluma', 0.14960629921259844), ('lápiz', 0.14960629921259844), ('verde', 0.14960629921259844), ('plumón', 0.14173228346456693), ('dulce', 0.14173228346456693), ('hoja', 0.14173228346456693)]
+Definición: Esto en lo que se convierten las orugas cuado les salen alas
+['salir', 'ala', 'oruga']
+
+[('pájaro', 0.38095238095238093), ('pluma', 0.3333333333333333), ('gallina', 0.23809523809523808), ('ventana', 0.23809523809523808), ('pollito', 0.23809523809523808), ('calle', 0.23809523809523808), ('ganso', 0.23809523809523808), ('puerta', 0.23809523809523808), ('huevo', 0.23809523809523808), ('mariposa', 0.19047619047619047), ('libro', 0.19047619047619047)]
+Definición: alas
+['ala']
+
+[('pluma', 0.6000000000000001), ('pájaro', 0.6000000000000001), ('gallina', 0.4), ('avión', 0.4), ('ganso', 0.4), ('pollito', 0.4), ('mariposa', 0.30000000000000004), ('helicóptero', 0.2), ('libro', 0.2), ('llave', 0.1)]
+Definición: en lo que se convierten las orugas
+['oruga']
+
+[('mariposa', 1.0)]
+Definición: Monarca
+['monarca']
+
+[('mariposa', 0.5), ('calabaza', 0.5)]
+Concepto: Ganso
+Definición: Es un ave muy parecida al pato pero más grande y, además, agresivo
+['agresivo', 'grande', 'ave', 'pato']
+
+[('blanco', 0.22857142857142856), ('casa', 0.2057142857142857), ('comida', 0.2057142857142857), ('animal', 0.2), ('bonito', 0.18285714285714286), ('niño', 0.17714285714285713), ('feo', 0.17714285714285713), ('negro', 0.17142857142857143), ('agua', 0.15428571428571428), ('gato', 0.14857142857142858), ('pájaro', 0.14285714285714285)]
+Definición: Un animal que parece pato pero no es un pato
+['animal', 'pato']
+
+[('comida', 0.23893805309734512), ('grande', 0.23008849557522124), ('gato', 0.22123893805309736), ('oso', 0.21238938053097345), ('conejo', 0.21238938053097345), ('bonito', 0.20353982300884954), ('ganso', 0.20353982300884954), ('feo', 0.19469026548672566), ('cocodrilo', 0.18584070796460178), ('perro', 0.18584070796460178), ('pájaro', 0.17699115044247787)]
+Definición: cisne
+['cisne']
+
+[('ganso', 1.0), ('pato', 1.0)]
+Definición: esos que parecen patos pero más grandes
+['grande', 'pato']
+
+[('blanco', 0.22941176470588234), ('casa', 0.21176470588235294), ('comida', 0.2), ('animal', 0.18823529411764706), ('niño', 0.18235294117647058), ('bonito', 0.1764705882352941), ('negro', 0.17058823529411765), ('feo', 0.17058823529411765), ('agua', 0.1588235294117647), ('gato', 0.15294117647058825), ('ganso', 0.1411764705882353)]
+Definición: Pato pato
+['pato']
+
+[('ganso', 0.29333333333333333), ('pájaro', 0.21333333333333335), ('gallina', 0.2), ('pollito', 0.2), ('gato', 0.2), ('conejo', 0.2), ('huevo', 0.18666666666666668), ('animal', 0.17333333333333334), ('cochino', 0.16), ('pingüino', 0.14666666666666667), ('perro', 0.14666666666666667)]
+Concepto: Plancha
+Definición: Instrumento doméstico que se utiliza para quitar las arrugar a la ropa. Generalmente se vale del vapor, por lo tanto necesita agua para que funcione.
+['quitar', 'agua', 'arrugar', 'ropa', 'funcionar', 'necesitar', 'vapor', 'instrumento']
+
+[('verde', 0.1962025316455696), ('azul', 0.18354430379746836), ('jugo', 0.17721518987341772), ('sucio', 0.17088607594936708), ('frío', 0.16455696202531644), ('refresco', 0.13924050632911392), ('limpio', 0.13924050632911392), ('casa', 0.13291139240506328), ('vaso', 0.12658227848101267), ('río', 0.12658227848101267), ('dulce', 0.12025316455696203)]
+Definición: la herramienta que ocupas para desarrugar la ropa
+['ocupar', 'ropa', 'herramienta']
+
+[('pantalón', 0.24528301886792453), ('camisa', 0.22641509433962265), ('zapato', 0.22641509433962265), ('mano', 0.18867924528301885), ('mesa', 0.1509433962264151), ('short', 0.1509433962264151), ('falda', 0.1509433962264151), ('calzón', 0.1509433962264151), ('playera', 0.1509433962264151), ('suéter', 0.1320754716981132), ('palo', 0.1320754716981132)]
+Definición: Se usa para las arrugas
+['arruga', 'usar']
+
+[('camisa', 0.5), ('vestido', 0.375), ('zapato', 0.375), ('gorra', 0.25), ('plancha', 0.25), ('calzón', 0.25), ('collar', 0.125)]
+Definición: Electrodoméstico para quitar arrugas de la ropa a base de calor
+['quitar', 'calor', 'arruga', 'ropa', 'electrodoméstico']
+
+[('pantalón', 0.24137931034482757), ('camisa', 0.1896551724137931), ('zapato', 0.1896551724137931), ('short', 0.1724137931034483), ('falda', 0.15517241379310345), ('suéter', 0.15517241379310345), ('bufanda', 0.15517241379310345), ('cocina', 0.15517241379310345), ('abrigo', 0.15517241379310345), ('refrigerador', 0.15517241379310345), ('calzón', 0.15517241379310345)]
+Definición: el aparato con el que la ropa queda lisa
+['lisa', 'aparato', 'ropa']
+
+[('pantalón', 0.3170731707317073), ('camisa', 0.2682926829268293), ('zapato', 0.2682926829268293), ('falda', 0.21951219512195122), ('calzón', 0.1951219512195122), ('short', 0.1951219512195122), ('playera', 0.1951219512195122), ('bufanda', 0.17073170731707318), ('dinero', 0.17073170731707318), ('suéter', 0.17073170731707318), ('bolsa', 0.14634146341463417)]
+Concepto: Pájaro
+Definición: Vuela en el cielo y no es avión
+['avión', 'volar', 'cielo']
+
+[('helicóptero', 0.2777777777777778), ('grande', 0.2222222222222222), ('pájaro', 0.19444444444444442), ('tren', 0.18055555555555555), ('autobús', 0.16666666666666666), ('sol', 0.16666666666666666), ('globo', 0.15277777777777776), ('ventana', 0.15277777777777776), ('aire', 0.15277777777777776), ('ganso', 0.15277777777777776), ('blanco', 0.1388888888888889)]
+Definición: Ave
+['ave']
+
+[('pájaro', 0.7857142857142857), ('gallina', 0.5714285714285714), ('pato', 0.5714285714285714), ('pluma', 0.5), ('ganso', 0.5), ('pollito', 0.5), ('huevo', 0.42857142857142855), ('guajolote', 0.2857142857142857), ('pingüino', 0.2857142857142857), ('búho', 0.14285714285714285), ('mariposa', 0.14285714285714285)]
+Definición: Ave de tamaño pequeño de diversos tipos y colores
+['color', 'diverso', 'ave', 'pequeño']
+
+[('niño', 0.25517241379310346), ('azul', 0.19310344827586207), ('bonito', 0.18620689655172412), ('rojo', 0.18620689655172412), ('pluma', 0.16551724137931034), ('bebé', 0.1586206896551724), ('blanco', 0.1586206896551724), ('dulce', 0.15172413793103448), ('negro', 0.14482758620689656), ('verde', 0.14482758620689656), ('crayola', 0.13793103448275862)]
+Definición: El animalito que vuela. Del tipo que son las palomas y las urracas.
+['animal', 'urraca', 'volar', 'paloma']
+
+[('gato', 0.2857142857142857), ('león', 0.2698412698412698), ('perro', 0.2698412698412698), ('pájaro', 0.25396825396825395), ('pato', 0.2222222222222222), ('oso', 0.2222222222222222), ('conejo', 0.2222222222222222), ('elefante', 0.20634920634920634), ('carne', 0.20634920634920634), ('cochino', 0.20634920634920634), ('pelo', 0.20634920634920634)]
+Definición: Animal que vuela
+['animal', 'volar']
+
+[('gato', 0.29508196721311475), ('león', 0.27868852459016397), ('perro', 0.27868852459016397), ('pato', 0.22950819672131148), ('pájaro', 0.22950819672131148), ('oso', 0.22950819672131148), ('conejo', 0.22950819672131148), ('elefante', 0.21311475409836067), ('carne', 0.21311475409836067), ('cochino', 0.21311475409836067), ('pelo', 0.21311475409836067)]
+Concepto: Papa
+Definición: Es un tubérculo que puede ser comida chatarra, como las Sabritas
+['tubérculo', 'sabritas', 'comida', 'chatarra', 'poder']
+
+[('dulce', 0.4), ('carne', 0.24705882352941178), ('leche', 0.24705882352941178), ('queso', 0.22352941176470587), ('naranja', 0.22352941176470587), ('huevo', 0.22352941176470587), ('pan', 0.21176470588235294), ('pastel', 0.2), ('fresa', 0.2), ('cocina', 0.18823529411764706), ('papa', 0.18823529411764706)]
+Definición: Verdura blanquita que crece abajo de la tierra
+['tierra', 'verdura', 'abajo', 'crecer']
+
+[('planta', 0.2358490566037736), ('grande', 0.1981132075471698), ('árbol', 0.1792452830188679), ('flor', 0.16981132075471697), ('sol', 0.14150943396226415), ('agua', 0.14150943396226415), ('campo', 0.1320754716981132), ('elote', 0.1320754716981132), ('piedra', 0.1320754716981132), ('ejote', 0.1320754716981132), ('río', 0.12264150943396226)]
+Definición: Tubérculo
+['tubérculo']
+
+[('zanahoria', 1.0), ('papa', 0.6666666666666666), ('calabaza', 0.6666666666666666)]
+Definición: frituras
+['fritura']
+
+[('papa', 0.75), ('palomita', 0.5), ('tienda', 0.5), ('cacahuate', 0.25)]
+Definición: A la francesa
+[]
+
+[]
+Concepto: Dulce
+Definición: alimento con mucha azúcar que es rico
+['rico', 'alimento', 'azúcar']
+
+[('dulce', 0.49230769230769234), ('leche', 0.3076923076923077), ('fresa', 0.27692307692307694), ('queso', 0.26153846153846155), ('naranja', 0.26153846153846155), ('pan', 0.24615384615384617), ('jugo', 0.23076923076923078), ('pastel', 0.23076923076923078), ('huevo', 0.23076923076923078), ('papa', 0.2153846153846154), ('mantequilla', 0.2153846153846154)]
+Definición: Esa sensacion que produce comer azucar.
+['comer']
+
+[('dulce', 0.417910447761194), ('leche', 0.2835820895522388), ('fresa', 0.23880597014925373), ('naranja', 0.23880597014925373), ('pastel', 0.22388059701492538), ('carne', 0.22388059701492538), ('huevo', 0.22388059701492538), ('queso', 0.208955223880597), ('chocolate', 0.19402985074626866), ('pan', 0.19402985074626866), ('cocina', 0.1791044776119403)]
+Definición: sabor característico de los alimentos con azúcar
+['azúcar', 'alimento', 'sabor']
+
+[('dulce', 0.5882352941176471), ('leche', 0.39215686274509803), ('agua', 0.3529411764705882), ('pan', 0.3333333333333333), ('fresa', 0.3137254901960784), ('queso', 0.27450980392156865), ('pastel', 0.27450980392156865), ('chocolate', 0.2549019607843137), ('mantequilla', 0.2549019607843137), ('huevo', 0.2549019607843137), ('galleta', 0.2549019607843137)]
+Definición: caramelo que se le da a los niños
+['dar', 'caramelo', 'niño']
+
+[('bebé', 0.22580645161290322), ('juguete', 0.2096774193548387), ('color', 0.1935483870967742), ('grande', 0.18548387096774194), ('muñeca', 0.1693548387096774), ('azul', 0.1532258064516129), ('pelota', 0.1532258064516129), ('divertir', 0.14516129032258063), ('bonito', 0.14516129032258063), ('diversión', 0.13709677419354838), ('triciclo', 0.13709677419354838)]
+Definición: golosinas le gusta mucho a los niños
+['gustar', 'golosina', 'niño']
+
+[('bebé', 0.21641791044776118), ('color', 0.20149253731343283), ('juguete', 0.19402985074626866), ('dulce', 0.1791044776119403), ('grande', 0.1791044776119403), ('azul', 0.15671641791044777), ('muñeca', 0.14925373134328357), ('pelota', 0.1417910447761194), ('diversión', 0.13432835820895522), ('bonito', 0.13432835820895522), ('divertir', 0.13432835820895522)]
+Concepto: Camión
+Definición: Transporte público
+['transporte', 'público']
+
+[('camión', 0.3529411764705882), ('moto', 0.29411764705882354), ('tren', 0.29411764705882354), ('autobús', 0.29411764705882354), ('bicicleta', 0.23529411764705882), ('avión', 0.23529411764705882), ('tractor', 0.1764705882352941), ('helicóptero', 0.1764705882352941), ('triciclo', 0.1764705882352941), ('caballo', 0.11764705882352941), ('burro', 0.11764705882352941)]
+Definición: Bus
+['bus']
+
+[('camión', 1.0)]
+Definición: Medio de transporte grande con cuatro ruedas, que se utiliza para carga pesada
+['medio', 'transporte', 'rueda', 'carga', 'grande']
+
+[('casa', 0.26495726495726496), ('niño', 0.2478632478632479), ('calle', 0.15384615384615385), ('perro', 0.15384615384615385), ('tierra', 0.13675213675213677), ('diente', 0.12820512820512822), ('león', 0.11965811965811968), ('mueble', 0.11965811965811968), ('camión', 0.11965811965811968), ('caja', 0.11965811965811968), ('árbol', 0.11965811965811968)]
+Definición: El transporte público.
+['transporte', 'público']
+
+[('camión', 0.3529411764705882), ('moto', 0.29411764705882354), ('tren', 0.29411764705882354), ('autobús', 0.29411764705882354), ('bicicleta', 0.23529411764705882), ('avión', 0.23529411764705882), ('tractor', 0.1764705882352941), ('helicóptero', 0.1764705882352941), ('triciclo', 0.1764705882352941), ('caballo', 0.11764705882352941), ('burro', 0.11764705882352941)]
+Definición: Medio de transporte público
+['medio', 'transporte', 'público']
+
+[('autobús', 0.2727272727272727), ('camión', 0.2727272727272727), ('moto', 0.2272727272727273), ('tren', 0.2272727272727273), ('helicóptero', 0.18181818181818182), ('dinero', 0.18181818181818182), ('bicicleta', 0.18181818181818182), ('avión', 0.18181818181818182), ('tractor', 0.13636363636363635), ('radio', 0.13636363636363635), ('triciclo', 0.13636363636363635)]
+Concepto: Ardilla
+Definición: Roedor comedor de nueces
+['nuez', 'comedor', 'roedor']
+
+[('cocina', 0.3333333333333333), ('mesa', 0.3333333333333333), ('cuchara', 0.2777777777777778), ('ardilla', 0.2777777777777778), ('sala', 0.2222222222222222), ('silla', 0.2222222222222222), ('ratón', 0.16666666666666666), ('cacahuate', 0.16666666666666666), ('burbuja', 0.16666666666666666), ('conejo', 0.16666666666666666), ('tenedor', 0.16666666666666666)]
+Definición: Nueces
+[]
+
+[]
+Definición: Animal que come nueces, vive y trepa en los árboles. Cuatro patas, con pelaje café o grisaseo
+['animal', 'nuez', 'café', 'pata', 'vivir', 'pelaje', 'trepar', 'árbol', 'comer']
+
+[('grande', 0.3296703296703297), ('verde', 0.2087912087912088), ('dulce', 0.19230769230769232), ('bonito', 0.18681318681318682), ('casa', 0.17582417582417584), ('campo', 0.17032967032967034), ('color', 0.15934065934065936), ('ardilla', 0.15934065934065936), ('gato', 0.15384615384615385), ('planta', 0.14835164835164835), ('conejo', 0.14285714285714288)]
+Definición: El animalito que come nueces. El que sale en la Era de Hielo.
+['salir', 'animal', 'nuez', 'comer']
+
+[('dulce', 0.27522935779816515), ('gato', 0.2018348623853211), ('carne', 0.1834862385321101), ('huevo', 0.1834862385321101), ('leche', 0.1743119266055046), ('naranja', 0.1743119266055046), ('conejo', 0.1743119266055046), ('ardilla', 0.1651376146788991), ('león', 0.1559633027522936), ('perro', 0.1559633027522936), ('cocodrilo', 0.14678899082568808)]
+Definición: Animal roedor que come bellotas
+['animal', 'bellota', 'roedor', 'comer']
+
+[('dulce', 0.2912621359223301), ('gato', 0.21359223300970873), ('carne', 0.19417475728155337), ('naranja', 0.19417475728155337), ('conejo', 0.19417475728155337), ('leche', 0.1844660194174757), ('ardilla', 0.1844660194174757), ('huevo', 0.1844660194174757), ('fresa', 0.16504854368932037), ('león', 0.16504854368932037), ('árbol', 0.16504854368932037)]
+Concepto: Cochino
+Definición: Animal consumido en México en carnitas, chicharrón y de él proviene la manteca.
+['animal', 'chicharrón', 'méxico', 'carnitas']
+
+[('gato', 0.29508196721311475), ('perro', 0.26229508196721313), ('carne', 0.26229508196721313), ('león', 0.26229508196721313), ('cochino', 0.26229508196721313), ('oso', 0.22950819672131148), ('pato', 0.21311475409836067), ('pelo', 0.21311475409836067), ('conejo', 0.21311475409836067), ('cocodrilo', 0.19672131147540983), ('elefante', 0.19672131147540983)]
+Definición: con el que se hacen las carnitas
+['hacer', 'carnitas']
+
+[('taco', 0.5), ('cochino', 0.3333333333333333), ('palo', 0.3333333333333333), ('plastilina', 0.16666666666666666), ('burbuja', 0.16666666666666666)]
+Definición: Que esta sucio
+['sucio']
+
+[('agua', 0.36363636363636365), ('cocina', 0.20454545454545456), ('lavabo', 0.20454545454545456), ('mano', 0.20454545454545456), ('jabón', 0.18181818181818182), ('vaso', 0.1590909090909091), ('cara', 0.13636363636363635), ('toalla', 0.13636363636363635), ('diente', 0.13636363636363635), ('pañal', 0.13636363636363635), ('dinero', 0.13636363636363635)]
+Definición: Parecido al cerdo o puerco
+['cerdo', 'puerco']
+
+[('cochino', 0.5555555555555556), ('pato', 0.4444444444444444), ('carne', 0.3333333333333333), ('gallina', 0.3333333333333333), ('tambor', 0.1111111111111111), ('jabón', 0.1111111111111111), ('policía', 0.1111111111111111), ('burro', 0.1111111111111111)]
+Definición: el animal de la alcancía
+['animal', 'alcancía']
+
+[('gato', 0.33962264150943394), ('perro', 0.32075471698113206), ('león', 0.3018867924528302), ('cochino', 0.2641509433962264), ('oso', 0.2641509433962264), ('carne', 0.24528301886792453), ('pato', 0.24528301886792453), ('pelo', 0.24528301886792453), ('conejo', 0.24528301886792453), ('elefante', 0.22641509433962265), ('ardilla', 0.22641509433962265)]
+Concepto: Autobús
+Definición: transporte terrestre público de pasajeros muy grande
+['transporte', 'grande', 'pasajero', 'público']
+
+[('casa', 0.2857142857142857), ('niño', 0.24107142857142855), ('tierra', 0.14285714285714285), ('calle', 0.14285714285714285), ('perro', 0.14285714285714285), ('diente', 0.13392857142857142), ('león', 0.125), ('mueble', 0.125), ('camión', 0.125), ('mesa', 0.11607142857142856), ('árbol', 0.11607142857142856)]
+Definición: Transporte público grande
+['transporte', 'grande', 'público']
+
+[('casa', 0.2882882882882883), ('niño', 0.24324324324324323), ('tierra', 0.14414414414414414), ('calle', 0.14414414414414414), ('perro', 0.14414414414414414), ('diente', 0.13513513513513514), ('león', 0.12612612612612611), ('mueble', 0.12612612612612611), ('camión', 0.11711711711711711), ('mesa', 0.11711711711711711), ('árbol', 0.11711711711711711)]
+Definición: Carro grande para llevar pasajeros que no es una combi o un metro
+['llevar', 'combi', 'metro', 'pasajero', 'carro', 'grande']
+
+[('casa', 0.2831858407079646), ('niño', 0.23008849557522124), ('calle', 0.1592920353982301), ('perro', 0.1504424778761062), ('tierra', 0.1415929203539823), ('camión', 0.1415929203539823), ('diente', 0.12389380530973451), ('mueble', 0.12389380530973451), ('león', 0.11504424778761062), ('familia', 0.11504424778761062), ('caja', 0.11504424778761062)]
+Definición: transporte para muchas personas
+['transporte', 'persona']
+
+[('casa', 0.22916666666666666), ('calle', 0.1875), ('cara', 0.16666666666666666), ('espejo', 0.16666666666666666), ('bicicleta', 0.14583333333333331), ('moto', 0.14583333333333331), ('camión', 0.14583333333333331), ('ojo', 0.14583333333333331), ('boca', 0.14583333333333331), ('autobús', 0.125), ('caballo', 0.125)]
+Definición: transporte público de pasajeros
+['transporte', 'pasajero', 'público']
+
+[('camión', 0.38888888888888884), ('tren', 0.3333333333333333), ('autobús', 0.3333333333333333), ('moto', 0.2777777777777778), ('avión', 0.2777777777777778), ('bicicleta', 0.2222222222222222), ('triciclo', 0.16666666666666666), ('tractor', 0.16666666666666666), ('helicóptero', 0.16666666666666666), ('caballo', 0.1111111111111111), ('barco', 0.1111111111111111)]
+Concepto: Guajolote
+Definición: Animal mexicano que es similar al pavo y se cocina también con mole
+['pavo', 'animal', 'mole', 'cocinar', 'mexicano']
+
+[('carne', 0.2714285714285714), ('gato', 0.2571428571428571), ('perro', 0.24285714285714285), ('león', 0.22857142857142856), ('conejo', 0.22857142857142856), ('huevo', 0.22857142857142856), ('cochino', 0.19999999999999998), ('pato', 0.19999999999999998), ('oso', 0.19999999999999998), ('ardilla', 0.18571428571428572), ('pájaro', 0.18571428571428572)]
+Definición: el ave que es el pavo en estados unidos
+['pavo', 'unir', 'ave']
+
+[('pájaro', 0.55), ('gallina', 0.4), ('pato', 0.4), ('ganso', 0.35000000000000003), ('pollito', 0.35000000000000003), ('huevo', 0.35000000000000003), ('pluma', 0.35000000000000003), ('guajolote', 0.25), ('pingüino', 0.2), ('palomita', 0.15000000000000002), ('horno', 0.1)]
+Definición: Se acompaña con mole
+['mole']
+
+[('ejote', 0.5), ('chile', 0.5), ('guajolote', 0.25), ('olla', 0.25)]
+Definición: Ave similar a una gallina grande
+['gallina', 'ave', 'grande']
+
+[('blanco', 0.2827586206896552), ('rojo', 0.2827586206896552), ('comida', 0.23448275862068965), ('animal', 0.22758620689655173), ('casa', 0.22758620689655173), ('comer', 0.22758620689655173), ('niño', 0.1793103448275862), ('amarillo', 0.1586206896551724), ('pato', 0.15172413793103448), ('pollito', 0.15172413793103448), ('huevo', 0.15172413793103448)]
+Definición: el animal que dice "gordogordogordo"
+['animal']
+
+[('gato', 0.3529411764705882), ('león', 0.3137254901960784), ('perro', 0.3137254901960784), ('oso', 0.27450980392156865), ('carne', 0.2549019607843137), ('cochino', 0.2549019607843137), ('pato', 0.2549019607843137), ('pelo', 0.2549019607843137), ('conejo', 0.2549019607843137), ('elefante', 0.23529411764705882), ('ardilla', 0.23529411764705882)]
+Concepto: Elote
+Definición: Base para los esquites
+['esquites', 'base']
+
+[('ejote', 0.5714285714285714), ('tierra', 0.42857142857142855), ('pie', 0.42857142857142855), ('elote', 0.2857142857142857), ('jabón', 0.14285714285714285), ('mesa', 0.14285714285714285)]
+Definición: Tortilla
+['tortilla']
+
+[('queso', 0.7777777777777777), ('torta', 0.6666666666666666), ('pan', 0.5555555555555556), ('huevo', 0.5555555555555556), ('taco', 0.4444444444444444), ('canasta', 0.4444444444444444), ('elote', 0.3333333333333333), ('durazno', 0.2222222222222222), ('burro', 0.1111111111111111)]
+Definición: Fruto que crece de una milpa, con granos, color como amarillo y blanco
+['color', 'blanco', 'crecer', 'grano', 'amarillo', 'milpa', 'fruto']
+
+[('agua', 0.2107843137254902), ('rojo', 0.20098039215686275), ('niño', 0.20098039215686275), ('azul', 0.19117647058823528), ('verde', 0.18627450980392157), ('dulce', 0.16666666666666666), ('bonito', 0.1568627450980392), ('negro', 0.1568627450980392), ('naranja', 0.12745098039215685), ('flor', 0.12745098039215685), ('casa', 0.12745098039215685)]
+Definición: De donde vienen los esquites. Que le echan mayonesa o lo asan.
+['esquites', 'venir', 'echar', 'mayonesa', 'asar']
+
+[('carne', 0.3333333333333333), ('elote', 0.3333333333333333), ('hamburguesa', 0.16666666666666666), ('pescado', 0.16666666666666666), ('salchicha', 0.16666666666666666), ('ejote', 0.16666666666666666), ('carriola', 0.08333333333333333), ('canasta', 0.08333333333333333)]
+Definición: Alimento típico para la elaboración de comida mexicana.
+['típico', 'mexicano', 'alimento', 'comida']
+
+[('dulce', 0.38372093023255816), ('carne', 0.2558139534883721), ('leche', 0.2558139534883721), ('huevo', 0.2441860465116279), ('queso', 0.23255813953488372), ('naranja', 0.22093023255813954), ('pan', 0.22093023255813954), ('fresa', 0.19767441860465115), ('pastel', 0.19767441860465115), ('cocina', 0.19767441860465115), ('mantequilla', 0.1744186046511628)]
+Concepto: Ratón
+Definición: Animal de color gris que puede transmitir la rabia. En conjunto es considerado como plaga. Se reproducen de manera abismal.
+['animal', 'poder', 'rabia', 'color', 'gris', 'conjunto']
+
+[('niño', 0.1952662721893491), ('bonito', 0.1893491124260355), ('blanco', 0.1834319526627219), ('rojo', 0.1834319526627219), ('azul', 0.17751479289940827), ('negro', 0.17751479289940827), ('verde', 0.17159763313609466), ('gato', 0.15976331360946744), ('flor', 0.14792899408284024), ('pluma', 0.14201183431952663), ('perro', 0.14201183431952663)]
+Definición: el animal con cola que anda en coladeras
+['animal', 'andar', 'cola']
+
+[('gato', 0.29508196721311475), ('perro', 0.27868852459016397), ('león', 0.26229508196721313), ('conejo', 0.24590163934426232), ('cochino', 0.22950819672131148), ('pato', 0.22950819672131148), ('oso', 0.22950819672131148), ('elefante', 0.21311475409836067), ('pelo', 0.21311475409836067), ('carne', 0.21311475409836067), ('ardilla', 0.21311475409836067)]
+Definición: Pequeño y le gusta el queso
+['gustar', 'queso', 'pequeño']
+
+[('comida', 0.28125), ('comer', 0.23958333333333331), ('leche', 0.21875), ('mantequilla', 0.20833333333333331), ('rico', 0.19791666666666666), ('pan', 0.1875), ('huevo', 0.1875), ('elote', 0.17708333333333331), ('torta', 0.16666666666666666), ('niño', 0.16666666666666666), ('alimento', 0.16666666666666666)]
+Definición: Roedor perseguido por gatos
+['gato', 'roedor']
+
+[('oso', 0.23809523809523808), ('animal', 0.22619047619047616), ('conejo', 0.22619047619047616), ('perro', 0.20238095238095238), ('ardilla', 0.19047619047619047), ('lobo', 0.19047619047619047), ('pato', 0.17857142857142855), ('tigre', 0.15476190476190477), ('león', 0.15476190476190477), ('negro', 0.14285714285714285), ('bonito', 0.14285714285714285)]
+Definición: el animal como mickey mouse
+['animal', 'mouse', 'mickey']
+
+[('gato', 0.3333333333333333), ('león', 0.2962962962962963), ('perro', 0.2962962962962963), ('oso', 0.25925925925925924), ('carne', 0.24074074074074073), ('ratón', 0.24074074074074073), ('cochino', 0.24074074074074073), ('pato', 0.24074074074074073), ('pelo', 0.24074074074074073), ('conejo', 0.24074074074074073), ('elefante', 0.2222222222222222)]
+Concepto: Lámpara
+Definición: sirve para iluminar un espacio, lleva un foco
+['espacio', 'llevar', 'servir', 'iluminar', 'foco']
+
+[('sol', 0.27586206896551724), ('calle', 0.20689655172413793), ('lámpara', 0.1724137931034483), ('tierra', 0.13793103448275862), ('luna', 0.13793103448275862), ('estrella', 0.13793103448275862), ('techo', 0.13793103448275862), ('vaso', 0.10344827586206896), ('ventana', 0.10344827586206896), ('plumón', 0.10344827586206896), ('color', 0.10344827586206896)]
+Definición: Objeto que se necesita para que haya luz de noche.
+['noche', 'necesitar', 'luz', 'objeto']
+
+[('mesa', 0.2127659574468085), ('caja', 0.1702127659574468), ('cama', 0.1702127659574468), ('mueble', 0.1702127659574468), ('color', 0.14893617021276595), ('lámpara', 0.14893617021276595), ('luna', 0.14893617021276595), ('sol', 0.14893617021276595), ('estrella', 0.1276595744680851), ('leche', 0.1276595744680851), ('techo', 0.1276595744680851)]
+Definición: aparato eléctrico usado para alumbrar lugares
+['lugar', 'eléctrico', 'aparato', 'alumbrar', 'usar']
+
+[('camión', 0.23333333333333334), ('casa', 0.2), ('calle', 0.16666666666666666), ('autobús', 0.16666666666666666), ('televisión', 0.13333333333333333), ('sol', 0.13333333333333333), ('iglesia', 0.1), ('zapato', 0.1), ('tren', 0.1), ('vestido', 0.1), ('gorra', 0.1)]
+Definición: objeto que da luz por la noche
+['dar', 'noche', 'luz', 'objeto']
+
+[('mesa', 0.20833333333333331), ('caja', 0.1875), ('color', 0.16666666666666666), ('cama', 0.16666666666666666), ('mueble', 0.16666666666666666), ('lámpara', 0.14583333333333331), ('luna', 0.14583333333333331), ('estrella', 0.125), ('gato', 0.125), ('leche', 0.125), ('sol', 0.125)]
+Definición: objeto que ilumina algún cuarto
+['iluminar', 'cuarto', 'objeto']
+
+[('mueble', 0.36666666666666664), ('mesa', 0.3), ('cama', 0.23333333333333334), ('caja', 0.2), ('lámpara', 0.2), ('techo', 0.2), ('puerta', 0.2), ('cocina', 0.2), ('silla', 0.16666666666666666), ('color', 0.16666666666666666), ('ventana', 0.13333333333333333)]
+Concepto: Aspiradora
+Definición: electrodoméstico que sirve para juntar polvo
+['servir', 'polvo', 'juntar', 'electrodoméstico']
+
+[('mueble', 0.30000000000000004), ('refrigerador', 0.25), ('tierra', 0.2), ('leche', 0.2), ('lavadora', 0.2), ('aspiradora', 0.2), ('televisión', 0.15000000000000002), ('plancha', 0.15000000000000002), ('vaso', 0.15000000000000002), ('escoba', 0.15000000000000002), ('familia', 0.15000000000000002)]
+Definición: Escoba eléctrica
+['escoba', 'eléctrico']
+
+[('aspiradora', 0.2884615384615385), ('trapo', 0.2692307692307693), ('pala', 0.21153846153846156), ('casa', 0.19230769230769232), ('cepillo', 0.15384615384615385), ('cubeta', 0.15384615384615385), ('cepillo de dientes', 0.13461538461538464), ('limpiar', 0.13461538461538464), ('limpio', 0.11538461538461539), ('barrer', 0.11538461538461539), ('limpieza', 0.11538461538461539)]
+Definición: Aparato para sacar el polvo
+['aparato', 'polvo', 'sacar']
+
+[('tierra', 0.3333333333333333), ('televisión', 0.2), ('pala', 0.2), ('mueble', 0.2), ('calabaza', 0.2), ('aspiradora', 0.2), ('escoba', 0.2), ('tractor', 0.13333333333333333), ('cajón', 0.13333333333333333), ('cámara', 0.13333333333333333), ('leche', 0.13333333333333333)]
+Definición: aparato electrónico para quitar el polvo
+['quitar', 'electrónico', 'aparato', 'polvo']
+
+[('televisión', 0.2), ('cajón', 0.2), ('mueble', 0.2), ('aspiradora', 0.2), ('tierra', 0.15000000000000002), ('plancha', 0.15000000000000002), ('lavadora', 0.15000000000000002), ('dinero', 0.15000000000000002), ('tractor', 0.1), ('bota', 0.1), ('cámara', 0.1)]
+Definición: es un aparato para limpiar y succionar el polvo
+['succionar', 'limpiar', 'aparato', 'polvo']
+
+[('lavabo', 0.25806451612903225), ('escoba', 0.22580645161290322), ('diente', 0.22580645161290322), ('aspiradora', 0.16129032258064516), ('trapo', 0.16129032258064516), ('jabón', 0.16129032258064516), ('cepillo', 0.16129032258064516), ('tierra', 0.12903225806451613), ('mueble', 0.12903225806451613), ('lavadora', 0.12903225806451613), ('mano', 0.12903225806451613)]
+Concepto: Ojo
+Definición: Parte del cuerpo que se utiliza para ver
+['cuerpo', 'parte', 'ver']
+
+[('mano', 0.32), ('cara', 0.24), ('camisa', 0.24), ('brazo', 0.2), ('ojo', 0.2), ('dedo', 0.2), ('pie', 0.16), ('botón', 0.16), ('reloj', 0.12), ('lente', 0.12), ('jabón', 0.12)]
+Definición: Tenemos dos y pueden ser de diferentes colores
+['color', 'diferente', 'poder']
+
+[('niño', 0.23008849557522124), ('azul', 0.17699115044247787), ('rojo', 0.17699115044247787), ('crayola', 0.16814159292035397), ('plumón', 0.1592920353982301), ('flor', 0.1592920353982301), ('lápiz', 0.1592920353982301), ('pluma', 0.1504424778761062), ('hoja', 0.1504424778761062), ('verde', 0.1504424778761062), ('dulce', 0.12389380530973451)]
+Definición: Órgano que usamos para ver
+['ver', 'órgano', 'usar']
+
+[('zapato', 0.23529411764705882), ('lente', 0.1764705882352941), ('ojo', 0.1764705882352941), ('vestido', 0.1764705882352941), ('ventana', 0.1764705882352941), ('camisa', 0.1764705882352941), ('gorra', 0.1764705882352941), ('reloj', 0.11764705882352941), ('espejo', 0.11764705882352941), ('calzón', 0.11764705882352941), ('televisión', 0.058823529411764705)]
+Definición: con lo que vemos
+['ver']
+
+[('ventana', 0.375), ('ojo', 0.375), ('lente', 0.25), ('espejo', 0.25), ('televisión', 0.125), ('reloj', 0.125), ('circo', 0.125), ('luna', 0.125)]
+Concepto: Zanahoria
+Definición: Vegetal de color naranja, crece bajo la tierra y es el alimento preferido por los conejos, caballos, al menos en el imaginario colectivo.
+['color', 'menos', 'tierra', 'crecer', 'caballo', 'vegetal', 'bajo', 'colectivo', 'conejo', 'naranja', 'alimento']
+
+[('grande', 0.1546134663341646), ('comida', 0.14713216957605985), ('niño', 0.12967581047381546), ('comer', 0.12468827930174563), ('dulce', 0.12219451371571072), ('ardilla', 0.11221945137157106), ('agua', 0.10972568578553615), ('rico', 0.10723192019950124), ('flor', 0.09975062344139651), ('rojo', 0.09725685785536159), ('planta', 0.09226932668329177)]
+Definición: la verdura que comen los conejos
+['verdura', 'conejo', 'comer']
+
+[('comida', 0.4266666666666667), ('dulce', 0.24000000000000002), ('blanco', 0.22), ('ardilla', 0.21333333333333335), ('animal', 0.2), ('feo', 0.17333333333333334), ('gato', 0.16), ('leche', 0.14666666666666667), ('ratón', 0.14666666666666667), ('queso', 0.14666666666666667), ('carne', 0.14666666666666667)]
+Definición: Comerla es buena para la vista
+['vista', 'bueno', 'comer']
+
+[('dulce', 0.38271604938271603), ('leche', 0.24691358024691357), ('niño', 0.2345679012345679), ('fresa', 0.20987654320987653), ('naranja', 0.20987654320987653), ('color', 0.19753086419753085), ('diente', 0.19753086419753085), ('pastel', 0.19753086419753085), ('queso', 0.18518518518518517), ('carne', 0.18518518518518517), ('huevo', 0.18518518518518517)]
+Definición: Raíz naranja que comen los conejos de las caricaturas
+['caricatura', 'conejo', 'comer', 'naranja', 'raíz']
+
+[('comida', 0.33163265306122447), ('dulce', 0.2193877551020408), ('rico', 0.21428571428571427), ('blanco', 0.18877551020408162), ('ardilla', 0.18877551020408162), ('animal', 0.15816326530612243), ('fresa', 0.14795918367346939), ('durazno', 0.1377551020408163), ('feo', 0.1377551020408163), ('manzana', 0.13265306122448978), ('leche', 0.13265306122448978)]
+Definición: lo que comen los conejos
+['conejo', 'comer']
+
+[('comida', 0.41666666666666663), ('dulce', 0.2361111111111111), ('ardilla', 0.2222222222222222), ('blanco', 0.21527777777777776), ('animal', 0.19444444444444442), ('gato', 0.16666666666666666), ('feo', 0.1597222222222222), ('borrego', 0.15277777777777776), ('lobo', 0.15277777777777776), ('burro', 0.15277777777777776), ('queso', 0.14583333333333331)]
+Concepto: Mano
+Definición: La parte del cuerpo con la que agarras los objetos y que tiene 5 dedos
+['cuerpo', 'parte', 'objeto', 'agarrar', 'dedo']
+
+[('mano', 0.3170731707317073), ('grande', 0.20731707317073172), ('brazo', 0.1951219512195122), ('mesa', 0.17073170731707318), ('pie', 0.13414634146341464), ('caja', 0.13414634146341464), ('botón', 0.12195121951219512), ('largo', 0.12195121951219512), ('herramienta', 0.10975609756097561), ('palo', 0.10975609756097561), ('computador', 0.10975609756097561)]
+Definición: La parte del cuerpo conde terminan los brazos
+['brazo', 'cuerpo', 'parte']
+
+[('mano', 0.24390243902439024), ('dedo', 0.18292682926829268), ('blanco', 0.12195121951219512), ('pie', 0.12195121951219512), ('camisa', 0.10975609756097561), ('cara', 0.0975609756097561), ('persona', 0.0975609756097561), ('calzón', 0.08536585365853659), ('largo', 0.07317073170731708), ('pelo', 0.07317073170731708), ('azul', 0.07317073170731708)]
+Definición: extremidad
+['extremidad']
+
+[('pie', 1.0), ('brazo', 1.0), ('mano', 1.0), ('dedo', 1.0)]
+Definición: con lo que agarran las cosas los humanos
+['humano', 'cosa', 'agarrar']
+
+[('mano', 0.32), ('bolsa', 0.24), ('caja', 0.24), ('mueble', 0.24), ('dinero', 0.24), ('brazo', 0.2), ('mercado', 0.2), ('cajón', 0.2), ('mesa', 0.2), ('tienda', 0.16), ('dedo', 0.16)]
+Definición: Pie
+['pie']
+
+[('zapato', 0.31884057971014496), ('mano', 0.21739130434782608), ('bota', 0.17391304347826086), ('dedo', 0.15942028985507248), ('brazo', 0.14492753623188406), ('tierra', 0.13043478260869565), ('patín', 0.13043478260869565), ('falda', 0.13043478260869565), ('planta', 0.11594202898550725), ('conejo', 0.11594202898550725), ('largo', 0.10144927536231885)]
+Concepto: Brazo
+Definición:  parte del cuerpo en donde están las manos
+['cuerpo', 'parte', 'mano']
+
+[('dedo', 0.21), ('brazo', 0.18), ('grande', 0.15), ('pie', 0.15), ('negro', 0.13), ('pelo', 0.13), ('cara', 0.12), ('sucio', 0.12), ('camisa', 0.11), ('calzón', 0.11), ('plastilina', 0.11)]
+Definición: Una parte del cuerpo, que sostiene cosas y aplica fuerza.
+['fuerza', 'sostener', 'cuerpo', 'parte', 'cosa']
+
+[('mano', 0.29268292682926833), ('caja', 0.1951219512195122), ('cajón', 0.1951219512195122), ('mesa', 0.1951219512195122), ('brazo', 0.17073170731707318), ('lobo', 0.17073170731707318), ('mueble', 0.17073170731707318), ('camisa', 0.17073170731707318), ('bolsa', 0.14634146341463417), ('palo', 0.14634146341463417), ('mercado', 0.14634146341463417)]
+Definición: extremidad superior del cuerpo humano
+['extremidad', 'humano', 'cuerpo']
+
+[('mano', 0.5294117647058824), ('brazo', 0.4117647058823529), ('dedo', 0.3529411764705882), ('cara', 0.29411764705882354), ('pie', 0.29411764705882354), ('camisa', 0.23529411764705882), ('jabón', 0.1764705882352941), ('mono', 0.11764705882352941), ('ojo', 0.11764705882352941), ('suéter', 0.11764705882352941), ('calzón', 0.11764705882352941)]
+Definición: parte del cuerpo que te permite agarrar cosas
+['cuerpo', 'parte', 'cosa', 'agarrar']
+
+[('mano', 0.2857142857142857), ('caja', 0.22857142857142856), ('cajón', 0.22857142857142856), ('brazo', 0.19999999999999998), ('camisa', 0.19999999999999998), ('bolsa', 0.17142857142857143), ('mueble', 0.17142857142857143), ('mercado', 0.17142857142857143), ('dinero', 0.17142857142857143), ('dedo', 0.17142857142857143), ('mesa', 0.17142857142857143)]
+Definición: es una parte del cuerpo pegada a la mano
+['cuerpo', 'parte', 'pegar', 'mano']
+
+[('dedo', 0.20192307692307693), ('brazo', 0.17307692307692307), ('grande', 0.15384615384615385), ('pie', 0.14423076923076925), ('negro', 0.13461538461538464), ('sucio', 0.125), ('pelo', 0.125), ('cara', 0.11538461538461539), ('plastilina', 0.11538461538461539), ('palo', 0.11538461538461539), ('guante', 0.11538461538461539)]
+Concepto: Caballo
+Definición: animal que se puede montar
+['animal', 'montar', 'poder']
+
+[('gato', 0.31666666666666665), ('león', 0.2833333333333333), ('perro', 0.2833333333333333), ('oso', 0.23333333333333334), ('pelo', 0.21666666666666667), ('carne', 0.21666666666666667), ('caballo', 0.21666666666666667), ('cochino', 0.21666666666666667), ('pato', 0.21666666666666667), ('pájaro', 0.21666666666666667), ('conejo', 0.21666666666666667)]
+Definición: Un animal de cuatro patas que corre mucho y se usa para carreras.
+['animal', 'carrera', 'correr', 'usar', 'pata']
+
+[('niño', 0.25), ('gato', 0.25), ('perro', 0.25), ('elefante', 0.21250000000000002), ('león', 0.2), ('pato', 0.1875), ('oso', 0.1875), ('conejo', 0.1875), ('cocodrilo', 0.17500000000000002), ('caballo', 0.17500000000000002), ('ardilla', 0.17500000000000002)]
+Definición: animal equino usado para cabalgar, se usa en los juegos de polo
+['animal', 'polo', 'equino', 'cabalgar', 'juego', 'usar']
+
+[('niño', 0.3), ('gato', 0.23333333333333334), ('perro', 0.23333333333333334), ('león', 0.17777777777777778), ('mono', 0.16666666666666669), ('juguete', 0.16666666666666669), ('oso', 0.16666666666666669), ('pelo', 0.16666666666666669), ('elefante', 0.15555555555555556), ('carne', 0.15555555555555556), ('conejo', 0.15555555555555556)]
+Definición: animal que galopa y relincha
+['animal', 'galopar', 'relinchar']
+
+[('gato', 0.33962264150943394), ('león', 0.3018867924528302), ('perro', 0.3018867924528302), ('oso', 0.2641509433962264), ('carne', 0.24528301886792453), ('caballo', 0.24528301886792453), ('cochino', 0.24528301886792453), ('pato', 0.24528301886792453), ('pelo', 0.24528301886792453), ('conejo', 0.24528301886792453), ('elefante', 0.22641509433962265)]
+Definición: animal que relincha
+['animal', 'relinchar']
+
+[('gato', 0.34615384615384615), ('león', 0.3076923076923077), ('perro', 0.3076923076923077), ('oso', 0.2692307692307693), ('carne', 0.25), ('cochino', 0.25), ('pato', 0.25), ('pelo', 0.25), ('conejo', 0.25), ('elefante', 0.23076923076923078), ('caballo', 0.23076923076923078)]
+Concepto: Calabaza
+Definición: verdura amarilla o naranja muy grande y redonda que usan para hacer lámparas
+['verdura', 'lámpara', 'usar', 'redondo', 'amarillo', 'hacer', 'naranja', 'grande']
+
+[('blanco', 0.24122807017543857), ('rojo', 0.24122807017543857), ('comida', 0.23684210526315788), ('comer', 0.2149122807017544), ('verde', 0.20175438596491227), ('color', 0.18859649122807015), ('casa', 0.18421052631578946), ('niño', 0.17543859649122806), ('bonito', 0.17543859649122806), ('agua', 0.17105263157894735), ('negro', 0.16228070175438597)]
+Definición: Adornos de Halloween
+[]
+
+[]
+Definición: La cosa naranja a la que le ponen cara en Halloween
+['cara', 'halloween', 'naranja', 'cosa', 'poner']
+
+[('dulce', 0.1927710843373494), ('rojo', 0.16265060240963855), ('comida', 0.1566265060240964), ('fresa', 0.15060240963855423), ('manzana', 0.15060240963855423), ('color', 0.14457831325301207), ('comer', 0.13855421686746988), ('agua', 0.13855421686746988), ('durazno', 0.13855421686746988), ('verde', 0.13855421686746988), ('jugo', 0.13253012048192772)]
+Definición: verdura de color verde y amarilla por dentro, de sabor dulzón
+['verdura', 'sabor', 'verde', 'amarillo', 'color']
+
+[('rojo', 0.22826086956521738), ('niño', 0.22282608695652173), ('agua', 0.20652173913043478), ('blanco', 0.1902173913043478), ('azul', 0.18478260869565216), ('dulce', 0.1793478260869565), ('árbol', 0.14130434782608695), ('bonito', 0.125), ('naranja', 0.125), ('flor', 0.125), ('casa', 0.125)]
+Definición: verdura verde con pepita para hacer consomé
+['verdura', 'verde', 'hacer', 'pepita']
+
+[('agua', 0.3380281690140845), ('color', 0.26760563380281693), ('árbol', 0.2535211267605634), ('naranja', 0.2112676056338028), ('manzana', 0.16901408450704225), ('zanahoria', 0.15492957746478875), ('flor', 0.14084507042253522), ('durazno', 0.14084507042253522), ('planta', 0.1267605633802817), ('calabaza', 0.1267605633802817), ('chile', 0.1267605633802817)]
+Concepto: Manzana
+Definición: La fruta que es redonda y puede ser de color rojo, verde y amarillo
+['color', 'verde', 'rojo', 'poder', 'redondo', 'amarillo', 'fruto']
+
+[('niño', 0.21524663677130046), ('blanco', 0.20179372197309417), ('agua', 0.19282511210762332), ('azul', 0.19282511210762332), ('dulce', 0.17040358744394618), ('negro', 0.15695067264573992), ('casa', 0.15695067264573992), ('bonito', 0.14349775784753363), ('árbol', 0.1390134529147982), ('rosa', 0.13004484304932734), ('flor', 0.13004484304932734)]
+Definición: Una fruta roja que le das a tu maestra
+['dar', 'maestro', 'fruto', 'rojo']
+
+[('dulce', 0.30526315789473685), ('agua', 0.2631578947368421), ('color', 0.25263157894736843), ('naranja', 0.21052631578947367), ('manzana', 0.16842105263157894), ('fresa', 0.16842105263157894), ('juguete', 0.14736842105263157), ('árbol', 0.14736842105263157), ('flor', 0.1368421052631579), ('plátano', 0.1368421052631579), ('jugo', 0.1368421052631579)]
+Definición: fruta
+['fruto']
+
+[('naranja', 0.5384615384615385), ('manzana', 0.46153846153846156), ('fresa', 0.46153846153846156), ('plátano', 0.42307692307692313), ('agua', 0.38461538461538464), ('árbol', 0.38461538461538464), ('jugo', 0.38461538461538464), ('durazno', 0.34615384615384615), ('sandía', 0.3076923076923077), ('calabaza', 0.2692307692307693), ('uva', 0.2692307692307693)]
+Definición: la fruta a la que le ponen chamoy y miguelito
+['fruto', 'poner', 'miguel', 'chamoy']
+
+[('naranja', 0.34782608695652173), ('agua', 0.2826086956521739), ('manzana', 0.2608695652173913), ('fresa', 0.2608695652173913), ('jugo', 0.2391304347826087), ('árbol', 0.2391304347826087), ('plátano', 0.2391304347826087), ('flor', 0.19565217391304346), ('durazno', 0.19565217391304346), ('sandía', 0.17391304347826086), ('caja', 0.17391304347826086)]
+Definición: Blanca nieves
+['nieve', 'blanco']
+
+[('color', 0.18823529411764706), ('leche', 0.15294117647058825), ('huevo', 0.15294117647058825), ('helado', 0.12941176470588234), ('queso', 0.11764705882352941), ('mantequilla', 0.11764705882352941), ('conejo', 0.11764705882352941), ('hielo', 0.11764705882352941), ('caballo', 0.11764705882352941), ('pie', 0.11764705882352941), ('pantalón', 0.11764705882352941)]
+Concepto: Avión
+Definición: medio de transporte con el que puedes volar
+['medio', 'transporte', 'volar', 'poder']
+
+[('helicóptero', 0.19444444444444442), ('camión', 0.19444444444444442), ('avión', 0.19444444444444442), ('autobús', 0.16666666666666666), ('pájaro', 0.16666666666666666), ('moto', 0.1388888888888889), ('tren', 0.1388888888888889), ('pato', 0.1388888888888889), ('dinero', 0.1388888888888889), ('mariposa', 0.1111111111111111), ('mano', 0.1111111111111111)]
+Definición: Un sistema de transporte que se va volando por el cielo.
+['sistema', 'volar', 'ir', 'cielo', 'transporte']
+
+[('sol', 0.24444444444444446), ('avión', 0.17777777777777778), ('pájaro', 0.17777777777777778), ('tierra', 0.13333333333333333), ('tren', 0.13333333333333333), ('mariposa', 0.13333333333333333), ('pelota', 0.13333333333333333), ('camión', 0.13333333333333333), ('globo', 0.11111111111111112), ('autobús', 0.11111111111111112), ('hielo', 0.11111111111111112)]
+Definición: medio de transporte que vuela
+['medio', 'transporte', 'volar']
+
+[('avión', 0.21875), ('autobús', 0.1875), ('moto', 0.15625), ('helicóptero', 0.15625), ('tren', 0.15625), ('camión', 0.15625), ('pato', 0.15625), ('pájaro', 0.15625), ('mariposa', 0.125), ('dinero', 0.125), ('bicicleta', 0.125)]
+Definición: transporte aéreo
+['transporte', 'aéreo']
+
+[('camión', 0.29411764705882354), ('moto', 0.29411764705882354), ('tren', 0.29411764705882354), ('avión', 0.29411764705882354), ('bicicleta', 0.23529411764705882), ('helicóptero', 0.23529411764705882), ('autobús', 0.23529411764705882), ('tractor', 0.1764705882352941), ('triciclo', 0.1764705882352941), ('caballo', 0.11764705882352941), ('burro', 0.11764705882352941)]
+Definición: medio de transporte en el aire
+['medio', 'transporte', 'aire']
+
+[('árbol', 0.21621621621621623), ('avión', 0.1891891891891892), ('tierra', 0.16216216216216217), ('tren', 0.16216216216216217), ('pájaro', 0.16216216216216217), ('moto', 0.13513513513513514), ('helicóptero', 0.13513513513513514), ('autobús', 0.13513513513513514), ('camión', 0.13513513513513514), ('bicicleta', 0.10810810810810811), ('tractor', 0.10810810810810811)]
+Concepto: Melón
+Definición: Fruta color naranja pastel usualmente se encuentra en los cócteles de fruta. Tiene cáscara dura, es necesario utilizar un cuchillo para poder consumirla.
+['encontrar', 'color', 'poder', 'duro', 'pastel', 'cuchillo', 'fruto', 'naranja', 'cáscara', 'necesario']
+
+[('dulce', 0.17605633802816903), ('comida', 0.16901408450704225), ('comer', 0.15492957746478875), ('blanco', 0.14788732394366197), ('rojo', 0.13380281690140847), ('niño', 0.13380281690140847), ('agua', 0.13028169014084506), ('fresa', 0.13028169014084506), ('manzana', 0.12323943661971831), ('azul', 0.11971830985915494), ('rico', 0.11619718309859155)]
+Definición: la fruta que es rosa por dentro, que también es un color.
+['color', 'fruto', 'rosa']
+
+[('niño', 0.2251655629139073), ('rojo', 0.2251655629139073), ('dulce', 0.2119205298013245), ('verde', 0.19205298013245034), ('flor', 0.17880794701986755), ('azul', 0.17880794701986755), ('agua', 0.17218543046357615), ('blanco', 0.15894039735099338), ('negro', 0.152317880794702), ('bonito', 0.1456953642384106), ('árbol', 0.1456953642384106)]
+Definición: Fruta anaranjada que es china
+['fruto', 'anaranjado', 'chino']
+
+[('naranja', 0.4444444444444444), ('manzana', 0.3333333333333333), ('fresa', 0.3333333333333333), ('agua', 0.3055555555555555), ('plátano', 0.3055555555555555), ('durazno', 0.3055555555555555), ('árbol', 0.2777777777777778), ('jugo', 0.2777777777777778), ('sandía', 0.2222222222222222), ('calabaza', 0.2222222222222222), ('zanahoria', 0.19444444444444442)]
+Definición: Fruta redonda de cáscara clara, rugosa e interior naranja
+['rugoso', 'claro', 'redondo', 'fruto', 'naranja', 'cáscara', 'interior']
+
+[('comida', 0.32673267326732675), ('dulce', 0.27722772277227725), ('manzana', 0.24752475247524752), ('agua', 0.24752475247524752), ('comer', 0.24752475247524752), ('rojo', 0.2376237623762376), ('fresa', 0.22772277227722773), ('verde', 0.22772277227722773), ('rico', 0.21782178217821782), ('jugo', 0.21782178217821782), ('plátano', 0.19801980198019803)]
+Definición: la fruta redonda y grande... con semillitas
+['grande', 'fruto', 'semilla', 'redondo']
+
+[('casa', 0.2846153846153846), ('agua', 0.23846153846153847), ('niño', 0.2153846153846154), ('naranja', 0.17692307692307693), ('tierra', 0.16923076923076924), ('árbol', 0.16153846153846155), ('perro', 0.13846153846153847), ('caja', 0.13076923076923078), ('juguete', 0.12307692307692308), ('diente', 0.11538461538461539), ('mueble', 0.11538461538461539)]
+Concepto: Bicicleta
+Definición: Transporte que no necesita de gasolina o derivados, se mueve gracias a la fuerza que realiza el humano. Existen algunas estacionarias que son usadas para hacer ejercicio.
+['transporte', 'humano', 'usar', 'ejercicio', 'fuerza', 'gasolina', 'mover', 'necesitar', 'hacer']
+
+[('niño', 0.38888888888888884), ('mano', 0.2037037037037037), ('brazo', 0.14814814814814814), ('mono', 0.12962962962962962), ('playera', 0.12962962962962962), ('bicicleta', 0.12962962962962962), ('moto', 0.12962962962962962), ('camión', 0.12962962962962962), ('lobo', 0.12962962962962962), ('cara', 0.1111111111111111), ('tren', 0.1111111111111111)]
+Definición: la que pedaleas
+['pedalear']
+
+[('bicicleta', 1.0)]
+Definición: Es un transporte que se promueve los fines de semana en la ciudad
+['transporte', 'ciudad']
+
+[('moto', 0.35000000000000003), ('autobús', 0.35000000000000003), ('camión', 0.35000000000000003), ('calle', 0.30000000000000004), ('bicicleta', 0.25), ('tren', 0.25), ('triciclo', 0.2), ('avión', 0.2), ('escuela', 0.2), ('árbol', 0.15000000000000002), ('tractor', 0.15000000000000002)]
+Definición: Vehículo sin motor y con dos ruedas
+['rueda', 'vehículo', 'motor']
+
+[('moto', 0.4117647058823529), ('camión', 0.4117647058823529), ('bicicleta', 0.29411764705882354), ('tractor', 0.29411764705882354), ('tren', 0.29411764705882354), ('autobús', 0.29411764705882354), ('triciclo', 0.29411764705882354), ('avión', 0.23529411764705882), ('helicóptero', 0.1764705882352941), ('refrigerador', 0.11764705882352941), ('patín', 0.11764705882352941)]
+Definición: la moto sin motor
+['moto', 'motor']
+
+[('camión', 0.29411764705882354), ('bicicleta', 0.2823529411764706), ('autobús', 0.22352941176470587), ('calle', 0.18823529411764706), ('tractor', 0.16470588235294117), ('carro', 0.07058823529411765), ('ruido', 0.07058823529411765), ('mono', 0.058823529411764705), ('rueda', 0.058823529411764705), ('transporte', 0.058823529411764705), ('camino', 0.058823529411764705)]
+Concepto: León
+Definición: Ruge y vive en la selva
+['rugir', 'vivir', 'selva']
+
+[('león', 0.6153846153846154), ('tigre', 0.5384615384615385), ('hipopótamo', 0.46153846153846156), ('jirafa', 0.46153846153846156), ('oso', 0.38461538461538464), ('cebra', 0.38461538461538464), ('elefante', 0.38461538461538464), ('mono', 0.15384615384615385), ('búho', 0.07692307692307693), ('casa', 0.07692307692307693), ('víbora', 0.07692307692307693)]
+Definición: Rey
+['rey']
+
+[('león', 1.0)]
+Definición: Animal carnívoro, de cuatro patas, grande melena, pelaje amarillo. Es el rey de la selva
+['pelaje', 'animal', 'rey', 'amarillo', 'selva', 'pata', 'carnívoro', 'melena', 'grande']
+
+[('niño', 0.225), ('casa', 0.21875), ('gato', 0.15625), ('león', 0.14375000000000002), ('perro', 0.14375000000000002), ('carne', 0.1375), ('diente', 0.13125), ('conejo', 0.13125), ('árbol', 0.13125), ('cocodrilo', 0.125), ('pájaro', 0.125)]
+Definición: El animal del escudo de Gryffindor.
+['animal']
+
+[('gato', 0.3529411764705882), ('león', 0.3137254901960784), ('perro', 0.3137254901960784), ('oso', 0.27450980392156865), ('carne', 0.2549019607843137), ('cochino', 0.2549019607843137), ('pato', 0.2549019607843137), ('pelo', 0.2549019607843137), ('conejo', 0.2549019607843137), ('elefante', 0.23529411764705882), ('ardilla', 0.23529411764705882)]
+Definición: Animal conocido como el rey de la selva
+['animal', 'rey', 'selva']
+
+[('gato', 0.33962264150943394), ('león', 0.33962264150943394), ('perro', 0.3018867924528302), ('oso', 0.2830188679245283), ('elefante', 0.24528301886792453), ('carne', 0.24528301886792453), ('cochino', 0.24528301886792453), ('pato', 0.24528301886792453), ('pelo', 0.24528301886792453), ('conejo', 0.24528301886792453), ('tigre', 0.22641509433962265)]
+Concepto: Boca
+Definición: agujero con dientes y lengua que usamos para hablar y para comer
+['comer', 'hablar', 'lengua', 'diente', 'usar']
+
+[('comida', 0.4264705882352941), ('grande', 0.2647058823529412), ('dulce', 0.2426470588235294), ('blanco', 0.23529411764705882), ('leche', 0.1764705882352941), ('amarillo', 0.1764705882352941), ('pasta_de_dientes', 0.16911764705882354), ('carne', 0.16176470588235295), ('niño', 0.16176470588235295), ('boca', 0.15441176470588236), ('cocodrilo', 0.14705882352941177)]
+Definición: Con lo que besas
+['besar']
+
+[('boca', 1.0), ('labio', 1.0)]
+Definición: Lo que usas para hablar y comer
+['hablar', 'comer', 'usar']
+
+[('dulce', 0.3684210526315789), ('leche', 0.25), ('fresa', 0.21052631578947367), ('naranja', 0.21052631578947367), ('huevo', 0.21052631578947367), ('pastel', 0.19736842105263158), ('carne', 0.19736842105263158), ('queso', 0.18421052631578946), ('chocolate', 0.17105263157894735), ('pan', 0.17105263157894735), ('diente', 0.15789473684210525)]
+Definición: parte del cuerpo humano con la que comemos
+['humano', 'cuerpo', 'parte', 'comer']
+
+[('dulce', 0.3448275862068966), ('leche', 0.24137931034482757), ('naranja', 0.1954022988505747), ('pastel', 0.1839080459770115), ('huevo', 0.1839080459770115), ('fresa', 0.1839080459770115), ('carne', 0.1724137931034483), ('queso', 0.16091954022988506), ('chocolate', 0.16091954022988506), ('cuchara', 0.14942528735632182), ('cocina', 0.14942528735632182)]
+Definición: parte del cuerpo, tiene labios y te sirve para hablar
+['hablar', 'labio', 'cuerpo', 'parte', 'servir']
+
+[('boca', 0.35), ('dulce', 0.23333333333333334), ('ojo', 0.23333333333333334), ('bebé', 0.23333333333333334), ('diente', 0.21666666666666667), ('cara', 0.21666666666666667), ('persona', 0.2), ('mano', 0.2), ('grande', 0.18333333333333332), ('rojo', 0.18333333333333332), ('dedo', 0.16666666666666666)]
+Concepto: Chocolate
+Definición: alimento dulce y café de origen prehispánico que a casi todos les gusta y produce endorfina.
+['dulce', 'gustar', 'café', 'alimento']
+
+[('comida', 0.36250000000000004), ('comer', 0.30625), ('rico', 0.2625), ('fresa', 0.2), ('rojo', 0.19375), ('leche', 0.1875), ('chocolate', 0.1875), ('pastel', 0.18125000000000002), ('gelatina', 0.17500000000000002), ('helado', 0.1625), ('agua', 0.1625)]
+Definición: Golosina
+[]
+
+[]
+Definición: Sabe dulce, es de color café y viene del cacao
+['dulce', 'color', 'cacao', 'venir', 'café']
+
+[('comida', 0.18723404255319148), ('rojo', 0.1702127659574468), ('niño', 0.1702127659574468), ('comer', 0.16595744680851063), ('chocolate', 0.16170212765957448), ('verde', 0.1446808510638298), ('fresa', 0.14042553191489363), ('rico', 0.13617021276595745), ('agua', 0.13191489361702127), ('azul', 0.13191489361702127), ('blanco', 0.12340425531914893)]
+Definición: postre de sabor dulce y preshispánico elaborado con cacao
+['dulce', 'cacao', 'postre', 'sabor']
+
+[('comida', 0.34782608695652173), ('rico', 0.2956521739130435), ('comer', 0.2956521739130435), ('fresa', 0.2782608695652174), ('chocolate', 0.25217391304347825), ('pastel', 0.23478260869565218), ('manzana', 0.2), ('naranja', 0.2), ('paleta', 0.2), ('gelatina', 0.2), ('leche', 0.19130434782608696)]
+Definición: bebida caliente muy dulce de méxico
+['dulce', 'caliente', 'bebida', 'méxico']
+
+[('comida', 0.31690140845070425), ('comer', 0.26760563380281693), ('rico', 0.2605633802816901), ('fresa', 0.22535211267605634), ('chocolate', 0.2183098591549296), ('agua', 0.20422535211267606), ('rojo', 0.19014084507042253), ('pastel', 0.18309859154929578), ('helado', 0.18309859154929578), ('naranja', 0.17605633802816903), ('leche', 0.17605633802816903)]
+Concepto: Espagueti
+Definición: alimento de harina italiano en fideo que va con crema o en jitomate
+['ji_tomate', 'italiano', 'ir', 'harina', 'crema', 'alimento']
+
+[('pan', 0.34615384615384615), ('queso', 0.3269230769230769), ('leche', 0.3269230769230769), ('pastel', 0.25), ('mantequilla', 0.25), ('huevo', 0.23076923076923078), ('carne', 0.21153846153846156), ('papa', 0.21153846153846156), ('torta', 0.19230769230769232), ('calabaza', 0.19230769230769232), ('fresa', 0.19230769230769232)]
+Definición: Pasta que se enreda
+[]
+
+[]
+Definición: Como sopa de fideo, pero seca
+['seco', 'sopa']
+
+[('taza', 0.25), ('tierra', 0.21428571428571427), ('plato', 0.21428571428571427), ('tenedor', 0.21428571428571427), ('cuchara', 0.17857142857142855), ('planta', 0.14285714285714285), ('olla', 0.14285714285714285), ('carne', 0.14285714285714285), ('trapo', 0.14285714285714285), ('ejote', 0.14285714285714285), ('espagueti', 0.14285714285714285)]
+Definición: comida típica de italia elaborada de pasta con forma tubular y alargada
+['alargar', 'italia', 'comida', 'típico', 'forma', 'pasta', 'tubular']
+
+[('dulce', 0.358695652173913), ('leche', 0.22826086956521738), ('carne', 0.21739130434782608), ('naranja', 0.21739130434782608), ('queso', 0.20652173913043478), ('huevo', 0.20652173913043478), ('pan', 0.19565217391304346), ('pastel', 0.18478260869565216), ('fresa', 0.18478260869565216), ('cocina', 0.17391304347826086), ('mantequilla', 0.15217391304347827)]
+Definición: ingrediente básico de la alimentación italiana
+['ingrediente', 'básico', 'italiano']
+
+[('mantequilla', 0.3333333333333333), ('espagueti', 0.3333333333333333), ('triciclo', 0.16666666666666666), ('canasta', 0.16666666666666666)]
+Concepto: Plátano
+Definición: Fruta amarilla y fálica
+['fruto', 'amarillo']
+
+[('naranja', 0.3064516129032258), ('árbol', 0.25806451612903225), ('agua', 0.25806451612903225), ('manzana', 0.2096774193548387), ('fresa', 0.2096774193548387), ('plátano', 0.2096774193548387), ('calabaza', 0.1935483870967742), ('jugo', 0.1935483870967742), ('durazno', 0.1935483870967742), ('huevo', 0.1935483870967742), ('refrigerador', 0.1774193548387097)]
+Definición: Mono
+['mono']
+
+[('ardilla', 0.2602739726027397), ('oso', 0.1917808219178082), ('pelo', 0.1643835616438356), ('árbol', 0.1506849315068493), ('animal', 0.1232876712328767), ('mariposa', 0.1095890410958904), ('bicicleta', 0.1095890410958904), ('juguete', 0.1095890410958904), ('araña', 0.1095890410958904), ('café', 0.1095890410958904), ('columpio', 0.1095890410958904)]
+Definición: Fruta con cáscara color amarilla, por dentro de un color más blanco y espeso. La comen los monos
+['mono', 'color', 'blanco', 'amarillo', 'fruto', 'cáscara', 'comer']
+
+[('niño', 0.21223021582733814), ('rojo', 0.1762589928057554), ('agua', 0.16187050359712232), ('azul', 0.15467625899280577), ('dulce', 0.1474820143884892), ('verde', 0.14388489208633093), ('animal', 0.14388489208633093), ('negro', 0.13309352517985612), ('bonito', 0.12589928057553956), ('feo', 0.1223021582733813), ('café', 0.1223021582733813)]
+Definición: Lo que comen los changos.
+['comer']
+
+[('dulce', 0.417910447761194), ('leche', 0.2835820895522388), ('fresa', 0.23880597014925373), ('naranja', 0.23880597014925373), ('pastel', 0.22388059701492538), ('carne', 0.22388059701492538), ('huevo', 0.22388059701492538), ('queso', 0.208955223880597), ('chocolate', 0.19402985074626866), ('pan', 0.19402985074626866), ('cocina', 0.1791044776119403)]
+Definición: Fruta amarilla que es conocida por se alimento de monos
+['mono', 'fruto', 'alimento', 'amarillo']
+
+[('animal', 0.1736111111111111), ('ardilla', 0.16666666666666666), ('árbol', 0.16666666666666666), ('feo', 0.15277777777777776), ('café', 0.14583333333333331), ('agua', 0.13194444444444445), ('naranja', 0.13194444444444445), ('oso', 0.13194444444444445), ('pan', 0.13194444444444445), ('huevo', 0.13194444444444445), ('leche', 0.125)]
+Concepto: Búho
+Definición: pajaro nocturno que caza ratones que tiene grandes ojos, que ulula y que usan para simbolizar la inteligencia y que no es la lechuza
+['ratón', 'inteligencia', 'nocturno', 'ojo', 'usar', 'cazar', 'grande']
+
+[('rojo', 0.18222222222222223), ('niño', 0.1688888888888889), ('bonito', 0.1688888888888889), ('animal', 0.16444444444444445), ('feo', 0.16), ('casa', 0.16), ('negro', 0.15555555555555556), ('verde', 0.15555555555555556), ('ardilla', 0.1511111111111111), ('comida', 0.1511111111111111), ('conejo', 0.14222222222222222)]
+Definición: Ave que voltea la cabeza
+['ave', 'cabeza']
+
+[('pájaro', 0.4074074074074074), ('pluma', 0.3333333333333333), ('gallina', 0.2962962962962963), ('pato', 0.2962962962962963), ('pollito', 0.25925925925925924), ('ganso', 0.25925925925925924), ('pingüino', 0.2222222222222222), ('huevo', 0.2222222222222222), ('pelo', 0.18518518518518517), ('guajolote', 0.14814814814814814), ('sombrero', 0.14814814814814814)]
+Definición: Animal, con alas, ojos bonitos, que se parece al logo de Sanborns
+['animal', 'bonito', 'ala', 'ojo']
+
+[('grande', 0.3357664233576642), ('lindo', 0.2408759124087591), ('negro', 0.1970802919708029), ('niño', 0.1970802919708029), ('pelo', 0.18248175182481752), ('color', 0.17518248175182483), ('perro', 0.17518248175182483), ('azul', 0.1678832116788321), ('gato', 0.1678832116788321), ('rojo', 0.1678832116788321), ('caballo', 0.16058394160583941)]
+Definición: ave de ojos grandes que simboliza inteligencia
+['grande', 'ave', 'inteligencia', 'ojo']
+
+[('rojo', 0.24705882352941178), ('casa', 0.21176470588235294), ('bonito', 0.20588235294117646), ('negro', 0.2), ('verde', 0.18823529411764706), ('azul', 0.1764705882352941), ('niño', 0.17058823529411765), ('color', 0.17058823529411765), ('café', 0.1588235294117647), ('pájaro', 0.12941176470588234), ('lente', 0.12352941176470589)]
+Definición: ave nocturna, refiere sabiduría
+['ave', 'nocturno', 'sabiduría']
+
+[('pájaro', 0.5), ('pato', 0.375), ('pluma', 0.375), ('gallina', 0.3333333333333333), ('ganso', 0.3333333333333333), ('pollito', 0.29166666666666663), ('niño', 0.25), ('libro', 0.25), ('huevo', 0.25), ('búho', 0.20833333333333331), ('escuela', 0.20833333333333331)]
+Concepto: Pie
+Definición: En el zapato
+['zapato']
+
+[('bota', 0.29268292682926833), ('pie', 0.2682926829268293), ('bolsa', 0.21951219512195122), ('falda', 0.21951219512195122), ('gorra', 0.1951219512195122), ('arete', 0.1951219512195122), ('vestido', 0.17073170731707318), ('negro', 0.15853658536585366), ('playera', 0.14634146341463417), ('pantalón', 0.14634146341463417), ('piedra', 0.13414634146341464)]
+Definición: Caminar
+['caminar']
+
+[('zapato', 0.5), ('pie', 0.4), ('piedra', 0.30000000000000004), ('bota', 0.30000000000000004), ('bolsa', 0.2), ('calle', 0.2), ('pájaro', 0.2), ('araña', 0.2), ('pato', 0.2), ('escalera', 0.1)]
+Definición: Parte del cuerpo con la que caminamos y podemos sentir el suelo
+['cuerpo', 'parte', 'suelo', 'caminar', 'poder']
+
+[('pie', 0.3055555555555555), ('mano', 0.2777777777777778), ('calle', 0.16666666666666666), ('zapato', 0.16666666666666666), ('camisa', 0.16666666666666666), ('piedra', 0.16666666666666666), ('bolsa', 0.1388888888888889), ('brazo', 0.1388888888888889), ('tierra', 0.1388888888888889), ('cara', 0.1388888888888889), ('dedo', 0.1388888888888889)]
+Definición: Lo que está al final de la pierna. Lo que te sostiene.
+['sostener', 'pierna']
+
+[('falda', 0.38888888888888884), ('pie', 0.3333333333333333), ('bota', 0.2777777777777778), ('pantalón', 0.2777777777777778), ('calzón', 0.2222222222222222), ('mesa', 0.2222222222222222), ('short', 0.2222222222222222), ('mano', 0.2222222222222222), ('brazo', 0.16666666666666666), ('patín', 0.16666666666666666), ('palo', 0.16666666666666666)]
+Definición: Extremidad inferior
+['extremidad', 'inferior']
+
+[('pie', 1.0), ('brazo', 0.8), ('mano', 0.8), ('dedo', 0.8)]
+Concepto: Galleta
+Definición: La tomas con leche, por lo regular son redondas
+['leche', 'redondo']
+
+[('comida', 0.2934782608695652), ('agua', 0.2826086956521739), ('pan', 0.2608695652173913), ('comer', 0.25), ('dulce', 0.2391304347826087), ('queso', 0.21739130434782608), ('chocolate', 0.20652173913043478), ('cereal', 0.19565217391304346), ('mantequilla', 0.18478260869565216), ('niño', 0.18478260869565216), ('hot_cakes', 0.18478260869565216)]
+Definición: Postre que se hornea y es planito y crujiente y puede tener chispas de chocolate
+['plano', 'chispa', 'poder', 'chocolate', 'hornear', 'postre', 'crujiente']
+
+[('dulce', 0.39560439560439564), ('comida', 0.3076923076923077), ('pastel', 0.27472527472527475), ('galleta', 0.27472527472527475), ('comer', 0.27472527472527475), ('leche', 0.2527472527472528), ('rico', 0.2417582417582418), ('pan', 0.23076923076923078), ('fresa', 0.2197802197802198), ('helado', 0.2197802197802198), ('hot_cakes', 0.19780219780219782)]
+Definición: hornear
+['hornear']
+
+[('horno', 1.0), ('papa', 1.0)]
+Definición: masa crujiente en forma redonda
+['forma', 'crujiente', 'masa', 'redondo']
+
+[('casa', 0.20588235294117646), ('pan', 0.20588235294117646), ('mesa', 0.1764705882352941), ('cuchara', 0.14705882352941177), ('hot_cakes', 0.14705882352941177), ('plato', 0.14705882352941177), ('cereal', 0.14705882352941177), ('plastilina', 0.11764705882352941), ('tierra', 0.11764705882352941), ('cara', 0.11764705882352941), ('huevo', 0.11764705882352941)]
+Definición: Polvorón
+[]
+
+[]
+Concepto: Taco
+Definición: Comida mexicana, tortilla
+['comida', 'tortilla', 'mexicano']
+
+[('dulce', 0.39285714285714285), ('leche', 0.26190476190476186), ('carne', 0.25), ('huevo', 0.25), ('queso', 0.23809523809523808), ('naranja', 0.22619047619047616), ('pan', 0.22619047619047616), ('fresa', 0.20238095238095238), ('pastel', 0.20238095238095238), ('cocina', 0.19047619047619047), ('taco', 0.17857142857142855)]
+Definición: Típico
+['típico']
+
+[('muñeco de nieve', 1.0)]
+Definición: Platillo gastronómico elaborado de tortilla y puede ser de diferentes tipo de carne, longaniza y otros ingredientes
+['longaniza', 'carne', 'diferente', 'tortilla', 'poder', 'ingrediente', 'platillo']
+
+[('comida', 0.29), ('comer', 0.22), ('queso', 0.2), ('huevo', 0.2), ('taco', 0.19), ('torta', 0.18), ('pescado', 0.17), ('salchicha', 0.17), ('pan', 0.17), ('alimento', 0.16), ('animal', 0.16)]
+Definición: Lo que haces rollito con la tortilla.
+['hacer', 'tortilla', 'rollo']
+
+[('queso', 0.4666666666666667), ('torta', 0.4), ('taco', 0.3333333333333333), ('pan', 0.3333333333333333), ('huevo', 0.3333333333333333), ('canasta', 0.26666666666666666), ('elote', 0.2), ('durazno', 0.13333333333333333), ('palo', 0.13333333333333333), ('plastilina', 0.06666666666666667), ('burbuja', 0.06666666666666667)]
+Definición: Todo lo que cabe en una tortilla
+['tortilla', 'caber']
+
+[('queso', 0.6363636363636364), ('torta', 0.5454545454545454), ('pan', 0.4545454545454546), ('huevo', 0.4545454545454546), ('taco', 0.36363636363636365), ('canasta', 0.36363636363636365), ('elote', 0.2727272727272727), ('durazno', 0.18181818181818182), ('cepillo', 0.09090909090909091), ('burro', 0.09090909090909091)]
+Concepto: payaso 
+Definición: Dicho de una persona: Que hace reír con sus dichos o gestos
+['persona', 'gesto', 'hacer', 'reír']
+
+[('niño', 0.425531914893617), ('casa', 0.23404255319148937), ('cara', 0.19148936170212766), ('calle', 0.1702127659574468), ('ojo', 0.1702127659574468), ('mono', 0.1276595744680851), ('boca', 0.1276595744680851), ('pelo', 0.1276595744680851), ('circo', 0.10638297872340426), ('ventana', 0.10638297872340426), ('playera', 0.10638297872340426)]
+Definición: Dicho de un artista: Ambulante y que debuta en las mojigangas enmascarado.
+['ambulante', 'artista']
+
+[('circo', 0.3333333333333333), ('color', 0.16666666666666666), ('borrego', 0.16666666666666666), ('radio', 0.16666666666666666), ('estrella', 0.16666666666666666)]
+Definición: Artista de circo, generalmente caracterizado de modo extravagante, que hace reír con su aspecto, actos, dichos y gestos.
+['gesto', 'acto', 'reír', 'circo', 'hacer', 'artista']
+
+[('niño', 0.26229508196721313), ('payaso', 0.18032786885245902), ('color', 0.18032786885245902), ('grande', 0.1639344262295082), ('globo', 0.14754098360655737), ('elefante', 0.14754098360655737), ('divertir', 0.14754098360655737), ('burbuja', 0.14754098360655737), ('animal', 0.13114754098360656), ('plastilina', 0.11475409836065574), ('mono', 0.11475409836065574)]
+Concepto: Gallina
+Definición: el animal que pone los huevos
+['animal', 'poner', 'huevo']
+
+[('comida', 0.2734375), ('blanco', 0.25), ('comer', 0.2421875), ('carne', 0.1875), ('rojo', 0.1875), ('gato', 0.1796875), ('pato', 0.171875), ('pan', 0.171875), ('conejo', 0.1640625), ('gallina', 0.15625), ('rico', 0.15625)]
+Definición: Animal que pone huevos.
+['animal', 'poner', 'huevo']
+
+[('comida', 0.2734375), ('blanco', 0.25), ('comer', 0.2421875), ('carne', 0.1875), ('rojo', 0.1875), ('gato', 0.1796875), ('pato', 0.171875), ('pan', 0.171875), ('conejo', 0.1640625), ('gallina', 0.15625), ('rico', 0.15625)]
+Definición: ave que pone huevos y cacarea
+['cacarear', 'ave', 'poner', 'huevo']
+
+[('blanco', 0.23958333333333331), ('comida', 0.22916666666666666), ('comer', 0.21875), ('pan', 0.20833333333333331), ('gallina', 0.17708333333333331), ('rojo', 0.17708333333333331), ('pato', 0.16666666666666666), ('rico', 0.16666666666666666), ('torta', 0.16666666666666666), ('mantequilla', 0.15625), ('queso', 0.14583333333333331)]
+Definición: ave que da huevos
+['dar', 'ave', 'huevo']
+
+[('comida', 0.2530120481927711), ('pan', 0.24096385542168675), ('comer', 0.21686746987951808), ('gallina', 0.20481927710843376), ('pato', 0.1927710843373494), ('blanco', 0.1927710843373494), ('torta', 0.18072289156626506), ('mantequilla', 0.18072289156626506), ('rico', 0.18072289156626506), ('queso', 0.16867469879518074), ('pollito', 0.1566265060240964)]
+Definición: ave que pone huevos
+['ave', 'poner', 'huevo']
+
+[('blanco', 0.24210526315789474), ('comida', 0.23157894736842105), ('comer', 0.22105263157894736), ('pan', 0.21052631578947367), ('gallina', 0.17894736842105263), ('rojo', 0.17894736842105263), ('pato', 0.16842105263157894), ('rico', 0.16842105263157894), ('torta', 0.16842105263157894), ('mantequilla', 0.15789473684210525), ('queso', 0.14736842105263157)]
+Concepto: Durazno
+Definición: fruta dulce con hueso no muy grande y con vellitos blancos
+['dulce', 'hueso', 'fruto', 'blanco', 'grande']
+
+[('comida', 0.26050420168067223), ('rojo', 0.2394957983193277), ('comer', 0.23529411764705882), ('agua', 0.20168067226890757), ('rico', 0.18907563025210083), ('niño', 0.18907563025210083), ('casa', 0.1722689075630252), ('color', 0.1680672268907563), ('fresa', 0.14285714285714285), ('chocolate', 0.13445378151260504), ('pastel', 0.13445378151260504)]
+Definición: Color como el melocotón pero más naranja
+['color', 'naranja', 'melocotón']
+
+[('dulce', 0.18902439024390244), ('fresa', 0.16463414634146342), ('manzana', 0.16463414634146342), ('niño', 0.16463414634146342), ('rojo', 0.1524390243902439), ('verde', 0.1524390243902439), ('agua', 0.14634146341463417), ('comida', 0.14634146341463417), ('azul', 0.1402439024390244), ('comer', 0.1402439024390244), ('durazno', 0.1402439024390244)]
+Definición: Fruta, suave, cáscara roja o amarilla, sabor dulce
+['dulce', 'suave', 'rojo', 'sabor', 'amarillo', 'cáscara']
+
+[('comida', 0.2717948717948718), ('comer', 0.23076923076923078), ('rico', 0.2205128205128205), ('niño', 0.21025641025641026), ('agua', 0.17435897435897435), ('color', 0.17435897435897435), ('fresa', 0.1641025641025641), ('naranja', 0.15384615384615385), ('rosa', 0.14871794871794872), ('pastel', 0.14358974358974358), ('chocolate', 0.14358974358974358)]
+Definición: fruta color naranja de sabor dulce y aterciopelada
+['dulce', 'color', 'sabor', 'fruto', 'naranja', 'aterciopelado']
+
+[('comida', 0.18072289156626503), ('comer', 0.15662650602409636), ('fresa', 0.14859437751004015), ('niño', 0.14859437751004015), ('manzana', 0.14457831325301204), ('rico', 0.14056224899598393), ('chocolate', 0.14056224899598393), ('rojo', 0.1365461847389558), ('agua', 0.1285140562248996), ('pastel', 0.11646586345381525), ('paleta', 0.11646586345381525)]
+Definición: fruto con semilla grande, aterciopelado
+['semilla', 'fruto', 'aterciopelado', 'grande']
+
+[('casa', 0.27049180327868855), ('agua', 0.2377049180327869), ('niño', 0.20491803278688525), ('naranja', 0.18032786885245902), ('árbol', 0.1721311475409836), ('tierra', 0.1639344262295082), ('perro', 0.13114754098360656), ('manzana', 0.11475409836065574), ('elefante', 0.11475409836065574), ('fresa', 0.11475409836065574), ('diente', 0.11475409836065574)]
+Concepto: Abrigo
+Definición: ropa como sueter que se usa para el frío pero más largo
+['largo', 'frío', 'ropa', 'usar']
+
+[('agua', 0.3), ('zapato', 0.17777777777777778), ('pantalón', 0.16666666666666669), ('camisa', 0.15555555555555556), ('refrigerador', 0.14444444444444446), ('falda', 0.13333333333333333), ('bufanda', 0.12222222222222223), ('hielo', 0.12222222222222223), ('short', 0.12222222222222223), ('mano', 0.12222222222222223), ('bota', 0.11111111111111112)]
+Definición: Lo que pones encima del sueter
+['poner']
+
+[('zapato', 0.4375), ('falda', 0.375), ('caja', 0.3125), ('gorra', 0.3125), ('camisa', 0.25), ('vestido', 0.25), ('short', 0.25), ('bota', 0.1875), ('sombrero', 0.1875), ('arete', 0.1875), ('suéter', 0.125)]
+Definición: Lo que usas para que ni te de frío
+['frío', 'usar']
+
+[('agua', 0.36363636363636365), ('hielo', 0.25), ('pantalón', 0.2272727272727273), ('bufanda', 0.20454545454545456), ('zapato', 0.20454545454545456), ('refrigerador', 0.20454545454545456), ('falda', 0.18181818181818182), ('pingüino', 0.18181818181818182), ('camisa', 0.1590909090909091), ('short', 0.1590909090909091), ('helado', 0.1590909090909091)]
+Definición: ropa que sirve para protegerse del frío
+['servir', 'proteger', 'ropa', 'frío']
+
+[('agua', 0.3424657534246575), ('pantalón', 0.1917808219178082), ('refrigerador', 0.1917808219178082), ('zapato', 0.1780821917808219), ('hielo', 0.1643835616438356), ('camisa', 0.1643835616438356), ('falda', 0.136986301369863), ('suéter', 0.136986301369863), ('bufanda', 0.136986301369863), ('short', 0.136986301369863), ('abrigo', 0.136986301369863)]
+Definición: vestido que te cubre cuando hay frío
+['cubrir', 'frío', 'vestir']
+
+[('agua', 0.3333333333333333), ('pantalón', 0.22807017543859648), ('hielo', 0.19298245614035087), ('bufanda', 0.19298245614035087), ('suéter', 0.17543859649122806), ('zapato', 0.17543859649122806), ('falda', 0.17543859649122806), ('playera', 0.15789473684210525), ('camisa', 0.15789473684210525), ('short', 0.15789473684210525), ('refrigerador', 0.15789473684210525)]
+Concepto: Playera
+Definición: Ropa deportiva
+['deportivo', 'ropa']
+
+[('pantalón', 0.37142857142857144), ('camisa', 0.3142857142857143), ('zapato', 0.2857142857142857), ('short', 0.2571428571428571), ('falda', 0.22857142857142856), ('playera', 0.22857142857142856), ('calzón', 0.22857142857142856), ('suéter', 0.19999999999999998), ('bufanda', 0.19999999999999998), ('dinero', 0.19999999999999998), ('abrigo', 0.17142857142857143)]
+Definición: Ropa
+['ropa']
+
+[('pantalón', 0.3939393939393939), ('camisa', 0.33333333333333337), ('zapato', 0.30303030303030304), ('falda', 0.24242424242424243), ('playera', 0.24242424242424243), ('calzón', 0.24242424242424243), ('short', 0.24242424242424243), ('suéter', 0.21212121212121213), ('bufanda', 0.21212121212121213), ('dinero', 0.21212121212121213), ('abrigo', 0.18181818181818182)]
+Definición: Prenda de vestir que usan tanto hombres como mujeres para cubrir la partes de arriba del cuerpo
+['hombre', 'mujer', 'cuerpo', 'parte', 'usar', 'cubrir', 'prendar', 'vestir']
+
+[('niño', 0.3382352941176471), ('calzón', 0.23529411764705882), ('pantalón', 0.22058823529411764), ('playera', 0.19117647058823528), ('camisa', 0.19117647058823528), ('falda', 0.19117647058823528), ('gorra', 0.1764705882352941), ('mano', 0.1764705882352941), ('zapato', 0.16176470588235295), ('vestido', 0.16176470588235295), ('pelo', 0.16176470588235295)]
+Definición: Prenda de vestir para la parte superior del cuerpo.
+['cuerpo', 'prendar', 'parte', 'vestir']
+
+[('pantalón', 0.36363636363636365), ('camisa', 0.33333333333333337), ('calzón', 0.30303030303030304), ('playera', 0.2727272727272727), ('falda', 0.2727272727272727), ('mano', 0.24242424242424243), ('zapato', 0.24242424242424243), ('pie', 0.21212121212121213), ('suéter', 0.21212121212121213), ('short', 0.21212121212121213), ('muñeca', 0.21212121212121213)]
+Concepto: Pan
+Definición: El alimento que no puede faltar en el desayuno y que engorda
+['engordar', 'desayuno', 'alimento', 'poder']
+
+[('leche', 0.3125), ('pan', 0.29166666666666663), ('queso', 0.2708333333333333), ('huevo', 0.2708333333333333), ('papa', 0.25), ('jugo', 0.22916666666666666), ('carne', 0.22916666666666666), ('taco', 0.20833333333333331), ('mantequilla', 0.20833333333333331), ('torta', 0.1875), ('cocina', 0.1875)]
+Definición: Esa comida esponjocita que se hace con harina y se hornea, y se puede comer con leche o café
+['comida', 'café', 'poder', 'harina', 'hornear', 'leche', 'hacer', 'comer']
+
+[('rico', 0.2573099415204678), ('dulce', 0.24561403508771928), ('agua', 0.23976608187134502), ('blanco', 0.2222222222222222), ('alimento', 0.2046783625730994), ('pan', 0.19298245614035087), ('queso', 0.1695906432748538), ('naranja', 0.1695906432748538), ('carne', 0.16374269005847952), ('amarillo', 0.16374269005847952), ('jugo', 0.15789473684210525)]
+Definición: cebada
+[]
+
+[]
+Definición: bolillo
+['bolillo']
+
+[('pan', 1.0), ('torta', 0.6666666666666666), ('mantequilla', 0.6666666666666666)]
+Definición: Concha
+['concha']
+
+[('pan', 1.0)]
+Concepto: Fresa
+Definición: fruta pequeña que es roja con un rabito verde, se hace mermelada con ella
+['rabo', 'verde', 'rojo', 'fruto', 'hacer', 'mermelada', 'pequeño']
+
+[('niño', 0.2907801418439716), ('agua', 0.2553191489361702), ('dulce', 0.24113475177304963), ('color', 0.21985815602836878), ('árbol', 0.1702127659574468), ('naranja', 0.15602836879432624), ('juguete', 0.14184397163120566), ('huevo', 0.1347517730496454), ('manzana', 0.1276595744680851), ('fresa', 0.1276595744680851), ('flor', 0.1276595744680851)]
+Definición: Una fruta roja se hace mermelada con ella.
+['mermelada', 'fruto', 'hacer', 'rojo']
+
+[('dulce', 0.3191489361702128), ('agua', 0.2765957446808511), ('color', 0.24468085106382978), ('naranja', 0.2127659574468085), ('fresa', 0.18085106382978722), ('manzana', 0.1595744680851064), ('jugo', 0.14893617021276595), ('árbol', 0.14893617021276595), ('durazno', 0.14893617021276595), ('flor', 0.13829787234042554), ('plátano', 0.13829787234042554)]
+Definición: única fruta que tiene sus semillas exteriores y es de color rojo, es pequeña y de sabor dulce.
+['dulce', 'color', 'semilla', 'rojo', 'único', 'fruto', 'exterior', 'pequeño', 'sabor']
+
+[('niño', 0.20817843866171004), ('comida', 0.1933085501858736), ('comer', 0.15613382899628253), ('verde', 0.1524163568773234), ('blanco', 0.1486988847583643), ('agua', 0.137546468401487), ('rico', 0.137546468401487), ('azul', 0.137546468401487), ('negro', 0.137546468401487), ('fresa', 0.13011152416356878), ('chocolate', 0.13011152416356878)]
+Definición: fruta dulce pequeña, roja
+['dulce', 'fruto', 'rojo', 'pequeño']
+
+[('comida', 0.2702702702702703), ('niño', 0.23243243243243245), ('comer', 0.21621621621621623), ('rico', 0.1891891891891892), ('fresa', 0.1837837837837838), ('agua', 0.17297297297297298), ('color', 0.16756756756756758), ('manzana', 0.15135135135135136), ('rosa', 0.15135135135135136), ('chocolate', 0.15135135135135136), ('naranja', 0.15135135135135136)]
+Definición: fruta roja chiquita con semillas
+['chiquito', 'fruto', 'rojo', 'semilla']
+
+[('dulce', 0.3020833333333333), ('agua', 0.26041666666666663), ('naranja', 0.22916666666666666), ('color', 0.22916666666666666), ('fresa', 0.17708333333333331), ('manzana', 0.16666666666666666), ('árbol', 0.14583333333333331), ('flor', 0.13541666666666666), ('plátano', 0.13541666666666666), ('jugo', 0.13541666666666666), ('sandía', 0.13541666666666666)]
+Concepto: Camisa
+Definición:  tipo de playera que se usa para eventos formales, ir a trabajar y tiene cuello y botones
+['ir', 'usar', 'formal', 'botón', 'playero', 'trabajar', 'cuello']
+
+[('ropa', 0.18691588785046728), ('camisa', 0.18691588785046728), ('pantalón', 0.17757009345794392), ('suéter', 0.14953271028037382), ('bufanda', 0.14018691588785046), ('playera', 0.14018691588785046), ('gorra', 0.1308411214953271), ('rojo', 0.1308411214953271), ('short', 0.1308411214953271), ('azul', 0.12149532710280372), ('negro', 0.12149532710280372)]
+Definición: Es una ropa que se usa para un evento formal, trabajo o estudio.
+['trabajo', 'formal', 'ropa', 'estudio', 'usar']
+
+[('camisa', 0.23333333333333334), ('pantalón', 0.21666666666666667), ('zapato', 0.18333333333333332), ('bolsa', 0.16666666666666666), ('dinero', 0.16666666666666666), ('mesa', 0.15), ('calzón', 0.15), ('falda', 0.13333333333333333), ('short', 0.13333333333333333), ('mueble', 0.13333333333333333), ('plancha', 0.13333333333333333)]
+Definición: prenda de vestir masculina que tiene botones al frente
+['botón', 'vestir', 'prender']
+
+[('pantalón', 0.21875), ('ropa', 0.16666666666666666), ('negro', 0.16666666666666666), ('suéter', 0.15625), ('camisa', 0.15625), ('falda', 0.15625), ('rojo', 0.15625), ('gorra', 0.14583333333333331), ('playera', 0.14583333333333331), ('zapato', 0.14583333333333331), ('short', 0.14583333333333331)]
+Definición: vestimenta formal para hombres
+['formal', 'vestimenta', 'hombre']
+
+[('niño', 0.42857142857142855), ('pantalón', 0.3214285714285714), ('playera', 0.2857142857142857), ('camisa', 0.2857142857142857), ('calzón', 0.25), ('falda', 0.21428571428571427), ('perro', 0.21428571428571427), ('pelo', 0.21428571428571427), ('gorra', 0.17857142857142855), ('mono', 0.14285714285714285), ('bota', 0.14285714285714285)]
+Definición: Es una prende vestir que tiene mangas y cuello
+['vestir', 'cuello', 'manga', 'prender']
+
+[('pantalón', 0.4), ('playera', 0.3333333333333333), ('camisa', 0.3333333333333333), ('falda', 0.26666666666666666), ('zapato', 0.23333333333333334), ('suéter', 0.23333333333333334), ('calzón', 0.23333333333333334), ('short', 0.23333333333333334), ('gorra', 0.2), ('bufanda', 0.2), ('muñeca', 0.16666666666666666)]
+Concepto: Helado
+Definición: Napolitano, frío, cono
+['napolitano', 'cono', 'frío']
+
+[('agua', 0.38636363636363635), ('hielo', 0.2727272727272727), ('refrigerador', 0.2272727272727273), ('helado', 0.20454545454545456), ('bufanda', 0.18181818181818182), ('pingüino', 0.18181818181818182), ('pantalón', 0.18181818181818182), ('jugo', 0.1590909090909091), ('foca', 0.13636363636363635), ('suéter', 0.13636363636363635), ('short', 0.13636363636363635)]
+Definición: Frío
+['frío']
+
+[('agua', 0.41025641025641024), ('hielo', 0.28205128205128205), ('refrigerador', 0.23076923076923075), ('pingüino', 0.20512820512820512), ('bufanda', 0.20512820512820512), ('pantalón', 0.20512820512820512), ('helado', 0.1794871794871795), ('muñeco de nieve', 0.15384615384615385), ('foca', 0.15384615384615385), ('abrigo', 0.15384615384615385), ('suéter', 0.15384615384615385)]
+Definición: Postre formado por un cono de galleta y bolas de una mezcla fría de diferentes sabores
+['diferente', 'cono', 'mezcla', 'galleta', 'sabor', 'formar', 'postre', 'bola', 'frío']
+
+[('dulce', 0.32), ('comida', 0.296), ('comer', 0.256), ('rico', 0.256), ('pan', 0.232), ('helado', 0.224), ('agua', 0.224), ('leche', 0.216), ('pastel', 0.216), ('chocolate', 0.20800000000000002), ('fresa', 0.184)]
+Definición: Postre. El del conito.
+['cono', 'postre']
+
+[('dulce', 0.6363636363636364), ('fresa', 0.5), ('pastel', 0.4545454545454546), ('gelatina', 0.3181818181818182), ('durazno', 0.3181818181818182), ('paleta', 0.2727272727272727), ('plátano', 0.2727272727272727), ('manzana', 0.2727272727272727), ('galleta', 0.2727272727272727), ('helado', 0.2727272727272727), ('sandía', 0.2272727272727273)]
+Definición: Alimento dulce, postre frío..
+['dulce', 'postre', 'alimento', 'frío']
+
+[('comida', 0.33766233766233766), ('comer', 0.29870129870129875), ('rico', 0.27922077922077926), ('fresa', 0.2077922077922078), ('agua', 0.19480519480519481), ('pastel', 0.19480519480519481), ('chocolate', 0.19480519480519481), ('helado', 0.18831168831168832), ('rojo', 0.18831168831168832), ('leche', 0.18181818181818182), ('gelatina', 0.17532467532467533)]
+Concepto: Radio
+Definición: Escuchas música en el carro
+['música', 'carro']
+
+[('niño', 0.40625), ('camión', 0.25), ('autobús', 0.21875), ('calle', 0.21875), ('moto', 0.1875), ('tren', 0.15625), ('puerta', 0.15625), ('cocina', 0.15625), ('familia', 0.15625), ('lavabo', 0.125), ('dinero', 0.125)]
+Definición: Programa
+['programa']
+
+[('televisión', 0.6666666666666666), ('computador', 0.6666666666666666), ('cuchillo', 0.3333333333333333)]
+Definición: Aparato electrónico en el que se puede escuchar música y sintonizar diferentes frecuencias
+['música', 'frecuencia', 'electrónico', 'aparato', 'poder', 'diferente', 'escuchar']
+
+[('radio', 0.25), ('televisión', 0.21428571428571427), ('color', 0.17857142857142855), ('león', 0.10714285714285714), ('circo', 0.10714285714285714), ('computador', 0.10714285714285714), ('elefante', 0.10714285714285714), ('timbre', 0.10714285714285714), ('puerta', 0.10714285714285714), ('cámara', 0.07142857142857142), ('dinero', 0.07142857142857142)]
+Definición: El aparato donde escuchas música. Donde sintonizas estaciones.
+['música', 'escuchar', 'aparato', 'estación']
+
+[('radio', 0.3157894736842105), ('televisión', 0.2631578947368421), ('timbre', 0.15789473684210525), ('computador', 0.15789473684210525), ('puerta', 0.15789473684210525), ('elefante', 0.10526315789473684), ('cámara', 0.10526315789473684), ('circo', 0.10526315789473684), ('tambor', 0.05263157894736842), ('planta', 0.05263157894736842), ('burbuja', 0.05263157894736842)]
+Definición: Electrónico que sirve para escuchar programas y música.
+['música', 'electrónico', 'escuchar', 'servir', 'programa']
+
+[('vaso', 0.25), ('radio', 0.25), ('computador', 0.20833333333333331), ('cocina', 0.20833333333333331), ('televisión', 0.16666666666666666), ('timbre', 0.16666666666666666), ('puerta', 0.16666666666666666), ('plato', 0.16666666666666666), ('botón', 0.125), ('circo', 0.08333333333333333), ('leche', 0.08333333333333333)]
+Concepto: Abeja
+Definición: insecto volador rayado que produce miel
+['volador', 'miel', 'insecto']
+
+[('dulce', 0.3333333333333333), ('fresa', 0.19047619047619047), ('abeja', 0.19047619047619047), ('mariposa', 0.14285714285714285), ('cuchara', 0.14285714285714285), ('manzana', 0.14285714285714285), ('hot_cakes', 0.14285714285714285), ('cacahuate', 0.14285714285714285), ('luna', 0.09523809523809523), ('cuna', 0.09523809523809523), ('palomita', 0.09523809523809523)]
+Definición: Obreras pequeñitas
+['obrero', 'pequeño']
+
+[('niño', 0.4666666666666667), ('bebé', 0.36666666666666664), ('muñeca', 0.26666666666666666), ('juguete', 0.23333333333333334), ('mano', 0.2), ('conejo', 0.2), ('perro', 0.16666666666666666), ('pie', 0.16666666666666666), ('ratón', 0.13333333333333333), ('pájaro', 0.13333333333333333), ('triciclo', 0.13333333333333333)]
+Definición: Insecto que pica, Los que hacen la miel
+['miel', 'insecto', 'hacer']
+
+[('dulce', 0.30000000000000004), ('abeja', 0.25), ('fresa', 0.2), ('hot_cakes', 0.15000000000000002), ('manzana', 0.15000000000000002), ('cuchara', 0.15000000000000002), ('plastilina', 0.1), ('mariposa', 0.1), ('cuna', 0.1), ('jabón', 0.1), ('burbuja', 0.1)]
+Definición: animal que produce miel
+['miel', 'animal']
+
+[('gato', 0.29508196721311475), ('perro', 0.27868852459016397), ('león', 0.26229508196721313), ('oso', 0.24590163934426232), ('conejo', 0.22950819672131148), ('lobo', 0.22950819672131148), ('elefante', 0.21311475409836067), ('carne', 0.21311475409836067), ('ardilla', 0.21311475409836067), ('cochino', 0.21311475409836067), ('pato', 0.21311475409836067)]
+Definición: insecto volador amarillo y negro
+['volador', 'insecto', 'negro', 'amarillo']
+
+[('color', 0.21212121212121213), ('naranja', 0.18181818181818182), ('gato', 0.16161616161616163), ('perro', 0.16161616161616163), ('pelo', 0.15151515151515152), ('huevo', 0.14141414141414144), ('casa', 0.14141414141414144), ('reja', 0.13131313131313133), ('diente', 0.13131313131313133), ('pluma', 0.13131313131313133), ('pájaro', 0.13131313131313133)]
+Concepto: Borrego
+Definición: animal de granja con lana y que usan para la barbacoa
+['animal', 'barbacoa', 'granja', 'lana', 'usar']
+
+[('gato', 0.2571428571428571), ('perro', 0.2571428571428571), ('león', 0.22857142857142856), ('pato', 0.22857142857142856), ('conejo', 0.22857142857142856), ('oso', 0.21428571428571427), ('huevo', 0.21428571428571427), ('borrego', 0.19999999999999998), ('carne', 0.19999999999999998), ('cochino', 0.19999999999999998), ('cocodrilo', 0.18571428571428572)]
+Definición: Animal con lana que no es alpaca
+['animal', 'lana']
+
+[('gato', 0.32727272727272727), ('león', 0.2909090909090909), ('perro', 0.2909090909090909), ('oso', 0.2727272727272727), ('pato', 0.2545454545454545), ('carne', 0.23636363636363636), ('cochino', 0.23636363636363636), ('pelo', 0.23636363636363636), ('conejo', 0.23636363636363636), ('elefante', 0.21818181818181817), ('ardilla', 0.21818181818181817)]
+Definición: Animal acolchonado blanco
+['acolchonar', 'animal', 'blanco']
+
+[('gato', 0.1743119266055046), ('conejo', 0.1743119266055046), ('huevo', 0.1743119266055046), ('color', 0.1743119266055046), ('perro', 0.1743119266055046), ('león', 0.1559633027522936), ('pájaro', 0.14678899082568808), ('pato', 0.14678899082568808), ('pelo', 0.14678899082568808), ('cocodrilo', 0.13761467889908258), ('elefante', 0.13761467889908258)]
+Definición: animal que produce lana
+['animal', 'lana']
+
+[('gato', 0.32727272727272727), ('león', 0.2909090909090909), ('perro', 0.2909090909090909), ('oso', 0.2727272727272727), ('pato', 0.2545454545454545), ('carne', 0.23636363636363636), ('cochino', 0.23636363636363636), ('pelo', 0.23636363636363636), ('conejo', 0.23636363636363636), ('elefante', 0.21818181818181817), ('ardilla', 0.21818181818181817)]
+Definición: animal de un ganado que produce lana
+['animal', 'lana']
+
+[('gato', 0.32727272727272727), ('león', 0.2909090909090909), ('perro', 0.2909090909090909), ('oso', 0.2727272727272727), ('pato', 0.2545454545454545), ('carne', 0.23636363636363636), ('cochino', 0.23636363636363636), ('pelo', 0.23636363636363636), ('conejo', 0.23636363636363636), ('elefante', 0.21818181818181817), ('ardilla', 0.21818181818181817)]
+Concepto: Rana
+Definición: es verde y húmedo, brinca y es un tipo de anfibio
+['brincar', 'verde', 'húmedo', 'anfibio']
+
+[('agua', 0.34328358208955223), ('árbol', 0.26865671641791045), ('color', 0.23880597014925373), ('naranja', 0.22388059701492538), ('tierra', 0.14925373134328357), ('zanahoria', 0.14925373134328357), ('manzana', 0.14925373134328357), ('flor', 0.14925373134328357), ('planta', 0.13432835820895522), ('ejote', 0.13432835820895522), ('rana', 0.13432835820895522)]
+Definición: Es un anfibio que salta muy alto. Es verde y vive en lugares húmedos.
+['verde', 'anfibio', 'lugar', 'vivir', 'saltar', 'alto', 'húmedo']
+
+[('agua', 0.2717391304347826), ('casa', 0.2608695652173913), ('árbol', 0.22826086956521738), ('color', 0.20652173913043478), ('naranja', 0.18478260869565216), ('tierra', 0.11956521739130435), ('planta', 0.11956521739130435), ('flor', 0.11956521739130435), ('calle', 0.11956521739130435), ('manzana', 0.10869565217391304), ('zanahoria', 0.10869565217391304)]
+Definición: anfibio de color verde que salta y croa
+['color', 'croar', 'verde', 'anfibio', 'saltar']
+
+[('rojo', 0.2229299363057325), ('niño', 0.20382165605095542), ('agua', 0.1910828025477707), ('azul', 0.1910828025477707), ('dulce', 0.15923566878980894), ('blanco', 0.15923566878980894), ('árbol', 0.1464968152866242), ('flor', 0.1337579617834395), ('naranja', 0.12738853503184713), ('plumón', 0.12101910828025478), ('crayola', 0.12101910828025478)]
+Definición: anfibio que salta
+['saltar', 'anfibio']
+
+[('rana', 0.42857142857142855), ('cocodrilo', 0.2857142857142857), ('ventana', 0.14285714285714285), ('conejo', 0.14285714285714285), ('palomita', 0.14285714285714285), ('reja', 0.14285714285714285)]
+Definición: animalito que vive en el agua, es verde y hace croac
+['animal', 'agua', 'vivir', 'verde', 'hacer', 'croar_c']
+
+[('azul', 0.17277486910994766), ('jugo', 0.16230366492146597), ('color', 0.15706806282722513), ('dulce', 0.15183246073298431), ('sucio', 0.15183246073298431), ('árbol', 0.14659685863874347), ('naranja', 0.14136125654450263), ('leche', 0.12565445026178013), ('frío', 0.12565445026178013), ('casa', 0.12565445026178013), ('pelo', 0.12565445026178013)]
+
